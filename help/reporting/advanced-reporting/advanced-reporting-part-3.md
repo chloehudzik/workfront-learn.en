@@ -6,7 +6,7 @@ feature: Reports and Dashboards
 thumbnail: 3409632.png
 type: Tutorial
 role: User
-level: Advanced
+level: Intermediate
 team: Technical Marketing
 kt: 11202
 ---
