@@ -207,6 +207,12 @@ feature-set: Workfront
     + [Understand built-in project filters](reporting/intermediate-reporting/open-built-in-project-filters.md)
     + [Understand built-in task filters](reporting/intermediate-reporting/open-built-in-task-filters.md)  
 
+  + Advanced reporting {#advanced-reporting}
+    + [Welcome to advanced reporting](reporting/advanced-reporting/welcome-to-advanced-reporting.md)
+    + [Advanced reporting part 1](reporting/advanced-reporting/advanced-reporting-part-1.md)
+    + [Advanced reporting part 2](reporting/advanced-reporting/advanced-reporting-part-2.md)
+    + [Advanced reporting part 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
+
   + Enhanced Analytics {#enhanced-analytics}
     + [Get started with [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
     + [Add [!UICONTROL analytics] to layout templates](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
