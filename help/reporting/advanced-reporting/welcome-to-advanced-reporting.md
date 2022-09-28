@@ -16,7 +16,7 @@ Learn how to use the [[!UICONTROL API Explorer]](https://developer.adobe.com/wor
 
 Three tutorials make up Advanced reporting. They are Advanced reporting parts 1, 2, and 3. Together they comprise 5 hours and 33 minutes of training.
 
-In addition to the videos you will want to download the [Advanced reporting manual](reporting/advanced-reporting/assets/advanced-reporting-manual.pdf) for reference and exercises.
+In addition to the videos you will want to download the [Advanced reporting manual](/help/assets/advanced-reporting-manual.pdf) for reference and exercises.
 
 **Advanced reporting part 1** contains a review of report creation, an introduction to [!UICONTROL API explorer] and text mode, and an in depth study of text mode filters. 
 

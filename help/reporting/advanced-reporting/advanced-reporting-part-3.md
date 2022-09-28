@@ -24,4 +24,4 @@ In this video, you will learn:
 
 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
-[Advanced reporting manual](reporting/advanced-reporting/assets/advanced-reporting-manual.pdf)
+[Advanced reporting manual](/help/assets/advanced-reporting-manual.pdf)
