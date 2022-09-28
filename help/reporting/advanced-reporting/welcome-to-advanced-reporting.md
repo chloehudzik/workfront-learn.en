@@ -9,7 +9,6 @@ role: User
 level: Advanced
 team: Technical Marketing
 kt: 11198
-exl-id: 
 ---
 # Welcome to advanced reporting
 
