@@ -6,7 +6,7 @@ feature: Reports and Dashboards
 thumbnail: 3409632.png
 type: Tutorial
 role: User
-level: Intermediate
+level: Experienced
 team: Technical Marketing
 kt: 11198
 ---
@@ -32,7 +32,7 @@ Before watching these tutorials you should have a:
 * Good understanding of the objects you want to include in reports.
 * Good understanding of using custom forms, especially calculated custom fields.
 * A [!UICONTROL Plan] license type with rights to create reports and filters enabled.
-* You should have taken the [!UICONTROL Basic Reporting Elements] course, the [!UICONTROL Create custom reports and dashboards] course and all the intermediate reporting courses.
+* You should have taken the [[!UICONTROL Basic Reporting Elements]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html) course, the [[!UICONTROL Create custom reports and dashboards]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html) course and the [[!UICONTROL Create intermediate filters]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html) course.
 
 ## Target audience
 
