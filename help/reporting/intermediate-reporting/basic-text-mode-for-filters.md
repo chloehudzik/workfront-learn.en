@@ -9,6 +9,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 9086
+last-substantial-update tag: 2022-09-29
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 ---
 # Understand basic text mode for filters
