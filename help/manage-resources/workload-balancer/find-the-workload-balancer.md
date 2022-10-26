@@ -32,10 +32,10 @@ Two sections appear in the [!DNL Workload Balancer]: Assigned Work and Unassigne
 
 The Assigned Work area shows a list of users and the work they’ve already been assigned to within Workfront. By default, this area is filtered to users who are part of the Workfront teams you belong to. This way you can see what team members have been assigned to work on.
 
-![assigned area users](assets/Find_4.png)
+![assigned area users](assets/Find_04.png)
 
 The Unassigned Work area shows work that still needs to be assigned, whether to a person, job role, or team. However, initially, this area won’t show anything. 
 
-![unassigned work area](assets/Find_5.png)
+![unassigned work area](assets/Find_05.png)
 
 By starting with the Unassigned Work area blank, you have the opportunity to first focus on the current workloads of your users, in the Assigned Work area, before making assignments.
