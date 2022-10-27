@@ -9,7 +9,6 @@ activity: use
 team: Technical Marketing
 thumbnail: 339959.png
 kt: 9506
-last-substantial-update tag: 2022-10-13
 exl-id: f569e8a7-f26d-4a11-b602-e51cdfe97350
 ---
 # Use the Calculation Editor

@@ -9,7 +9,6 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 9086
-last-substantial-update tag: 2022-09-29
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 ---
 # Understand basic text mode for filters
@@ -32,12 +31,53 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
+## Additional plug and play text mode filters
+
+### Task - Show me all tasks awaiting my approval
+
+```
+approvalProcessID_Mod=notblank
+currentUserApproversMM:ID=$$USER.ID
+currentUserApproversMM:ID_Mod=in
+currentUserApproversMM_Join=allowingnull
+```
+
+### Task - Show me all tasks I have approved
+
+Create a task report with whatever filters you want, then go to the Filter tab and click on Switch to Text Mode. Add this code to whatever is already there:
+
+```
+approvalProcessID_Mod=notblank
+approverStatuses:approvedByID=$$USER.ID
+approverStatuses:approvedByID_Mod=in
+```
+
+### Task - Show me all tasks that have at least one cross project predecessor
+
+```
+predecessorsMM:ID_Mod=notblank
+predecessorsMM:projectID=FIELD:projectID
+predecessorsMM:projectID_Mod=ne
+```
+
+### Task - Show me all tasks I assigned to others
+
+Create a task report with whatever filters you want, then go to the Filter tab and click on Switch to Text Mode. Add this code to whatever is already there:
+
+```
+EXISTS:1:$$OBJCODE=ASSGN
+EXISTS:1:taskID=FIELD:ID
+EXISTS:1:assignedByID=$$USER.ID
+```
+
+This will show you all tasks where the logged in user assigned at least one of the current assignees. If assignees were assigned by multiple people only the name of the first person who assigned someone will appear as "Requested By" on the task landing page.
+
 ## Activity: Text mode questions
 
 1. How would you write the camel case for the field titled “Entered By ID”? 
 1. In an Issue report, create a filter to show issues that have been marked as closed but are pending approval. 
 
-## Answers 
+### Answers 
 
 1. The camel case for the field “Entered By ID” should be written like this—enteredByID 
 1. The text mode should look like this in the issue report filter: 
