@@ -569,6 +569,7 @@ feature-set: Workfront
     + [Add and manage team members for a board](boards/add-and-manage-team-members-for-a-board.md)
     + [Add cards to a board](boards/add-cards-to-a-board.md)
     + [Find and create a basic board](boards/find-and-create-a-basic-board.md)
+    + [Find and search in a board](boards/find-and-search-in-a-board.md)
     + [Manage board columns](boards/manage-board-columns.md)
     + [Manage cards on a board](boards/manage-cards-on-a-board.md)
 
