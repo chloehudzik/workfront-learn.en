@@ -171,7 +171,7 @@ valueformat=HTML
 width=150
 ```
 
-![A screen image showing the User lists view](assets/user-lists-view.png)
+![A screen image showing the User lists view](assets/user-lists-view-large.png)
 
 ## Task - How to display task assignments and working on status
 

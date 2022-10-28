@@ -13,6 +13,14 @@ exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 ---
 # Understand basic text mode for filters
 
+>[!IMPORTANT]
+>
+>Prerequisites:
+>
+>* Understand reporting elements
+>* Understand reporting components
+>* Create a basic filter
+
 In this video, you will learn:
 
 * What text mode is 
