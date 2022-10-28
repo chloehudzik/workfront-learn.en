@@ -12,6 +12,7 @@ kt: 11367
 ---
 # Understand basic text mode for views
 
+
 >[!IMPORTANT]
 >
 >Prerequisites:

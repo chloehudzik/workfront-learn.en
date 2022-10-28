@@ -10,6 +10,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 11369
 ---
+
 # Understand basic text mode for groupings
 
 >[!IMPORTANT]
