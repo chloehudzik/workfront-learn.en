@@ -45,4 +45,4 @@ Use the Set Variable module to send a number through multiple paths to see how f
 
 If you add one more path with an Increment function tool module, but set no filter, what will happen when you click Run once again? Will a bundle ever go down the fallback route with the fourth route added?  
 
-   + No, because with no filter set, every bundle will always go down this path instead of the fallback route.
++ No, because with no filter set, every bundle will always go down this path instead of the fallback route.

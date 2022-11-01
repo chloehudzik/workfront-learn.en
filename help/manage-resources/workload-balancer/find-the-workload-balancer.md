@@ -20,9 +20,12 @@ Its purpose is to give you greater insight into and management of the daily and 
 ![resourcing main menu option](assets/Find_01.png)
 
 * Click [!UICONTROL Resourcing] in the [!UICONTROL Main Menu].
-* Go to the [!UICONTROL Workload Balancer] section in the Resource Management area.
+* Go to the [!UICONTROL Scheduling] section in the Resource Management area.
+* Click the [!UICONTROL “Switch to Workload Balancer”] link.
 
-![workload balancer section](assets/Find_02.png)
+![switch to workload balancer](assets/Find_02.png)
+
+The [!DNL Workload Balancer] is the default option when going to the Resource Management area of the Workfront tool.
 
 ## Areas within the Workload Balancer
 
@@ -32,10 +35,10 @@ Two sections appear in the [!DNL Workload Balancer]: Assigned Work and Unassigne
 
 The Assigned Work area shows a list of users and the work they’ve already been assigned to within Workfront. By default, this area is filtered to users who are part of the Workfront teams you belong to. This way you can see what team members have been assigned to work on.
 
-![assigned area users](assets/Find_04.png)
+![assigned area users](assets/Find_03b.png)
 
 The Unassigned Work area shows work that still needs to be assigned, whether to a person, job role, or team. However, initially, this area won’t show anything. 
 
-![unassigned work area](assets/Find_05.png)
+![unassigned work area](assets/Find_03c.png)
 
 By starting with the Unassigned Work area blank, you have the opportunity to first focus on the current workloads of your users, in the Assigned Work area, before making assignments.

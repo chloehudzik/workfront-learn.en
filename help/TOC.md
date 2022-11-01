@@ -86,41 +86,41 @@ feature-set: Workfront
 
 + Manage work {#manage-work}
   + Projects {#projects}
-    + [Understand basic project creation](manage-work/projects/understand-basic-project-creation.md)
-    + [Understand other ways to create projects](manage-work/projects/understand-other-ways-to-create-projects.md)
-    + [Find projects](manage-work/projects/find-projects.md)
-    + [Share a project](manage-work/projects/share-a-project.md)
-    + [Navigate the project page](manage-work/projects/navigate-the-project-page.md)
-    + [Get started planning a project](manage-work/projects/getting-started-plan-a-project.md)
+    + [Change the project status](manage-work/projects/change-the-project-status.md)
     + [Fill in the project details](manage-work/projects/fill-in-the-project-details.md)
-    + [Take a project live](manage-work/projects/take-a-project-live.md)
+    + [Find projects](manage-work/projects/find-projects.md)
     + [Get started managing a project](manage-work/projects/getting-started-manage-a-project.md)
+    + [Get started planning a project](manage-work/projects/getting-started-plan-a-project.md)
+    + [Navigate the project page](manage-work/projects/navigate-the-project-page.md)
+    + [Share a project](manage-work/projects/share-a-project.md)
+    + [Take a project live](manage-work/projects/take-a-project-live.md)
     + [Track overall project progress](manage-work/projects/track-overall-project-progress.md)
     + [Track work progress with project metrics](manage-work/projects/track-work-progress-with-project-metrics.md)
+    + [Understand basic project creation](manage-work/projects/understand-basic-project-creation.md)
+    + [Understand other ways to create projects](manage-work/projects/understand-other-ways-to-create-projects.md)
     + [Understand project communication](manage-work/projects/understand-project-communication.md)
     + [Understand the [!UICONTROL Gantt] view](manage-work/projects/understand-the-gantt-view.md)
     + [View project information](manage-work/projects/view-project-information.md) 
-    + [Change the project status](manage-work/projects/change-the-project-status.md)
      
   + Tasks {#tasks}
+    + [Assign tasks from the project plan](manage-work/tasks/assign-tasks-from-the-project-plan.md)
     + [How to create tasks](manage-work/tasks/how-to-create-tasks.md)
     + [Learn to sequence tasks](manage-work/tasks/learn-to-sequence-tasks.md)
     + [Understand [!UICONTROL Work Effort]](manage-work/tasks/understand-work-effort.md)
     + [Understand parent-child tasks](manage-work/tasks/understand-parent-child-tasks.md)
     + [Understand planned hours](manage-work/tasks/understand-planned-hours.md)
     + [Understand task durations](manage-work/tasks/understand-task-durations.md)
-    + [Assign tasks from the project plan](manage-work/tasks/assign-tasks-from-the-project-plan.md)
     + [Work with tasks](manage-work/tasks/work-with-tasks.md)
     
   + Issues/requests {#issues-requests}
+    + [Convert issues to other work items](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+    + [Create a project from a request](manage-work/issues-requests/create-a-project-from-a-request.md)
+    + [Find requests](manage-work/issues-requests/find-requests.md)
     + [Handle Unplanned Work](manage-work/issues-requests/handle-unplanned-work.md)
     + [Make a request](manage-work/issues-requests/make-a-request.md)
-    + [Find requests](manage-work/issues-requests/find-requests.md)
     + [Manage requests](manage-work/issues-requests/manage-incoming-requests.md)
-    + [Update a request](manage-work/issues-requests/update-a-request.md)
-    + [Create a project from a request](manage-work/issues-requests/create-a-project-from-a-request.md)
-    + [Convert issues to other work items](manage-work/issues-requests/convert-issues-to-other-work-items.md)
     + [Review digital work](manage-work/issues-requests/review-and-approve-digital-work.md)
+    + [Update a request](manage-work/issues-requests/update-a-request.md)
     + [Manage issue assignments](manage-work/issues-requests/manage-issue-assignments.md)
     + [Report on issues](manage-work/issues-requests/report-on-issues.md)
 
@@ -156,23 +156,23 @@ feature-set: Workfront
     + [Understand project timelines](manage-work/project-timelines/understand-project-timelines.md)
 
   + Close a project {#close-a-project}
+    + [Close a project](manage-work/close-a-project/close-a-project-in-workfront.md)
     + [Close tasks and issues](manage-work/close-a-project/close-tasks-and-issues.md)
     + [Complete approvals](manage-work/close-a-project/complete-approvals.md)
     + [Record lessons learned](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
     + [Log and review hours](manage-work/close-a-project/log-and-review-hours.md)
     + [Upload assets](manage-work/close-a-project/upload-assets.md)
-    + [Close a project](manage-work/close-a-project/close-a-project-in-workfront.md)
     + [Close a project activity](manage-work/close-a-project/close-a-project-activity.md)
 
   + Project finances {#project-finances}
-    + [Understand performance metrics](manage-work/project-finances/understand-performance-metrics.md)
-    + [Set up task revenue & cost defaults](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+    + [Find financial information](manage-work/project-finances/find-financial-information.md)
     + [Set up exchange rates](manage-work/project-finances/set-up-exchange-rates.md)
     + [Set up expense types](manage-work/project-finances/set-up-expense-types.md)
+    + [Set up task revenue & cost defaults](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
     + [Understand financial access](manage-work/project-finances/understand-financial-access.md)
-    + [Update and review finances](manage-work/project-finances/update-and-review-finances.md)
-    + [Find financial information](manage-work/project-finances/find-financial-information.md)
     + [Understand multiple billing rates](manage-work/project-finances/multiple-billing-rates.md)
+    + [Understand performance metrics](manage-work/project-finances/understand-performance-metrics.md)
+    + [Update and review finances](manage-work/project-finances/update-and-review-finances.md)
 
 
 
@@ -205,6 +205,8 @@ feature-set: Workfront
     + [Understand built-in task filters](reporting/intermediate-reporting/open-built-in-task-filters.md)  
     + [Understand built-in issue filters](reporting/intermediate-reporting/open-built-in-issue-filters.md)
     + [Understand basic text mode for filters](reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+    + [Understand basic text mode for views](reporting/intermediate-reporting/basic-text-mode-for-views.md)
+    + [Understand basic text mode for groupings](reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
     + [Create custom prompts](reporting/intermediate-reporting/custom-prompts.md)
 
   + Advanced reporting {#advanced-reporting}
@@ -569,7 +571,6 @@ feature-set: Workfront
     + [Add and manage team members for a board](boards/add-and-manage-team-members-for-a-board.md)
     + [Add cards to a board](boards/add-cards-to-a-board.md)
     + [Find and create a basic board](boards/find-and-create-a-basic-board.md)
-    + [Find and search in a board](boards/find-and-search-in-a-board.md)
     + [Manage board columns](boards/manage-board-columns.md)
     + [Manage cards on a board](boards/manage-cards-on-a-board.md)
 
