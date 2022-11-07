@@ -1,6 +1,6 @@
 ---
 title: Advanced aggregation
-description: Understand how to use groupings when aggregating. (Should be between 60 and 160 characters, but is 49 characters)
+description: Call a web service to return details about multiple countries and identify population, grouped by sub-region.
 feature: Workfront Fusion
 role: User
 level: Beginner
@@ -26,7 +26,7 @@ Call a web service to return details about multiple countries and identify the t
 
    1. Create a new scenario and name it "Advanced aggregation."
    1. Set the trigger module to an HTTP - Make a request module.
-   1. Use this URL, https://restcountries.eu/rest/v2/ lang/es, which gives you a list of all countries where Spanish is spoken.
+   1. Use this URL, https://restcountries.com/v2/lang/es, which gives you a list of all countries where Spanish is spoken.
    1. Leave the Method as Get.
    1. Click the Parse response checkbox.
    1. Rename this module "Get Countries."
@@ -38,10 +38,10 @@ Call a web service to return details about multiple countries and identify the t
 
       **You need to gather subregion information for each of the countries, so you'll need to make an additional HTTP request.**
 
-1. Add another request to get subregion information. It will only return the first country, but that's OK for now. Add another HTTP Make a request module and use the URL https://restcountries.eu/rest/v2/name/.
-1. To get the name of the first country, go to the mapping panel and click Data, then Name in the array. The [1] in the data field means it will return the first item in the array.
+   1. Add another request to get subregion information. It will only return the first country, but that's OK for now. Add another HTTP Make a request module and use the URL https://restcountries.com/v2/name/.
+   1. To get the name of the first country, go to the mapping panel and click Data, then Name in the array. The [1] in the data field means it will return the first item in the array.
 
-   + Click the number and change the index if needed, but in this case you just want the first item.
+      + Click the number and change the index if needed, but in this case you just want the first item.
 
    ![Advanced Aggregation Image 4](../12-exercises/assets/advanced-aggregation-walkthrough-4.png)
 
