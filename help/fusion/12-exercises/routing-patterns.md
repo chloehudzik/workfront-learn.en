@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11044
 thumbnail: KT11044.png
+exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
 ---
-
 # Routing patterns
 
 Reinforce your concept of routing and fallback routes without actually dealing with any other APIs.

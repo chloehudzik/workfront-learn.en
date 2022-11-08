@@ -9,6 +9,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11367
+exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 ---
 # Understand basic text mode for views
 
@@ -514,4 +515,3 @@ valueformat=HTML
 ```
 
 ![A screen image showing the project and task of a proof approval](assets/proof-approval-project-and-task.png)
-

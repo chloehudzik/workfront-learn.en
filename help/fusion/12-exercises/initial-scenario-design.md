@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11038
 thumbnail: KT11038.png
+exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 ---
-
 # Initial Scenario Design
 
 Learn some basic navigation tips for when you first log into Workfront Fusion, as well as building your first scenario.

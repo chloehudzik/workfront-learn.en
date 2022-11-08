@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11046
 thumbnail: KT11046.png
+exl-id: 8d751885-372a-4716-9542-079cc3d36caf
 ---
-
 # Introduction to iterators
 
 Learn to use iteration-type apps and perform actions on each bundle of information.

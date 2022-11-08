@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11052
 thumbnail: KT11052.png
+exl-id: 1b810168-582d-4d7d-b061-d152af546bc8
 ---
-
 # Switch module
 
 Understand how to use the Switch module when you need to perform more complex or dynamic data transformations.

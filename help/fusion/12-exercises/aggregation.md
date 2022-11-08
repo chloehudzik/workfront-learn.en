@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11047
 thumbnail: KT11047.png
+exl-id: 4626b623-8b05-41be-9cfc-917e28222855
 ---
-
 # Aggregation
 
 Learn to aggregate multiple bundles of information into a single value.

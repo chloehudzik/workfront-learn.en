@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11040
 thumbnail: KT1101.png
+exl-id: d2cec1ea-7ff9-48ae-8bfb-0c767d346079
 ---
-
 # Filters
 
 Learn how to use the filter between modules to allow only certain types of bundles through.

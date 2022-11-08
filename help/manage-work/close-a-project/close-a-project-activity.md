@@ -8,7 +8,8 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 
+kt: null
+exl-id: ffbe2169-d475-4907-a78f-5c092b923900
 ---
 # Close a project activity
 
@@ -27,5 +28,3 @@ As a project manager, holding “lessons learned” sessions can provide valuabl
 
 * Think about some of the projects you’ve managed in the past year. What types of questions would you ask or information would you gather in a “lessons learned” session?
 * Decide if you want to incorporate “lessons learned” into your projects. Then decide how. For example you could do something informal, such as a quick standup with your team. Or it could be built into your project plan.
-
-

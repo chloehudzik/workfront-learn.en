@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11051
 thumbnail: KT1101.png
+exl-id: 3142fae2-5210-4f63-9d2c-66dec58867fa
 ---
-
 # Switch function
 
 Learn how to use the switch functionality using the Switch function.

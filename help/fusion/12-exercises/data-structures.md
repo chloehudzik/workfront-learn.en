@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11054
 thumbnail: KT11054.png
+exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
 ---
-
 # Data structures
 
 Transform data from a source file into a destination file.

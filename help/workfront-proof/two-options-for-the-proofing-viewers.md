@@ -1,13 +1,13 @@
 ---
 title: Proofing viewers explained
-description: Learn about [!DNL Workfront]'s web-based proofing viewer and desktop proofing viewer, the difference between the two, and how to access each. 
+description: Learn about [!DNL Workfront]'s web-based proofing viewer and desktop proofing viewer, the difference between the two, and how to access each.
 feature: Workfront Proof
 type: Tutorial
 role: User
 level: Beginner
 kt: 10160
+exl-id: 07575429-3d34-4cbf-8a35-d75dc912245a
 ---
-
 # Two options for the proofing viewers
 
 [!DNL Workfront] allows you to review two main categories of proofs—static and interactive.

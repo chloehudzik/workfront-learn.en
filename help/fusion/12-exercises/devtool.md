@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11057
 thumbnail: KT11057.png
+exl-id: 13080212-26cf-4e5f-8f0b-fc59a6f66eb1
 ---
-
 # Dev tool
 
 Enhance your abilities to troubleshoot a scenario and ease complex configurations using the Dev tool.

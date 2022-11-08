@@ -9,6 +9,7 @@ role: User
 level: Experienced
 team: Technical Marketing
 kt: 11201
+exl-id: c5f98bfd-5cdd-4471-9795-9bdc9bd1f5e3
 ---
 # Advanced reporting part 2
 

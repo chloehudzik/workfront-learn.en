@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11050
 thumbnail: KT1101.png
+exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
 ---
-
 # Exploring runs, cycles, and bundles
 
 Understand how runs, cycles, and bundles behave using the execution history of a scenario.

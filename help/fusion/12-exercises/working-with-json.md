@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11056
 thumbnail: KT11056.png
+exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
 ---
-
 # Working with JSON
 
 Learn how to create and parse JSON within a scenario to support your design needs.

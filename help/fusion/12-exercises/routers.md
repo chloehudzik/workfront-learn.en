@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11043
 thumbnail: KT11043.png
+exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 ---
-
 # Routers
 
 Understand the importance of routers and how they can be used to conditionally process different modules.

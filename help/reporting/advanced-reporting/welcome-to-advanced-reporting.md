@@ -9,6 +9,7 @@ role: User
 level: Experienced
 team: Technical Marketing
 kt: 11198
+exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
 ---
 # Welcome to advanced reporting
 
@@ -43,4 +44,3 @@ The target audience for these tutorials is [!UICONTROL Plan] license users who c
 These tutorials are recordings of a live class given over a period of three days in February 2018. You may notice an older UI in the videos, but this will not affect the accuracy or relevancy of the content provided.
 
 You will also hear some references to getting a test drive account to practice in. Adobe Experience League does not provide test drive accounts, but don’t worry. You can practice in your production account. After all, reporting is just about viewing objects in Workfront, not about creating or deleting any objects. Except for creating the reports themselves of course. But besides the system administrator, you are the only one who can see the reports you create unless you decide to share them.
-

@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
+exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
 ---
-
 # Advanced aggregation
 
 Understand how to use groupings when aggregating.

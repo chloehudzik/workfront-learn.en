@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11045
 thumbnail: KT11045.png
+exl-id: 225f0090-0428-40e2-8a4b-9c6b18b205d2
 ---
-
 # Set/Get variables
 
 Learn how to use the Set and Get Variable modules to use the fields available in one path in a different path.

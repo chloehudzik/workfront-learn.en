@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11049
 thumbnail: KT11049.png
+exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
 ---
-
 # Execution history
 
 Review and audit details about past executions and scenario configurations.

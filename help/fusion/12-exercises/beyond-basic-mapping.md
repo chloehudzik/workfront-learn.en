@@ -6,8 +6,8 @@ role: User
 level: Beginner
 kt: 11039
 thumbnail: KT11039.png
+exl-id: 979d794d-b936-402e-b07c-71e999f40780
 ---
-
 # Beyond basic mapping
 
 Learn how to use the mapping panel formulas to manipulate or convert field(s) sent to a module.

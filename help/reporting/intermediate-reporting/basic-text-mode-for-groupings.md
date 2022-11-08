@@ -9,8 +9,8 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11369
+exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 ---
-
 # Understand basic text mode for groupings
 
 >[!IMPORTANT]
@@ -90,5 +90,3 @@ textmode=true
 ```
 
 ![A screen image showing project tasks grouped by statusEquatesWith](assets/status-equates-with.png)
-
-

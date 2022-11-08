@@ -8,6 +8,7 @@ team: Technical Marketing
 kt: 10808
 role: User, Leader
 level: Beginner
+exl-id: f2327549-a8db-4621-867d-e6f13a6d292f
 ---
 # Add and manage tags for cards
 

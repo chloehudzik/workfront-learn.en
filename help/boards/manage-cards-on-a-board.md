@@ -8,6 +8,7 @@ team: Technical Marketing
 kt: 10812
 role: User, Leader
 level: Beginner
+exl-id: 26f37808-f9b4-47b6-8dbb-869eb3a8d9c9
 ---
 # Manage cards on a board
 
