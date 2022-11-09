@@ -3,8 +3,6 @@ title: Set Up Metadata Mapping for [!UICONTROL Workfront DAM]
 description: Learn how to set up metadata mapping for [!UICONTROL Workfront DAM].
 feature: Digital Content and Documents
 type: Tutorial
-feature: Digital Content and Documents
-type: Tutorial
 role: Admin
 level: Intermediate
 kt: 10088
@@ -27,7 +25,7 @@ You must be a [!DNL Workfront] administrator and a [!UICONTROL Workfront DAM] ad
 1. Next, click **[!UICONTROL Yes]** to give [!DNL Workfront] access to the [!UICONTROL DAM] account.
 1. If needed, refresh the page to update the access to [!UICONTROL Workfront DAM].
 
-With this connection established, now you can start mapping metadata between the two systems. Make sure you’ve already created the needed metadata fields in [!UICONTROL Workfront DAM] before you start mapping.
+With this connection established, now you can start mapping metadata between the two systems. Make sure you've already created the needed metadata fields in [!UICONTROL Workfront DAM] before you start mapping.
 
 ## Set up the mapping
 
@@ -38,7 +36,7 @@ With this connection established, now you can start mapping metadata between the
 1. In the Workfront field, type the field source of the [!DNL Workfront] field to map.
 1. Then select the corresponding or target **[!UICONTROL Workfront DAM]** metadata field.
 1. Click the **[!UICONTROL Add Mapping]** button.
-1. You’ll see the [!UICONTROL Workfront Field Source] and [!UICONTROL Workfront DAM Target Field] in the chart at the bottom of the window.
+1. You'll see the [!UICONTROL Workfront Field Source] and [!UICONTROL Workfront DAM Target Field] in the chart at the bottom of the window.
 1. Repeat for all of the desired metadata fields.
 
 ![A screenshot of the [!UICONTROL Metadata Mapping] screen in [!DNL Workfront]](assets/01-metadata-mapping.png)
