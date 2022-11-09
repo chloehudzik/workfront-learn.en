@@ -3,7 +3,6 @@ title: Understand updates and notifications
 description: Learn how to make updates on approval requests and find your notifications in Workfront.
 activity: use
 feature: Work Management
-thumbnail: 335109.jpeg
 type: Tutorial
 role: User
 level: Intermediate
