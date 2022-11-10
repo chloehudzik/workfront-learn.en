@@ -14,7 +14,7 @@ exl-id: fbd17f01-9e97-4ead-9a56-7ce4f81255ec
 
 <!-- **Note**: The expression examples shown are simple and some may be mitigated by fields already supplied by  . However, the examples are used to illustrate the foundational knowledge needed in order to build expressions in Workfront.-->
 
-[!DNL Workfront] provides a variety of fields that are common across multiple areas of business and are regularly used for work management. Fields like planned completion date, project budget, task assignee name, etc.
+Workfront provides a variety of fields that are common across multiple areas of business and are regularly used for work management. Fields like planned completion date, project budget, task assignee name, etc.
 
 Yet, each organization has data specific to its industry and company that needs to be gathered in order to understand if company objectives are being met. For instance, your organization wants to keep track of:
 
@@ -27,10 +27,6 @@ Although those fields are not inherently built into [!DNL Workfront], you can cr
 This learning path focuses on the calculated field. You will learn what a calculated field is, the different types of information you can pull into the calculated field through data expressions, and how to build those calculated fields to enhance your data collection and reporting.
 
 ![Resource management setups one pager](assets/GS01.png)
-
-**Custom form reminder**
-
-Fields are object specific. For example, if you create a calculated field on a task custom form, you can use that field in any task report.
 
 ## What is a calculated field?
 
@@ -49,7 +45,7 @@ Using expressions in a calculated field, you can take each piece of information 
 
 ![Workload balancer with utilization report](assets/GS03.png)
 
-Depending on the specific data needed, calculated fields can be simple, using one or two expressions, or more complicated, using several embedded expressions. Just keep in mind that [!DNL Workfront] can only use data already stored or pulled into the system for calculated fields.
+Depending on the specific data needed, calculated fields can be simple, using one or two expressions, or more complicated, using several embedded expressions. Just keep in mind that Workfront can only use data already stored or pulled into the system for calculated fields.
 
 ## Text expressions
 
@@ -63,8 +59,8 @@ For example, text expressions can be used to:
 
 * Build a report that lists every project that isn't assigned to a portfolio and/or program so you can use this in your manager meetings.
 
-Text expressions can be used in a custom field to do these types of searches and combinations in [!DNL Workfront].
-TE
+Text expressions can be used in a custom field to do these types of searches and combinations in Workfront.
+
 When looking at the possible text expressions, you’ll find several options.
 
 ![Resource management setups one pager](assets/TE01.png)
