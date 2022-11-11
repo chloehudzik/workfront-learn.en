@@ -29,7 +29,7 @@ In this video, you will learn:
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12)
 
-## 4 parents grouping
+## Task - 4 parents grouping
 
 The following text mode will group tasks based on up to four levels of parents, and leave parents that don't exist blank.
 
@@ -46,7 +46,7 @@ group.0.valueformat=string
 ![A screen image showing project tasks grouped by 4 parents](assets/4-parents-grouping.png)
 
 
-## Percent complete grouping
+## Task - Percent complete grouping
 
 The following text mode will group tasks based on their percent complete. Tasks will fall into one of the following categories when grouped:
 
@@ -67,7 +67,7 @@ textmode=true
 
 ![A screen image showing project tasks grouped by percent complete](assets/percent-complete-grouping.png)
 
-## statusEquatesWith, then status
+## Task - statusEquatesWith, then status
 
 The following text mode will group tasks by statusEquatesWith, then by status.
 
@@ -90,3 +90,15 @@ textmode=true
 ```
 
 ![A screen image showing project tasks grouped by statusEquatesWith](assets/status-equates-with.png)
+
+
+## Proof Approval - Group by project name
+
+```
+group.0.valueformat=HTML
+group.0.valuefield=documentVersion:document:project:name
+group.0.displayname=Project Name
+```
+
+![A screen image showing Proof approvals grouped by project name](assets/proof-approvals-grouped-by-project-name.png)
+
