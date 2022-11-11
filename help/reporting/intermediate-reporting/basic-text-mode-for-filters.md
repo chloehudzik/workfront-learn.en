@@ -80,14 +80,42 @@ EXISTS:1:assignedByID=$$USER.ID
 
 This will show you all tasks where the logged in user assigned at least one of the current assignees. If assignees were assigned by multiple people only the name of the first person who assigned someone will appear as "Requested By" on the task landing page.
 
-## Activity: Text mode questions
+### Task - Show me all tasks that are Complete - Pending Approval
 
-1. How would you write the camel case for the field titled “Entered By ID”? 
-1. In an Issue report, create a filter to show issues that have been marked as closed but are pending approval. 
+```
+status=CPL:A
+status_Mod=in
+```
 
-### Answers 
 
-1. The camel case for the field “Entered By ID” should be written like this—enteredByID 
-1. The text mode should look like this in the issue report filter: 
+### Issue - Show me all issues that are Complete - Pending Approval
 
-   ![An image of the screen to create a new filter in text mode](assets/btm-answer.png)
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Project - Show me all projects that are Complete - Pending Approval
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### Note - Show me all comments I’m tagged in
+
+```
+tags:userID=$$USER.ID
+tags:userID_Mod=in
+```
+
+
+### Parameter/Custom Field Report - Show me custom fields that are not attached to a custom form (very useful in cleanup efforts)
+
+```
+EXISTS:A:$$EXISTSMOD=NOTEXISTS
+EXISTS:A:$$OBJCODE=CTGYPA
+EXISTS:A:parameterID=FIELD:ID
+```
