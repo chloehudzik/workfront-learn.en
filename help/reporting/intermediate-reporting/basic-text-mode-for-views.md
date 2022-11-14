@@ -22,6 +22,11 @@ exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 >* Understand reporting components
 >* Create a basic view
 
+>[!TIP]
+>
+>* To gain a more in depth understanding of text mode we recommend watching the recorded webinar event [Ask the Expert - Introduction to Text Mode Reporting](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en), which is one hour in length.
+>* To learn even more about text mode we recommend watching the [Advanced reporting](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) tutorials, which together are five and a half hours in length.
+
 In this video, you will learn:
 
 * What text mode is 
