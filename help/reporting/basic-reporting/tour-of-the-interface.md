@@ -1,6 +1,8 @@
 ---
 title: Understand the calendar interface
-description: Tour of the calendar interface
+description: Get to know the calendar interface including calendar groupings, views and actions.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User

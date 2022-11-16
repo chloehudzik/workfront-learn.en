@@ -1,6 +1,8 @@
 ---
-title: Understand planned hours and duration views
+title: Understand planned hours and duration views in [!UICONTROL Enhanced Analytics]
 description: In the Burndown and Project treemap charts, you can view the information by planned hours or duration.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-planned-hours-and-duration-views.png
 type: Tutorial
@@ -9,7 +11,7 @@ level: Beginner
 kt: 10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
 ---
-# Understand planned hours and duration views
+# Understand planned hours and duration views in [!UICONTROL Enhanced Analytics]
 
 In the Burndown and Project treemap charts, you can view the information by planned hours or duration, depending on what you consider more accurate for your Workfront environment.
 

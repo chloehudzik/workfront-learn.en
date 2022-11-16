@@ -1,6 +1,6 @@
 ---
 title: Create a basic filter activity
-description: In this video, you will do an activity to create your own filter in Workfront.
+description: In this activity you will create a project filter named “Projects I Own Closing This Month.”
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336807.jpeg

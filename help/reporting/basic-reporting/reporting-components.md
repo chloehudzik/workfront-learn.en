@@ -1,6 +1,6 @@
 ---
 title: Understand reporting components
-description: In this video, you will learn the key components behind Workfront reporting and how these are used in a reporting element in [!DNL  Workfront].
+description: Learn the key components behind reporting and how these are used in a reporting element in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335146.jpeg

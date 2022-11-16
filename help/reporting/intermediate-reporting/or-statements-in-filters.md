@@ -1,6 +1,8 @@
 ---
 title: Create OR statements in filters
-description: With an OR statement, you’re telling the filter that you want to see this OR that.
+description: Learn how to use an OR statement to tell Workfront that you want to see either this OR that in your report.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: create-or-statements-in-filters.png
 type: Tutorial

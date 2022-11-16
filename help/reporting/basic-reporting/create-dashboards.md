@@ -1,6 +1,6 @@
 ---
 title: Create dashboards
-description: In this video, you will learn all about dashboard in [!DNL  Workfront].
+description: Learn how to combine a variety of list reports, charts, calendars and external web pages into a dashboard in Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

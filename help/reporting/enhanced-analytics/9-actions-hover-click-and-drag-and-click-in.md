@@ -1,6 +1,6 @@
 ---
 title: Understand actions - hover, click and drag, and click in
-description: Learn how to get more information by hovering over a chart, create a timeframe on a chart, and how to make additional charts appear, all in [!DNL  Workfront].
+description: Learn how to get more information by hovering over a chart, create a timeframe on a chart, and how to make additional charts appear, all in [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 ---
-# Understand actions - hover, click and drag, and click in
+# Understand actions in [!UICONTROL Enhanced Analytics] - hover, click and drag, and click in
 
 In this video, you will learn:
 

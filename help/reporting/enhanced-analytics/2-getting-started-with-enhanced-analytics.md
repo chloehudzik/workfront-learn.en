@@ -1,6 +1,8 @@
 ---
 title: Get started with [!UICONTROL Enhanced Analytics]
-description: Learn the most important fields to update in order to get the most out of Enhanced analytics.
+description: Learn the most important fields to update in Workfront in order to let Enhanced analytics show you how your teams and projects are progressing in Workfront.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: analytics-prerequisites.png
 type: Tutorial
@@ -9,7 +11,9 @@ level: Beginner
 kt: 10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 ---
-# Get started with [!UICONTROL Enhanced Analytics]
+# Get started with Adobe Workfront [!UICONTROL Enhanced Analytics]
+
+Enhanced analytics can show you how your teams and projects are progressing in Workfront, and what happened in past projects that you might be able to learn from to help plan future projects.
 
 ## Analytics prerequisites
 

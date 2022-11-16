@@ -1,6 +1,6 @@
 ---
-title: Understand KPIs
-description: In this video, you will learn how to get value from the KPI data in [!DNL  Workfront].
+title: Understand KPIs in [!UICONTROL Enhanced Analytics]
+description: Learn how to get value from the KPI data about what's happening in the present as well as trends from the past.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335046.png
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8728
 exl-id: 1580ce05-2587-402a-9f02-dacdd8405fc3
 ---
-# Understand KPIs
+# Understand KPIs in [!UICONTROL Enhanced Analytics]
 
 In this video, you will learn:
 

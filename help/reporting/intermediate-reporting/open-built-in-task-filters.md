@@ -1,6 +1,6 @@
 ---
 title: Understand built-in task filters
-description: Learn how to review built-in task filters to see how they’re built and create your own task filter in [!DNL  Workfront].
+description: Learn how to review built-in task filters to see how they’re built and create your own task filter in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336818.png

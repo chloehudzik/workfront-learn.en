@@ -1,6 +1,6 @@
 ---
-title: Understand consulting guidance
-description: In this video, you will learn how to make recommendations to help your organization operate more efficiently in [!DNL  Workfront].
+title: Understand consulting guidance in [!UICONTROL Enhanced Analytics]
+description: Learn how to make recommendations to help your organization operate more efficiently in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8723
 exl-id: 304fad15-1ffd-4282-b90f-0be31b2a08c6
 ---
-# Understand consulting guidance
+# Understand consulting guidance in [!UICONTROL Enhanced Analytics]
 
 In this video, you will learn:
 

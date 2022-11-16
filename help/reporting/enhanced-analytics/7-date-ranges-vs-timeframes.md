@@ -1,6 +1,8 @@
 ---
 title: Understand date ranges and timeframes
-description: Date ranges are specified using the calendar widget. Timeframes are created within a chart.
+description: In [!UICONTROL Enhanced Analytics], date ranges are specified using the calendar widget. Timeframes are created within a chart.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-date-ranges-and-timeframes.png
 type: Tutorial
@@ -9,7 +11,7 @@ level: Beginner
 kt: 10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 ---
-# Understand date ranges and timeframes
+# Understand date ranges and timeframes in [!UICONTROL Enhanced Analytics]
 
 When viewing the [!DNL Enhanced analytics] charts, date ranges are specified using the calendar widget. Timeframes are created within a chart when you click and drag to define a specific region, so you can zoom in and get a more detailed look at the information during that timeframe.
 
