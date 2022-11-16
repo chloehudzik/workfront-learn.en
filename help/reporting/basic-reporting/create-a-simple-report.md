@@ -1,6 +1,6 @@
 ---
 title: Create a simple report
-description: In this video, you will learn how to create a simple report using an existing filter, view, and grouping in [!DNL  Workfront].
+description: Learn how to create a simple report using an existing filter, view, and grouping in Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
-title: Dig deeper into navigation
-description: In this video, you will learn how to quickly see how much time workers are dedicating to each project in [!DNL  Workfront].
+title: Dig deeper into navigation in [!UICONTROL Enhanced Analytics]
+description: Learn how to quickly see how much time workers are dedicating to each project in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8733
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
 ---
-# Dig deeper into navigation
+# Dig deeper into navigation in [!UICONTROL Enhanced Analytics]
 
 In this video, you will learn:
 

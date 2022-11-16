@@ -1,6 +1,6 @@
 ---
 title: Understand report settings
-description: In this video, you will learn how to access [!DNL  Workfront] report settings and what some common report settings are used for.
+description: Learn how to access Workfront report settings and what some common report settings are used for.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

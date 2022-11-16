@@ -1,6 +1,6 @@
 ---
 title: Create filters with user-based wildcards
-description: Learn how to use wildcards and build a filter with a user-based wildcard in [!DNL  Workfront].
+description: Learn how to use user-based wildcards and how to build a filter based on the logged in user.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336810.png

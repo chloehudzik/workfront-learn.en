@@ -1,6 +1,6 @@
 ---
-title: Understand navigating and reviewing projects
-description: In this video, you will learn how to read the Flight plan chart in [!DNL  Workfront].
+title: Understand navigating and reviewing projects in [!UICONTROL Enhanced Analytics]
+description: Learn how to read the Flight plan chart in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 ---
-# Understand navigating and reviewing projects
+# Understand navigating and reviewing projects in [!UICONTROL Enhanced Analytics]
 
 In this video, you will learn:
 

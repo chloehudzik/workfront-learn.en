@@ -1,6 +1,6 @@
 ---
 title: Send and share reports
-description: In this video, you will learn how to send reports to users, teams, or any email address, and how to share reports with anyone in [!DNL  Workfront].
+description: Learn how to send reports to users, teams, or any email address, and how to share reports with anyone in Workfront.
 activity: use
 feature: Reports and Dashboards
 type: Tutorial

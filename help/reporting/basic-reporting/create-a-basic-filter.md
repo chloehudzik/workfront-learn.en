@@ -1,6 +1,6 @@
 ---
 title: Create a basic filter
-description: In this video, you will learn what a filter is, how to create a filter, and how to share a filter with other users in [!DNL  Workfront].
+description: Learn what a filter is, how to create a filter, and how to share a filter with other users in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg

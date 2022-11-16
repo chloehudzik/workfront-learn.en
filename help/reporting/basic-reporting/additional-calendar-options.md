@@ -1,10 +1,12 @@
 ---
 title: Understand additional calendar options
 description: Learn how to edit and delete a calendar grouping, and how to share a calendar.
+activity: use
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
+team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 kt: 10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8

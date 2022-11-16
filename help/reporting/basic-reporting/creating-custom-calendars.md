@@ -1,6 +1,8 @@
 ---
 title: Create a custom calendar
-description: Learn how to create your own custom calendar
+description: Learn how to create your own custom calendar showing your work items and personal time off.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User

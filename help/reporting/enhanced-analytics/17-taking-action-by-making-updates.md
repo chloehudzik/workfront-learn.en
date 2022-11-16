@@ -1,6 +1,6 @@
 ---
-title: Take action by making updates
-description: In this video, you will learn how to make updates from within the Tasks in flight chart in [!DNL  Workfront].
+title: Take action by making updates in [!UICONTROL Enhanced Analytics]
+description: Learn how to make updates from within the Tasks in flight chart in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335053.png
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8736
 exl-id: f574a537-b635-4b17-a067-3c168eea850a
 ---
-# Take action by making updates
+# Take action by making updates in [!UICONTROL Enhanced Analytics]
 
 In this video, you will learn:
 

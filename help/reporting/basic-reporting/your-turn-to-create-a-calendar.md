@@ -1,6 +1,8 @@
 ---
 title: Your turn to create a calendar
-description: Learn how to create a customer calendar in this hands-on activity.
+description: Learn how to create a customer calendar showing your incomplete tasks and issues.
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User

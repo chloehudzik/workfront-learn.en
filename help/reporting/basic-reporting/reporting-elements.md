@@ -1,6 +1,6 @@
 ---
 title: Understand reporting elements
-description: In this video, you will learn how to use existing reporting elements—filters, views, and groupings—to access information being tracked in [!DNL  Workfront].
+description: Learn how to use existing reporting elements—filters, views, and groupings—to access information being tracked in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335145.jpeg

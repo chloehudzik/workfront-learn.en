@@ -1,6 +1,6 @@
 ---
-title: Review the tasks in flight
-description: Learn how to access the Tasks in flight chart and how to quickly see which tasks have not been completed in a project, all in [!DNL  Workfront].
+title: Review the tasks in flight in [!UICONTROL Enhanced Analytics]
+description: Learn how to access the Tasks in flight chart and how to quickly see which tasks have not been completed in a project, all in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 ---
-# Review the tasks in flight
+# Review the tasks in flight in [!UICONTROL Enhanced Analytics]
 
 In this video, you will learn:
 

@@ -1,6 +1,6 @@
 ---
 title: Add basic conditional formatting
-description: In this video, you will learn what conditional formatting is in a view and how to create and modify conditional formatting in [!DNL  Workfront].
+description: Learn how to use column rules to change text color, formatting and background colors in a report or view, based on criteria you set.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -12,6 +12,8 @@ kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 ---
 # Add basic conditional formatting to a view
+
+Conditional formatting is done by creating column rules. Column rules allow you to format a column in a specific way based on criteria you set.
 
 In this video, you will learn:
 

@@ -1,6 +1,6 @@
 ---
-title: Understand navigating and reviewing project activity
-description: In this video, you will learn how to compare projects based on users logged in, task status changes, and tasks completed in [!DNL  Workfront].
+title: Understand navigating and reviewing project activity in [!UICONTROL Enhanced Analytics]
+description: Learn how to compare projects based on users logged in, task status changes, and tasks completed in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 ---
-# Understand navigating and reviewing project activity
+# Understand navigating and reviewing project activity in [!UICONTROL Enhanced Analytics]
 
 In this video, you will learn:
 
