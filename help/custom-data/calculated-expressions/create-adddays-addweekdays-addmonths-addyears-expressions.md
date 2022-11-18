@@ -22,13 +22,13 @@ In this video, you will learn:
 
 ## Additional examples
 
-Below are a few additional ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR expressions Adobe [!DNL Workfront] customers have created.
+Below are a few additional ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR expressions Adobe Workfront customers have created.
 
 **Should have been done by**
 
 The customer wanted to know when the task should have been completed based on the Actual Start Date and the Planned Duration. The Projected Completion Date won’t work in this case because it can move if the task is late, and the Planned Completion Date doesn't help if there are delays in prior tasks. 
 
-The expression created was ADDDAYS(Actual Start Date,(Duration/480))
+The expression created was ADDDAYS({actualStartDate},{durationMinutes}/480)
 
 Time in the Duration field is stored in minutes. So in this expression, the Duration field cannot stand alone if the time is to be reflected in days. For that to happen, the Duration has to be divided by 480 minutes (480 minutes = 8 hours = 1 Day)
 
@@ -37,8 +37,10 @@ This is why the second value slot contains (Duration/480).
 
 **Invoice completion date**
 
-This example includes another calculated field, already created and saved in the system, within the expression.
+This example includes not only uses the ADDDAYS expression but a custom field previsouly created and saved in the custom form.
 
-The customer was capturing the date the invoice was submitted through a custom date field, titled “Invoice Submission Date”, in the custom form. Once submitted, they have 30 days to complete and file the invoice. To automatically produce that completion and filing date, they created a calculated field using ADDDDAYS and the Invoice Submission Date field. The expression looked like this:
+The customer is capturing the date an invoice is submitted through a custom date field titled “Invoice Submission Date”. 
 
-ADDDAYS(Invoice Submission Date,30)
+Once submitted, the invoice must be completed and filed within 30 days. To automatically produce that completion and filing date, an ADDDAYS calculated field is used along with the "Invoice Submisison Date" custom field. The expression looks like this:
+
+ADDDAYS({DE:Invoice Submission Date},30)
