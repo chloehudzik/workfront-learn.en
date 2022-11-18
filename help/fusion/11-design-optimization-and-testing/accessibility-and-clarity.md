@@ -2,8 +2,11 @@
 title: Accessibility and clarity
 description: Learn some basic best practices for making scenarios easy to read, share, and understand.
 activity: use
-type: Tutorial
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 11037
 exl-id: ba2c5c64-ab4d-42d3-8a69-6b9df1373b29
 ---

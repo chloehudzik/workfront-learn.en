@@ -1,6 +1,8 @@
 ---
-title: Who Uploads the Proof Versions?
+title: Who uploads the proof versions?
 description: The person responsible for uploading proof versions in [!DNL  Workfront] can vary. Learn from common use cases to identify the ideal setup at your organization.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User

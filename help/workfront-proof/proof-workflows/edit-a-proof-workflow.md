@@ -1,5 +1,5 @@
 ---
-title: How to Edit a Proof Workflow
+title: Edit a proof workflow
 description: Learn how to update a proof deadline, add users to an existing workflow, and switch an existing workflow to an automated workflow in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof

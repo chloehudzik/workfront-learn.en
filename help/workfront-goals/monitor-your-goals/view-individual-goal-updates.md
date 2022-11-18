@@ -1,5 +1,5 @@
 ---
-title: Individual goal updates in [!DNL Workfront Goals]
+title: View individual goal updates in [!DNL Workfront Goals]
 description: Learn how to view your individual goals in the [!UICONTROL Pulse] update stream in [!DNL   Goals].
 activity: use
 feature: Workfront Goals

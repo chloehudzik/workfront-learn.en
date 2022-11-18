@@ -1,5 +1,5 @@
 ---
-title: Where does [!DNL Workfront Goals] fit in with my work life cycle?
+title: Understand how [!UICONTROL Workfront Goals] fits in your work cycle
 description: Learn about the 6 steps in a typical work life cycle and the core building blocks in the "strategy phase" in the work life cycle.
 activity: use
 feature: Workfront Goals
@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
 ---
-# Where does [!DNL Workfront Goals] fit in with my work life cycle?
+# Understand how [!UICONTROL Workfront Goals] fits in your work cycle
 
 In this video, you will learn about:
 

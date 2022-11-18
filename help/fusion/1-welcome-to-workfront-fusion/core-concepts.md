@@ -1,9 +1,12 @@
 ---
-title: Core Concepts
-description: In this video, you will learn three core concepts that make up Workfront Fusion - scenarios, apps, and modules in [!DNL Adobe Workfront Fusion].
+title: Core concepts
+description: Learn three core concepts that make up Workfront Fusion - scenarios, apps, and modules in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
 ---

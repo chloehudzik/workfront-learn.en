@@ -1,6 +1,8 @@
 ---
-title: How to Track Proof Progress
+title: Track proof progress
 description: Learn how to use [!UICONTROL SOCD] indicators, proof progress, and reports to track the progress of a proof in [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User

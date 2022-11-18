@@ -1,13 +1,16 @@
 ---
-title: Intro to Universal Connectors Walkthrough
+title: Introduction to universal connectors walkthrough
 description: Learn how to call the Poke API through an HTTP connector to gather and post information on a Pokemon character, all in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
 ---
-# Universal connectors walkthrough
+# Introduction to universal connectors walkthrough
 
 ## Overview
 
@@ -23,9 +26,9 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 ### Exercise URLs
 
-Pokemon API website: https://pokeapi.co/
+Pokemon API website: `https://pokeapi.co/`
 
-URL for exercise: https://pokeapi.co/api/v2/pokemon/{Character}
+URL for exercise: `https://pokeapi.co/api/v2/pokemon/{Character}`
 
 >[!TIP]
 >

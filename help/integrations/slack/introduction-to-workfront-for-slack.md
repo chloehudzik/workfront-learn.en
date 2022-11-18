@@ -1,5 +1,5 @@
 ---
-title: Introduction to [!DNL Workfront] for Slack
+title: Understand Workfront for [!DNL Slack]
 description: Learn how to get an introduction into what you will learn from other [!DNL Workfront] for Slack videos.
 activity: use
 feature: Workfront Integrations and Apps
@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8815
 exl-id: f1d857c3-2140-45db-8473-1183baa490d2
 ---
-# Introduction to [!DNL Workfront] for [!DNL Slack]
+# Understand Workfront for [!DNL Slack]
 
 In this video, you will:
 

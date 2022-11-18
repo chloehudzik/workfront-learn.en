@@ -1,9 +1,12 @@
 ---
-title: Introduction to Aggregations
+title: Introduction to aggregations
 description: Learn what aggregators are, how to use aggregators, and the different types of aggregators in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: a3ea475d-3a76-4788-98eb-5e916a2cb3ee
 ---

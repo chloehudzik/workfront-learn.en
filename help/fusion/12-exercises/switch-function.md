@@ -1,6 +1,9 @@
 ---
 title: Switch function
 description: Learn how to use the switch functionality using the Switch function.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

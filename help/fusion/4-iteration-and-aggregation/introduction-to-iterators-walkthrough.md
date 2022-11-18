@@ -2,8 +2,11 @@
 title: Introduction to iterators walkthrough
 description: Learn how to count the number of working tasks in a project, then calculate a value for each of the task bundles, all in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 ---

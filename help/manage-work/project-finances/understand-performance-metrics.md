@@ -1,6 +1,8 @@
 ---
 title: Understand performance metrics
-description: The performance metrics are the [!UICONTROL Performance Index Method] ([!UICONTROL PIM]) and the [!UICONTROL Estimate at Completion] ([!UICONTROL EAC]).
+description: Learn how to use the performance metrics - the [!UICONTROL Performance Index Method] ([!UICONTROL PIM]) and the [!UICONTROL Estimate at Completion] ([!UICONTROL EAC]).
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-performance-metrics.png
 type: Tutorial

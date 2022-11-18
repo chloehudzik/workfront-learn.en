@@ -2,8 +2,11 @@
 title: Testing and launch
 description: Learn how to consistently iterate through design and testing, and create detailed and shareable documentation when using [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 ---

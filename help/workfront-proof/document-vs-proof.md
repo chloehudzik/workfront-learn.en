@@ -1,5 +1,5 @@
 ---
-title: Documents and Proofs Explained
+title: Understand the difference between a document and a proof
 description: Learn the difference between a document and a proof in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -11,7 +11,7 @@ thumbnail: 335123.png
 kt: 8823
 exl-id: 661e4b97-4d4e-4859-9688-3ba509629159
 ---
-# Document vs. proof
+# Understand the difference between a document and a proof
 
 In this video, you will learn:
 

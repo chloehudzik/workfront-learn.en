@@ -1,6 +1,8 @@
 ---
 title: Send a File from Workfront to [!UICONTROL Workfront DAM]
 description: Learn how to send over a completed file in [!DNL Workfront] to [!UICONTROL Workfront DAM].
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: User

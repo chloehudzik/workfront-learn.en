@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Workfront DAM] and User Profiles Explained'
+title: Understand user profiles and navigation in [!UICONTROL Workfront DAM]
 description: Learn the difference between the three [!UICONTROL Workfront DAM] user profiles and how to navigate [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents

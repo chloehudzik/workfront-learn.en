@@ -1,6 +1,8 @@
 ---
-title: Report on Proofs
-description: Learn to how to use  's reporting capabilities to manage proof progress.
+title: Report on proofs
+description: Learn to how to use reporting capabilities to manage proof progress.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

@@ -1,6 +1,9 @@
 ---
 title: Data structures
 description: Transform data from a source file into a destination file. (Should be between 60 and 160 characters, but is 58 characters)
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

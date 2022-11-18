@@ -1,6 +1,8 @@
 ---
 title: Understand project communication
 description: Learn how to communicate about project work using updates on projects, tasks, issues, or documents. Then review existing updates in [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-project-communication.jpeg
 type: Tutorial

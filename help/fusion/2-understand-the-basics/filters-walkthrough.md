@@ -1,9 +1,12 @@
 ---
-title: Filters Walkthrough
-description: In this video, you will learn how to add a filter between the two modules in the modules in [!DNL Adobe Workfront Fusion].
+title: Filters walkthrough
+description: Learn how to add a filter between the two modules in the modules in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
 ---
@@ -30,6 +33,10 @@ In this video, you will learn how to:
 >For step-by-step instructions on completing the walkthrough, go to the [Filters walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/filters.html?lang=en) exercise.
 
 ## Your turn
+
+>[!NOTE]
+>
+>Practice exercises are optional and are not necessary to complete Fusion training.
 
 This practice exercise builds on what you learned in the walkthrough, but the solution is not provided.
 

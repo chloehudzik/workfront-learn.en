@@ -1,9 +1,12 @@
 ---
-title: Beyond Basic Mapping Walkthrough
-description: In this video, you will change some project fields in the scenario you created previously using the mapping panel formulas in [!DNL Adobe Workfront Fusion].
+title: Beyond basic mapping walkthrough
+description: Change some project fields in the scenario you created previously using the mapping panel formulas in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 ---
@@ -26,6 +29,10 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 >For step-by-step instructions on completing the walkthrough, go to the [Beyond basic mapping walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) exercise.
 
 ## Your turn
+
+>[!NOTE]
+>
+>Practice exercises are optional and are not necessary to complete Fusion training.
 
 This practice exercise builds on what you learned in the walkthrough, but the solution is not provided.
 

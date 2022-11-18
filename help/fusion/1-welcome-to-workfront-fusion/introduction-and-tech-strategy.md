@@ -1,9 +1,12 @@
 ---
-title: Introduction and Tech Strategy
-description: In this video, you will see the power and flexibility of [!DNL Adobe Workfront Fusion], the Fusion core and designer capabilities, and a Fusion example scenario.
+title: Introduction and tech strategy
+description: Learn about the power and flexibility of [!DNL Adobe Workfront Fusion], the Fusion core and designer capabilities, and a Fusion example scenario.
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 ---

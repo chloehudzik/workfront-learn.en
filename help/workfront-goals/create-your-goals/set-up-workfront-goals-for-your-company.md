@@ -1,6 +1,8 @@
 ---
 title: Set up [!UICONTROL Workfront Goals] for your org
 description: Learn how to set up [!DNL Workfront Goals] for your organization so that you can ensure that work execution is aligned with your strategy.
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User

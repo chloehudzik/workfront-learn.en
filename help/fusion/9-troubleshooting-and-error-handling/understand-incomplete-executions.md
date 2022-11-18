@@ -1,9 +1,12 @@
 ---
-title: Understand Incomplete Executions
+title: Understand incomplete executions
 description: Learn what incomplete executions are and how to handle an error that results in an incomplete execution in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 ---

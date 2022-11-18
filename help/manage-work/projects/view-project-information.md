@@ -1,6 +1,8 @@
 ---
 title: View project information
 description: Learn how Filters, Views, and Groupings can make project information easily viewable to help you manage projects.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: view-project-information.jpeg
 type: Tutorial

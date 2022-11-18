@@ -1,6 +1,9 @@
 ---
 title: Initial Scenario Design
 description: Learn some basic navigation tips for when you first log into Workfront Fusion, as well as building your first scenario.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

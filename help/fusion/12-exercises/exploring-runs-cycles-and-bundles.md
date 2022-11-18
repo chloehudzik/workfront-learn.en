@@ -1,6 +1,9 @@
 ---
 title: Exploring runs, cycles, and bundles
 description: Understand how runs, cycles, and bundles behave using the execution history of a scenario.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

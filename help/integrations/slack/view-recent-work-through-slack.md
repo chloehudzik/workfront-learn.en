@@ -1,5 +1,5 @@
 ---
-title: View recent work through Slack
+title: View recent work through [!DNL Slack]
 description: Learn how to view recent work through Slack
 activity: use
 feature: Workfront Integrations and Apps

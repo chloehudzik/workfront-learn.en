@@ -1,6 +1,9 @@
 ---
 title: Advanced aggregation
 description: Call a web service to return details about multiple countries and identify population, grouped by sub-region.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

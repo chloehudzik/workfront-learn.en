@@ -1,6 +1,8 @@
 ---
 title: Calculate goal progress
 description: Learn how goal progress is calculated in [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User

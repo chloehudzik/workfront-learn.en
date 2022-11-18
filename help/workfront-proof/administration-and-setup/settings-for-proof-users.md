@@ -1,5 +1,5 @@
 ---
-title: How to Set Up Users for Proofing
+title: Settings for proofing users
 description: Learn how to determine which [!DNL  Workfront] users get a proofing license, then adjust user settings in both [!DNL Workfront] and the back-end settings.
 activity: use
 type: Tutorial

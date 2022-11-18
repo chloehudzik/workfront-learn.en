@@ -1,6 +1,6 @@
 ---
-title: How to Add a Result to a Goal
-description: Learn how to activate a goal by adding a result in [!DNL   Goals].
+title: Add a result to a goal
+description: Learn how to activate a goal by adding a result in [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial

@@ -1,6 +1,8 @@
 ---
 title: Log and review hours
 description: Record outstanding hours and review logged hours before closing a project in [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: log-and-review-hours.jpeg
 type: Tutorial

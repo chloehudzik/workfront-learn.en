@@ -1,5 +1,5 @@
 ---
-title: Align Groups and Teams to the Strategy
+title: Align groups and teams to the strategy
 description: Learn how to review and activate proposed goals, and cascade and align quarterly goals using [!DNL   Goals].
 activity: use
 feature: Workfront Goals

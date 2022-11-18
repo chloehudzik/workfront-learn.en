@@ -1,6 +1,8 @@
 ---
 title: Set Up Metadata Mapping for [!UICONTROL Workfront DAM]
 description: Learn how to set up metadata mapping for [!UICONTROL Workfront DAM].
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin

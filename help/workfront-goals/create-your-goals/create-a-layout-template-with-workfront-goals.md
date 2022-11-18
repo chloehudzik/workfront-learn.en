@@ -1,5 +1,5 @@
 ---
-title: Layout Template with [!DNL Workfront Goals]
+title: Add [!DNL Workfront Goals] to a layout template
 description: Learn how to create a layout template with [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] terminology to suit your organization.
 activity: use
 feature: Workfront Goals

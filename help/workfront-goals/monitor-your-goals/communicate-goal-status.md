@@ -1,6 +1,8 @@
 ---
 title: Communicate goal status
 description: Learn how to communicate with others on the progress and status of your goals in [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User

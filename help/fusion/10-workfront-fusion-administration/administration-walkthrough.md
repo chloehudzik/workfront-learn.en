@@ -1,9 +1,12 @@
 ---
-title: Administration Walkthrough
+title: Administration walkthrough
 description: Learn how to switch between different organizations or teams and add users to the system in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 ---

@@ -1,5 +1,5 @@
 ---
-title: Search Workfront through Slack
+title: Search Workfront through [!DNL Slack]
 description: Learn how to search [!DNL Workfront] through Slack
 activity: use
 feature: Workfront Integrations and Apps

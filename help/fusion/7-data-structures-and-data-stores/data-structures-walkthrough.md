@@ -1,9 +1,12 @@
 ---
-title: Data Structures Walkthrough
+title: Data structures walkthrough
 description: Learn how to take time log information from one file, transform it, and produce a new file with the transformed data in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
 ---

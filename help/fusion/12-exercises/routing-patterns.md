@@ -1,6 +1,9 @@
 ---
 title: Routing patterns
 description: Reinforce your concept of routing and fallback routes without actually dealing with any other APIs.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

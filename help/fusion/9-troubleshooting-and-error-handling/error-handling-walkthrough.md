@@ -1,9 +1,12 @@
 ---
-title: Error Handling Walkthrough
+title: Error handling walkthrough
 description: Learn to understand how default error handling occurs and how to add specific module error handling using directives in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: ce7c810d-e62b-4561-9b94-a7d4075ce654
 ---

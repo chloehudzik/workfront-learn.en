@@ -340,7 +340,7 @@ feature-set: Workfront
     + [Make approvals through [!UICONTROL Slack]](integrations/slack/make-approvals-through-slack.md)
     + [Search Workfront through [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
     + [Understand Workfront for [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
-    + [View Recent Work through [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+    + [View recent work through [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
 
 + Fusion {#fusion}
   + Welcome to Workfront Fusion {#welcome-to-workfront-fusion}
@@ -454,7 +454,7 @@ feature-set: Workfront
   + Administration and setup {#administration-and-setup-for-proof}
     + [Customize proof comment actions](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
     + [Customize proof decision options](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-    + [Email alert vs. proof notification](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
+    + [Understand email alerts and proof notifications](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
     + [Proof roles and email alerts](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
     + [Report on proofs](workfront-proof/administration-and-setup/report-on-proofs.md)
     + [Set default at risk proof settings](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)

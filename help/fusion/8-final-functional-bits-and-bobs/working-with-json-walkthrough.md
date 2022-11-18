@@ -1,9 +1,12 @@
 ---
-title: Working with JSON Walkthrough
+title: Working with JSON walkthrough
 description: Learn how to create and parse JSON within a scenario to support your design needs in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 0d718e87-2faa-47d7-97d9-314071b329cb
 ---

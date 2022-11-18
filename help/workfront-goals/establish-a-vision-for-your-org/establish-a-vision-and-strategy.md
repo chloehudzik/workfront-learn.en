@@ -1,5 +1,5 @@
 ---
-title: How to Establish a Vision and Strategy
+title: Establish a vision and strategy
 description: Learn about articulating the "what" and the "why" during the planning phase, example goals, and scope of influence.
 activity: use
 feature: Workfront Goals

@@ -8,7 +8,7 @@ level: Beginner
 kt: 10160
 exl-id: 07575429-3d34-4cbf-8a35-d75dc912245a
 ---
-# Two options for the proofing viewers
+# Proofing viewers explained
 
 [!DNL Workfront] allows you to review two main categories of proofs—static and interactive.
 

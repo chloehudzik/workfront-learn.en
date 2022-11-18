@@ -1,6 +1,8 @@
 ---
 title: Report on Issues
-description: Learn how to centralize issues by creating a report  .
+description: Learn how to centralize issues by creating a report.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: report-on-issues.jpeg
 type: Tutorial

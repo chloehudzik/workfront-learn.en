@@ -1,5 +1,5 @@
 ---
-title: Email Alerts and Proof Notifications Explained
+title: Understand email alerts and proof notifications
 description: Understand the difference between email alerts and proof notifications in [!DNL  Workfront].
 feature: Workfront Proof
 type: Tutorial
@@ -9,7 +9,7 @@ thumbnail: email-alert-vs-proof-notifications.png
 kt: 10174
 exl-id: 51423110-960c-46ed-8b4e-6e73c67c42e0
 ---
-# Email alert vs. proof notification
+# Understand email alerts and proof notifications
 
 Email alerts are different from proof notification emails. You’ll receive a proof notification email when you’ve been assigned a new proof to review, when a proof is late, or when there’s a new version of the proof for you to look at.
 

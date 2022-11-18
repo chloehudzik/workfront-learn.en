@@ -1,6 +1,8 @@
 ---
 title: Set up task revenue & cost defaults
-description: The revenue type and cost type are used to calculate the planned and actual financial information for a task.
+description: Learn how the revenue type and cost type are used to calculate the planned and actual financial information for a task.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-task-revenue-and-cost-defaults.png
 type: Tutorial

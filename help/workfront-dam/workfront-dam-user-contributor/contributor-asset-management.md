@@ -1,5 +1,5 @@
 ---
-title: How to Manage Assets in [!UICONTROL Workfront DAM]
+title: Learn how to Manage Assets in [!UICONTROL Workfront DAM]
 description: Learn how to manage assets in [!UICONTROL Workfront DAM] to improve your workflow.
 activity: use
 feature: Digital Content and Documents

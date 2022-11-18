@@ -1,6 +1,8 @@
 ---
 title: Understand metadata and keyword best practices as a contributor
 description: Learn how to use metadata and keywords in [!UICONTROL Workfront DAM] to describe an asset to increase the searchability of your organization's assets.
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: User

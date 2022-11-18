@@ -1,5 +1,5 @@
 ---
-title: How to View and Compare Proof Versions
+title: View and compare proof versions
 description: Learn how to open, identify, markup, comment on, and compare proof versions in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof

@@ -1,5 +1,5 @@
 ---
-title: Create an Automated Workflow Template
+title: Create an automated workflow template
 description: Learn how to create an automated workflow template by assigning proof recipients and setting proof deadlines. Then share the template with other users.
 activity: use
 feature: Workfront Proof

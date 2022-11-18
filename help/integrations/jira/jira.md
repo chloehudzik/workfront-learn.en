@@ -1,5 +1,5 @@
 ---
-title: 'Create visibility with the [!DNL Jira] Integration'
+title: Create visibility with the [!DNL Jira] Integration
 description: Get a glimpse into how the [!DNL Jira] integration can create visibility into what your team is doing.
 activity: use
 feature: Workfront Integrations and Apps

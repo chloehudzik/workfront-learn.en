@@ -1,6 +1,9 @@
 ---
 title: Access previous versions
 description: Learn how to return to a previous version of a scenario. (Should be between 60 and 160 characters, but is 56 characters)
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

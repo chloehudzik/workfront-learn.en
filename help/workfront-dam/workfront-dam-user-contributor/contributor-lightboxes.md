@@ -1,5 +1,5 @@
 ---
-title: Lightboxes in [!UICONTROL Workfront DAM] Explained
+title: Understand lightboxes in [!UICONTROL Workfront DAM]
 description: Learn how to create and use lightboxes in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents

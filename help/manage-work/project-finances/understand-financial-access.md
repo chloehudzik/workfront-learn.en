@@ -1,6 +1,8 @@
 ---
 title: Understand financial access
-description: Financial access rights allow administrators to control who can see and edit the financial information tracked in Workfront.
+description: Learn how financial access rights allow administrators to control who can see and edit the financial information tracked in Workfront.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-financial-access.png
 type: Tutorial
