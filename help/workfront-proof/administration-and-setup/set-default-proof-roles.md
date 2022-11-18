@@ -1,6 +1,8 @@
 ---
-title: Set Default Proof Roles
+title: Set default proof roles
 description: Learn how to set the default proof role that's assigned when new users are created or people open a proof  .
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

@@ -1,6 +1,6 @@
 ---
-title: Customize Proof Decision Options
-description: Learn what a proof decision is  . Then rename the proof decision options and hide unneeded options in the proofing system setups.
+title: Customize proof decision options
+description: Learn what a proof decision is. Then rename the proof decision options and hide unneeded options in the proofing system setups.
 activity: use
 feature: Workfront Proof
 type: Tutorial

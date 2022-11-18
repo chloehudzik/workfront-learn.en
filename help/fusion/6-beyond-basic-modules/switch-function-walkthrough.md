@@ -1,9 +1,12 @@
 ---
-title: Switch Function Walkthrough
+title: Switch function walkthrough
 description: Learn how to use the Switch function to transform one value to another within a module field in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
 ---

@@ -1,5 +1,5 @@
 ---
-title: How to Collaborate Around Goals
+title: Collaborate around goals
 description: Learn how to collaborate with your team, define what you and your team must do to accomplish the top-level goal, and refine your goal hierarchy.
 activity: use
 feature: Workfront Goals

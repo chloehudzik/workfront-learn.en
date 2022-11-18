@@ -1,6 +1,8 @@
 ---
 title: Track and update goals using Check-ins
 description: Learn how to track, update, and calculate progress on goals in [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User

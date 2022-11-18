@@ -1,6 +1,8 @@
 ---
 title: Overview of portfolios
-description: Learn about what portfolios are in [!DNL Workfront] and how they can help you prioritize projects and compare projects against one another.
+description: Learn what portfolios are in [!DNL Workfront] and how they can help you prioritize projects and compare projects against one another.
+activity: use
+team: Technical Marketing
 feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial

@@ -1,5 +1,5 @@
 ---
-title: How to Search for Assets in [!UICONTROL Workfront DAM]
+title: Search for Assets in [!UICONTROL Workfront DAM]
 description: Learn how to search for assets using metadata and keywords, plan for maintaining metadata and keywords, and establish [!UICONTROL Workfront DAM] best practices.
 activity: use
 feature: Digital Content and Documents

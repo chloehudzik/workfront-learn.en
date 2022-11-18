@@ -1,6 +1,9 @@
 ---
 title: Dev tool
 description: Enhance your abilities to troubleshoot a scenario and ease complex configurations using the DevTool.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

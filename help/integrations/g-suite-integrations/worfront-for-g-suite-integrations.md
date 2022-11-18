@@ -1,5 +1,5 @@
 ---
-title: 'Enhance your workflow with the G Suite Integration'
+title: Enhance your workflow with the G Suite Integration
 description: Learn how to convert an email to a [!DNL Workfront] task or issue, view and update [!DNL Workfront] work from Gmail, and approve [!DNL Workfront] work from Gmail.
 activity: use
 feature: Workfront Integrations and Apps

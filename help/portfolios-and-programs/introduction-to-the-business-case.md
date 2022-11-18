@@ -1,6 +1,8 @@
 ---
 title: How to Use a [!UICONTROL Business Case] in [!DNL  Workfront]
 description: Learn how to use a [!UICONTROL Business Case] in [!DNL  Workfront] so that you get the information you need on projects to make informed decisions.
+activity: use
+team: Technical Marketing
 feature: Strategic Planning
 thumbnail: introduction-to-the-business-case.png
 type: Tutorial

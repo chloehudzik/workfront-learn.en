@@ -1,6 +1,8 @@
 ---
 title: Handle Unplanned Work
 description: Learn how to handle unplanned work in your organization with  .
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: handle-unplanned-work.jpeg
 type: Tutorial

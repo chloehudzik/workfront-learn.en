@@ -1,5 +1,5 @@
 ---
-title: Make approvals through Slack
+title: Make approvals through [!DNL Slack]
 description: Learn how to make approvals through Slack
 activity: use
 feature: Workfront Integrations and Apps

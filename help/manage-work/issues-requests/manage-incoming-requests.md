@@ -1,6 +1,8 @@
 ---
 title: Manage requests
 description: Learn how to find requests that have been submitted using dashboards, [!UICONTROL Home], the [!UICONTROL Requests] area, or the [!UICONTROL Teams] page in [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User

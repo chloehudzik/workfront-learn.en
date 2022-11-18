@@ -1,13 +1,16 @@
 ---
-title: Execution History Walkthrough
+title: Execution history walkthrough
 description: Learn how to review the execution history of a scenario to understand what happened when in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
 ---
-# Review execution history walkthrough
+# Execution history walkthrough
 
 ## Overview
 

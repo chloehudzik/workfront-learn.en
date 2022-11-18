@@ -1,6 +1,8 @@
 ---
 title: Understand [!UICONTROL Work Effort]
-description: Learn how you can use [!UICONTROL Work Effort] instead of planned hours in your project timeline.
+description: Learn how you can use [!UICONTROL Work Effort] to get a quick estimate of planned hours in your project timeline.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-work-effort.jpeg
 type: Tutorial

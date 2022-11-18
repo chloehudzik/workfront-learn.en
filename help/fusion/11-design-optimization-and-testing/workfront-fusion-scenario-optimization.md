@@ -1,9 +1,12 @@
 ---
-title: Workfront Fusion Scenario Optimization
+title: Workfront Fusion scenario optimization
 description: Learn how to perform fewer operations, send fewer API calls, and use fewer modules, all in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
 ---

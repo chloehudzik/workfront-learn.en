@@ -1,5 +1,5 @@
 ---
-title: How to Publish Assets to [!UICONTROL Brand Connect]
+title: Publish assets to [!UICONTROL Brand Connect]
 description: Learn how to publish assets and folders to [!UICONTROL Brand Connect] in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents

@@ -1,6 +1,8 @@
 ---
 title: Set up expense types
-description: Workfront has pre-built expense types that can be used when entering expenses, and new ones can be added.
+description: Learn how to use pre-built expense types when entering expenses, and how to create new expense types.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-expense-types.png
 type: Tutorial

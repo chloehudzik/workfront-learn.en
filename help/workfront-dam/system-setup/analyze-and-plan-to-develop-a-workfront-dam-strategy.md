@@ -1,6 +1,8 @@
 ---
 title: Develop a [!UICONTROL Workfront DAM] Strategy
 description: Learn how to analyze and plan to develop a [!UICONTROL Workfront DAM] strategy.
+activity: use
+team: Technical Marketing
 feature: Digital Content and Documents
 type: Tutorial
 role: Admin

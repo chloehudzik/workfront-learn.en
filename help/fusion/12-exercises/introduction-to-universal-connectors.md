@@ -1,6 +1,9 @@
 ---
 title: Introduction to universal connectors
 description: Expand your understanding of working with REST universal connectors and working with the data returned.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
@@ -44,7 +47,7 @@ Using a Pokemon character in a spreadsheet, call the Poke API through an HTTP co
    **Get the Pokemon data using the universal connector.**
 
 1. Add an HTTP Make a Request module.
-1. In the URL field use https://pokeapi.co/api/v2/pokemon/[Character], where [Character] is mapped to Column 3 from the Parse CSV module.
+1. In the URL field use `https://pokeapi.co/api/v2/pokemon/[Character]`, where [Character] is mapped to Column 3 from the Parse CSV module.
 1. Select the Parse response check box.
 1. Select Show advanced settings and then check the box next to "Evaluate all states as errors."
 1. Click OK and rename the module "Get Pokemon info."

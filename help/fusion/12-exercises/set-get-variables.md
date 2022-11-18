@@ -1,6 +1,9 @@
 ---
 title: Set/Get variables
 description: Learn how to use the Set and Get Variable modules to use the fields available in one path in a different path.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

@@ -1,5 +1,5 @@
 ---
-title: Make a Quantitative Update in [!DNL Workfront Goals]
+title: Make a quantitative update in [!DNL Workfront Goals]
 description: Learn how to make a quantitative update in [!DNL   Goals].
 activity: use
 feature: Workfront Goals

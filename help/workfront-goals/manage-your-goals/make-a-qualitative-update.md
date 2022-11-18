@@ -1,5 +1,5 @@
 ---
-title: Make a Qualitative Update in [!DNL Workfront Goals]
+title: Make a qualitative update in [!DNL Workfront Goals]
 description: Learn how to make a qualitative, or written, update in [!DNL   Goals].
 activity: use
 feature: Workfront Goals

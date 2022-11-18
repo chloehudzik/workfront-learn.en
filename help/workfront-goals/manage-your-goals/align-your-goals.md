@@ -1,5 +1,5 @@
 ---
-title: Goal Alignment in [!DNL Workfront Goals] Explained
+title: Align your goals
 description: Learn how to navigate the [!UICONTROL Goal Alignment] page in [!DNL   Goals].
 activity: use
 feature: Workfront Goals

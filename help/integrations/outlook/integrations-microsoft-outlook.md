@@ -1,6 +1,6 @@
 ---
-title: Integrations for Microsoft Outlook
-description: Learn how to install the Microsoft Outlook Add-in
+title: Install the [!UICONTROL Microsoft Outlook Add-in]
+description: Learn how to install the [!UICONTROL Microsoft Outlook Add-in]
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
 ---
-# Integrations for [!DNL Microsoft Outlook]
+# Install the Microsoft Outlook Add-in
 
 In this video, you will learn how to:
 

@@ -1,5 +1,5 @@
 ---
-title: How to Work with Assets in [!UICONTROL Workfront DAM]
+title: Work with assets in [!UICONTROL Workfront DAM]
 description: Learn how to work with assets in [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents

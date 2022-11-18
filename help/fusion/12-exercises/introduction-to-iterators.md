@@ -1,6 +1,9 @@
 ---
 title: Introduction to iterators
 description: Learn to use iteration-type apps and perform actions on each bundle of information.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

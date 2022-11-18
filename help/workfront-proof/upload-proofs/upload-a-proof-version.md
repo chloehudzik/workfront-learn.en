@@ -1,5 +1,5 @@
 ---
-title: How to Upload a Proof Version
+title: Upload a proof version
 description: Learn how to upload a new version of a proof and apply a proofing workflow to the version in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof

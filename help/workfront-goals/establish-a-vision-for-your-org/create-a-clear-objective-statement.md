@@ -1,5 +1,5 @@
 ---
-title: Define and Express the Objective or End Goal
+title: Define and express the objective or end goal
 description: Learn how to create a clear objective statement, or Commander's Intent, and write strong enterprise or organizational goals.
 activity: use
 feature: Workfront Goals

@@ -1,6 +1,8 @@
 ---
-title: Proof Details Explained
+title: Understand proof details
 description: Dig deeper into the details behind a proof in [!DNL  Workfront] through the summary panel and [!UICONTROL Document Details] page.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -9,7 +11,7 @@ thumbnail: understand-proof-details.png
 kt: 10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
 ---
-# Proof details overview
+# Understand proof details
 
 ## View proof details
 

@@ -1,5 +1,5 @@
 ---
-title: How to Review a Video with Proof
+title: Review a video with proof
 description: Learn how to adjust viewer settings and add time-stamped comments to a video using  proofing in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof

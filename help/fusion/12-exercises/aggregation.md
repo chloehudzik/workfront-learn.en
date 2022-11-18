@@ -1,6 +1,9 @@
 ---
 title: Aggregation
 description: Learn to aggregate multiple bundles of information into a single value.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

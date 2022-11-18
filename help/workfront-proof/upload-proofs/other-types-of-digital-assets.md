@@ -1,6 +1,8 @@
 ---
 title: Upload a proof of a video
 description: Learn how to upload a video for proofing in [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User

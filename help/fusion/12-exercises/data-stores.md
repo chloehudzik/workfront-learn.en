@@ -1,6 +1,9 @@
 ---
 title: Data stores
 description: Learn how to synchronize company names between two systems. (Should be between 60 and 160 characters, but is 59 characters)
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

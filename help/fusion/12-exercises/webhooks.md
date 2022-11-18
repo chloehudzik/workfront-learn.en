@@ -1,6 +1,9 @@
 ---
 title: Webhooks
 description: Learn how to create, trigger, and manage webhook-initiated scenarios.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

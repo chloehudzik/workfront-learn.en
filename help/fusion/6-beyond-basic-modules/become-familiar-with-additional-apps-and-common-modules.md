@@ -1,9 +1,12 @@
 ---
-title: Become Familiar with Apps and Modules
+title: Become familiar with additional apps and common modules
 description: Learn what triggers, actions, and searches are and how types of modules found in different app connectors function in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: e078a9e9-69c8-40a1-9ad1-e9517acf3ee6
 ---

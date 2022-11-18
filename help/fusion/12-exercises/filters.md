@@ -1,6 +1,9 @@
 ---
 title: Filters
 description: Learn how to use the filter between modules to allow only certain types of bundles through.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

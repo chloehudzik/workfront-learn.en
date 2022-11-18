@@ -1,6 +1,8 @@
 ---
 title: Find requests
 description: Learn how you can use dashboards, [!UICONTROL Home], the [!UICONTROL Requests] area, and the [!UICONTROL Teams] page to find incoming requests made through a request queue.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: find-requests.jpeg
 type: Tutorial

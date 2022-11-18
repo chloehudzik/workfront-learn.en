@@ -1,6 +1,8 @@
 ---
-title: Set Up Global Proof Settings
-description: Learn to how to set up default proof roles for users; default proofing account settings; and default proof settings for proofing  .
+title: Setup global proof settings
+description: Learn to how to set up default proof roles for users; default proofing account settings; and default proof settings for proofing.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

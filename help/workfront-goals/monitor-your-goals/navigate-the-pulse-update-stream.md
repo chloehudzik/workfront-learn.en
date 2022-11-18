@@ -1,5 +1,5 @@
 ---
-title: Navigate the [!UICONTROL Pulse] Update Stream in Goals
+title: Navigate the [!UICONTROL Pulse] update stream in [!DNL Goals]
 description: Learn how to navigate the [!UICONTROL Pulse] update stream in [!DNL   Goals].
 activity: use
 feature: Workfront Goals

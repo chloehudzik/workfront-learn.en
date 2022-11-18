@@ -1,9 +1,12 @@
 ---
-title: Incomplete Executions Walkthrough
+title: Incomplete executions walkthrough
 description: Learn the value of storing incomplete executions and then re-running bundles after evaluating and correcting errors in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
 ---

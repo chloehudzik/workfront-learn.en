@@ -1,6 +1,8 @@
 ---
 title: Copy an existing project
-description: Learn how to make a copy of an existing project  .
+description: Learn how to make a copy of an existing project.
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: copy-an-existing-project.jpeg
 type: Tutorial

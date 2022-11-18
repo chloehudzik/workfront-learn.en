@@ -1,9 +1,12 @@
 ---
-title: Webhooks Walkthrough
+title: Webhooks walkthrough
 description: Learn how to use a webhook to create an app to determine whether or not a customer is old enough to purchase alcohol, all in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 ---
@@ -40,6 +43,10 @@ To follow along with the walkthrough exercise, you need to download the free Pos
 ![An image using the switch module](assets/beyond-basic-modules-6.png)
 
 ## Your turn
+
+>[!NOTE]
+>
+>Practice exercises are optional and are not necessary to complete Fusion training.
 
 This practice exercise builds on what you learned in the walkthrough, but the solution is not provided.
 

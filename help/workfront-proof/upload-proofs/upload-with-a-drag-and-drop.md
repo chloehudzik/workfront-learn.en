@@ -1,6 +1,8 @@
 ---
-title: How to Upload with a Drag and Drop
+title: Upload with a drag and drop
 description: Learn about the benefits and limitations of uploading files into [!DNL  Workfront] using a drag and drop.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User

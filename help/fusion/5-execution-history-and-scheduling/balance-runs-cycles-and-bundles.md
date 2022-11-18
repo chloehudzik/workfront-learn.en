@@ -1,9 +1,12 @@
 ---
-title: Balance Runs, Cycles, and Bundles
-description: In this video, you will learn what balancing runs, cycles, and bundles is in [!DNL Adobe Workfront Fusion].
+title: Balance runs, cycles, and bundles
+description: Learn what balancing runs, cycles, and bundles is in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: ed502932-2e42-4bc0-aa1b-d1a83637ca97
 ---

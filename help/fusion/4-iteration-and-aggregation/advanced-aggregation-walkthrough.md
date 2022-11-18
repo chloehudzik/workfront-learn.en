@@ -2,8 +2,11 @@
 title: Advanced aggregation walkthrough
 description: Learn how to call a web service to return details about multiple countries and identify population, grouped by sub-region, all in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 ---
@@ -39,6 +42,10 @@ To prevent this, add an aggregator after a module that potentially produces mult
 You'll see a shadow surrounding any segment in your scenario from a **beginning-iterator** to the **ending-aggregator**. This helps make these segments easy to spot in your Workfront Fusion scenario.
 
 ## Your turn
+
+>[!NOTE]
+>
+>Practice exercises are optional and are not necessary to complete Fusion training.
 
 This practice exercise builds on what you learned in the walkthrough, but the solution is not provided.
 

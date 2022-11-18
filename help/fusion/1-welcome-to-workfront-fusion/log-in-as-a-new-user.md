@@ -2,8 +2,11 @@
 title: Log in as a new user
 description: Learn how to log in as a new user.
 activity: use
-doc-type: tutorial
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 11036
 exl-id: c36e5285-88e5-43f5-93bd-b05bf9e8f9ef
 ---

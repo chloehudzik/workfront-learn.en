@@ -1,5 +1,5 @@
 ---
-title: Learn the [!UICONTROL Workfront DAM] and Brand Connect
+title: Learn about [!UICONTROL Workfront DAM] and Brand Connect
 description: Learn about what [!UICONTROL Workfront DAM] and Brand Connect are and how they are used.
 activity: use
 feature: Digital Content and Documents

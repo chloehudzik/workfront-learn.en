@@ -1,6 +1,8 @@
 ---
-title: Set Up Proof Account Default Settings
+title: Set up proof account default settings
 description: Learn how to set up default account settings that apply globally to all proofs and proofing users  .
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

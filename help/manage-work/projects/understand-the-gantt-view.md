@@ -1,6 +1,8 @@
 ---
 title: Understand the [!UICONTROL Gantt] view
 description: Learn how to view a project with the [!UICONTROL Gantt] chart in [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-the-gantt-view.jpeg
 type: Tutorial

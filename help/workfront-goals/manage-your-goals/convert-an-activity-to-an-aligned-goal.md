@@ -1,5 +1,5 @@
 ---
-title: Convert an Activity or Result into an Aligned Goal
+title: Convert an activity to an aligned goal
 description: Learn how to convert an activity or result into an aligned goal in [!DNL   Goals].
 activity: use
 feature: Workfront Goals

@@ -1,5 +1,5 @@
 ---
-title: How to Upload a Proof of a Website
+title: Upload a proof of a website
 description: Learn how to upload a website as a static proof and interactive proof in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof

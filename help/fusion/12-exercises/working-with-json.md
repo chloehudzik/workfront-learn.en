@@ -1,6 +1,9 @@
 ---
 title: Working with JSON
 description: Learn how to create and parse JSON within a scenario to support your design needs.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

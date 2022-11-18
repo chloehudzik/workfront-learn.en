@@ -1,6 +1,9 @@
 ---
 title: Execution history
 description: Review and audit details about past executions and scenario configurations.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

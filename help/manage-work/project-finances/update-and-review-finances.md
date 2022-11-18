@@ -1,6 +1,8 @@
 ---
 title: Update and review finances
 description: Learn how to review the financial information associated with a project in [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: update-and-review-finances.jpeg
 type: Tutorial

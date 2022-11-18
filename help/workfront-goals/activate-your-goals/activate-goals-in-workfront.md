@@ -1,6 +1,8 @@
 ---
 title: Activate Goals in [!DNL Workfront Goals]
 description: Learn how to activate goals in [!DNL Workfront Goals] once you have created them.
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User

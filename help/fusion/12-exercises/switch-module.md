@@ -1,6 +1,9 @@
 ---
 title: Switch module
 description: Understand how to use the Switch module when you need to perform more complex or dynamic data transformations.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

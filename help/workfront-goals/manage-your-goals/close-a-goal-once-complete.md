@@ -1,5 +1,5 @@
 ---
-title: How to Close a Goal Once Complete
+title: Close a goal once complete
 description: Learn how to close a goal in [!DNL   Goals].
 activity: use
 feature: Workfront Goals

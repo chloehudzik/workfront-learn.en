@@ -1,9 +1,12 @@
 ---
-title: Routers Walkthrough
+title: Routers walkthrough
 description: Learn how to use a router to pass Pokemon vs. superheroes bundles down the correct path in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 ---
@@ -23,9 +26,9 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 ## Exercise URLs
 
-* Superhero API website: https://www.superheroapi.com/
-* First URL for exercise: https://www.superheroapi.com/api/{access-token}/{character-id}/appearance
-* Second URL for exercise: https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats
+* Superhero API website: `https://www.superheroapi.com/`
+* First URL for exercise: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
+* Second URL for exercise: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 If you have trouble accessing your own superhero token, you can use this shared token: 10110256647253588. Please be considerate of how many times you call to the superhero API so this shared token continues to work for everyone.
 
@@ -80,6 +83,10 @@ Learn more about Workfront Fusion Universal Connectors and how to set them up to
 You can check the entire list of our pre-built app connectors in Experience League. If you would like to suggest a new app connector to the Workfront Fusion product team, submit your idea to Innovation Lab. If you haven’t submitted before, learn more about the Innovation Lab, plus how you can vote for ideas and participate in the twice-a-year Leaderboard prioritization. If you already have access to Innovation lab, log in and submit your ideas.
 
 ## Your turn
+
+>[!NOTE]
+>
+>Practice exercises are optional and are not necessary to complete Fusion training.
 
 This practice exercise builds on what you learned in the walkthrough, but the solution is not provided.
 

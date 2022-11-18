@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Workfront Goals] Explained by Product'
+title: Understand the vision behind [!UICONTROL Workfront Goals]
 description: Learn about [!DNL Workfront Goals] in [!DNL  Workfront] from the Product team.
 activity: use
 feature: Workfront Goals
@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 8887
 exl-id: 42327448-227b-428f-93aa-6039db1291e5
 ---
-# A moment with Product on [!DNL Workfront Goals]
+# Understand the vision behind Workfront Goals
 
 In this video, you will learn about:
 

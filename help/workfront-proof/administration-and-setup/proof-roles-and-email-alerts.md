@@ -1,6 +1,8 @@
 ---
-title: Get Started with Proof Roles and Email Alerts
+title: Proof roles and email alerts
 description: Learn how to enable proper proof roles and email alerts so proof recipients have access to proofs and visibility into the work being done in [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

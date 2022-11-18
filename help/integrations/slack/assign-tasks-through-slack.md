@@ -1,6 +1,6 @@
 ---
-title: Assign tasks through Slack
-description: Learn how to assign tasks in [!DNL Workfront]
+title: Assign tasks through [!DNL Slack]
+description: Learn how to assign tasks in [!DNL Workfront] through [!DNL Slack]
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial

@@ -1,6 +1,8 @@
 ---
-title: How to Manage Proof Comments
+title: Manage proof comments
 description: Learn how to manage proof comments in [!DNL  Workfront] by applying comment actions, resolving comments, and filtering the comments column.
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

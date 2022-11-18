@@ -1,9 +1,12 @@
 ---
-title: Set/Get Variables Walkthrough
-description: In this video, you will learn how to look up information about a project in Workfront and send an email with related information in [!DNL Adobe Workfront Fusion].
+title: Set/Get variables walkthrough
+description: Learn how to look up information about a project in Workfront and send an email with related information in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
 ---
@@ -26,6 +29,10 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 >For step-by-step instructions on completing the walkthrough, go to the [Set/Get variables walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) exercise.
 
 ## Your turn
+
+>[!NOTE]
+>
+>Practice exercises are optional and are not necessary to complete Fusion training.
 
 This practice exercise builds on what you learned in the walkthrough, but the solution is not provided.
 

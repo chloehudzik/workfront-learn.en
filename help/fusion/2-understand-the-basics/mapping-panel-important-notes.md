@@ -1,9 +1,12 @@
 ---
-title: Mapping Panel Important Notes
-description: In this video, you will learn the importance of using the operators provided in the mapping panel in [!DNL Adobe Workfront Fusion].
+title: Mapping panel important notes
+description: Learn the importance of using the operators provided in the mapping panel in [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9003
 exl-id: 2f5a2088-b32c-457f-baa1-913501d74b73
 ---

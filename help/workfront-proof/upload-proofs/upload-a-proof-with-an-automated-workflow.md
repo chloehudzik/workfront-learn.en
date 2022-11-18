@@ -1,5 +1,5 @@
 ---
-title: How to Upload Using Automated Workflows
+title: Upload a proof with an automated workflow
 description: Learn when to use an automated proof workflow, how to apply a workflow using a proof template, and how to set up an automated workflow from scratch.
 activity: use
 feature: Workfront Proof

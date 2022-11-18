@@ -1,6 +1,9 @@
 ---
 title: Beyond basic mapping
 description: Learn how to use the mapping panel formulas to manipulate or convert field(s) sent to a module.
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner

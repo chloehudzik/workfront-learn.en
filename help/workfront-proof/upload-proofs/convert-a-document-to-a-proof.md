@@ -1,5 +1,5 @@
 ---
-title: How to Convert a Document to a Proof
+title: Convert a document to a proof
 description: Learn how to generate a proof of a document that already exists in [!DNL  Workfront], add a workflow to a proof, and add or edit a workflow after proof creation.
 activity: use
 feature: Workfront Proof

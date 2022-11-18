@@ -1,5 +1,5 @@
 ---
-title: Navigate the Proof Viewer
+title: Navigate the proof viewer
 description: Learn how to move a proof around, zoom in/out on the content, use the thumbnail column, filter proof comments, and more in the [!DNL  Workfront] proofing viewer.
 activity: use
 feature: Workfront Proof
