@@ -19,7 +19,7 @@ exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
 1. Select **[!UICONTROL Statuses]**.
 1. Select the **[!UICONTROL Issues]** tab.
 1. Make sure the field in the upper-right is set to [!UICONTROL System Statuses]. This ensures the new status is available globally across your [!DNL Workfront] instance.
-1. Select **[!UICONTROL Master List ]**to see all issue statuses. This is where you create or modify a status.
+1. Select **[!UICONTROL Master List ]** to see all issue statuses. This is where you create or modify a status.
 1. Click **[!UICONTROL Add a New Status]**.
 1. Complete the fields as needed for your organization — name, description, color, equates with, key, etc.
 1. Check the boxes for the type of issue this status can be used with.
