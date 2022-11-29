@@ -1,5 +1,5 @@
 ---
-title: Introduction to iterators
+title: Introduction to iterators exercise
 description: Learn to use iteration-type apps and perform actions on each bundle of information.
 activity: use
 team: Technical Marketing
