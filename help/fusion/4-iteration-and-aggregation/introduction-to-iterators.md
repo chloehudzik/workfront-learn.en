@@ -7,7 +7,7 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: Jira ticket
+kt: 9018
 exl-id: a790156d-e04e-4fd0-b4a3-9c30cfaeaac5
 ---
 # Introduction to iterators

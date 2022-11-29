@@ -7,7 +7,7 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: Jira ticket
+kt: 9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 ---
 # Administration walkthrough
