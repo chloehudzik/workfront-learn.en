@@ -432,7 +432,7 @@ feature-set: Workfront
     + [Routers](fusion/12-exercises/routers.md)
     + [Routing patterns](fusion/12-exercises/routing-patterns.md)
     + [Set/Get variables](fusion/12-exercises/set-get-variables.md)
-    + [Introduction to iterators](fusion/12-exercises/introduction-to-iterators.md)
+    + [Introduction to iterators](fusion/12-exercises/introduction-to-iterators-exercise.md)
     + [Aggregation](fusion/12-exercises/aggregation.md)
     + [Advanced aggregation](fusion/12-exercises/advanced-aggregation.md)
     + [Execution history](fusion/12-exercises/execution-history.md)
