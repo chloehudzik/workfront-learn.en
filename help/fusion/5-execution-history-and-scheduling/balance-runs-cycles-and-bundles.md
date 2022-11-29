@@ -7,7 +7,7 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: Jira ticket
+kt: 9044
 exl-id: ed502932-2e42-4bc0-aa1b-d1a83637ca97
 ---
 # Balance runs, cycles, and bundles

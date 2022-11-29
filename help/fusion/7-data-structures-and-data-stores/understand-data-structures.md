@@ -7,7 +7,7 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: Jira ticket
+kt: 9052
 exl-id: 5b64d25e-5555-400d-ae40-eb1199153874
 ---
 # Understand data structures

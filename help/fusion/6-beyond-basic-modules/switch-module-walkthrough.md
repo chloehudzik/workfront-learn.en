@@ -7,7 +7,7 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: Jira ticket
+kt: 9049
 exl-id: 1354d907-3e61-45a5-b8cf-3eee61973f8f
 ---
 # Switch module walkthrough
