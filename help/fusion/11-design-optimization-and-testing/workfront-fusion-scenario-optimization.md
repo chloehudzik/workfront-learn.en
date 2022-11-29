@@ -7,7 +7,7 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: Jira ticket
+kt: 9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
 ---
 # Workfront Fusion scenario optimization

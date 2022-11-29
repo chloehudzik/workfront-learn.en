@@ -7,7 +7,7 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: Jira ticket
+kt: 9043
 exl-id: 85a51840-03b4-4584-a3c5-e2002a04464d
 ---
 # Understand scenario scheduling

@@ -7,7 +7,7 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: Jira ticket
+kt: 9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 ---
 # Dev tool walkthrough
