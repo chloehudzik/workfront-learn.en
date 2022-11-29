@@ -30,7 +30,7 @@ In this video, you will learn:
 
 Many Workfront Fusion users reach a point where they're thinking about all the systems they use and eventually ask, "Does Workfront Fusion have connectors to ____ software?" (Fill in the blank for the systems that you use.) 
 
-The simplest way to determine if Workfront Fusion has a pre-built connector is to use the Add app feature and search for an app by name. You can also check the **Apps and their modules** article on Experience League for a list of applications Workfront Fusion can connect with.
+The simplest way to determine if Workfront Fusion has a pre-built connector is to use the Add app feature and search for an app by name. You can also check the [Apps and their modules](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) article on Experience League for a list of applications Workfront Fusion can connect with.
 
 Connectors aren't limited only to the apps in this article. If the app you want to work with doesn't have a pre-built connector, you can use these modules to connect directly to the web service:
 

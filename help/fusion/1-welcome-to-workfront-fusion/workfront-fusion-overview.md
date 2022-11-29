@@ -14,9 +14,9 @@ exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 
 Each Workfront Fusion section contains multiple tutorials, with each tutorial presenting concepts you’ll need to understand before progressing to the next tutorial. A walkthrough exercise helps you master most concepts. 
 
-The videos show you, step-by-step, how to complete each exercise, which results in creating a new Workfront Fusion scenario. Then you can complete the exercise in your own Workfront Fusion environment, adding to your own collection of scenarios. The **Adobe Workfront Fusion activity book** contains step-by-step instructions for completing the walkthroughs.
+The videos show you how to complete each walkthrough exercise, which usually results in creating a new Workfront Fusion scenario. Then you can complete the exercise in your own Workfront Fusion environment, adding to your own collection of scenarios.
 
-In some tutorials, you’ll create a new scenario from scratch. In other sections, you will start by making a copy of a scenario you created previously. 
+In some tutorials, you’ll create a new scenario from scratch. In other tutorials, you will start by making a copy of a scenario you created previously. 
 
 >[!IMPORTANT]
 >
@@ -32,7 +32,7 @@ Request a practice environment by filling out [this form](https://forms.office.c
 
 ### Access Workfront Fusion for practice
 
-Workfront does not offer Workfront Fusion test drives. To practice as you complete the learning paths, request access to Workfront Fusion from your organization’s Workfront Fusion administrator.
+Workfront does not offer Workfront Fusion test drives. To practice as you complete the tutorials, request access to Workfront Fusion from your organization’s Workfront Fusion administrator.
 
 ### Step-by-step instructions on completing the walkthrough exercises
 
