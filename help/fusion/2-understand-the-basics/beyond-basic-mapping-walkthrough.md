@@ -32,7 +32,7 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!NOTE]
 >
->Practice exercises are optional and are not necessary to complete Fusion training.
+>Practice exercises and challenges are optional and are not necessary to complete Fusion training.
 
 This practice exercise builds on what you learned in the walkthrough, but the solution is not provided.
 

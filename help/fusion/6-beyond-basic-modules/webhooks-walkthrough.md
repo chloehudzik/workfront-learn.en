@@ -46,7 +46,7 @@ To follow along with the walkthrough exercise, you need to download the free Pos
 
 >[!NOTE]
 >
->Practice exercises are optional and are not necessary to complete Fusion training.
+>Practice exercises and challenges are optional and are not necessary to complete Fusion training.
 
 This practice exercise builds on what you learned in the walkthrough, but the solution is not provided.
 

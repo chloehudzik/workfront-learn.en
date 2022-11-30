@@ -86,7 +86,7 @@ You can check the entire list of our pre-built app connectors in Experience Leag
 
 >[!NOTE]
 >
->Practice exercises are optional and are not necessary to complete Fusion training.
+>Practice exercises and challenges are optional and are not necessary to complete Fusion training.
 
 This practice exercise builds on what you learned in the walkthrough, but the solution is not provided.
 
