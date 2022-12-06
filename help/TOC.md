@@ -325,6 +325,12 @@ feature-set: Workfront
     + [Upload proofs with Workfront for Adobe Creative Cloud](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
     + [Use Workfront for Adobe Creative Cloud](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
 
+  + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
+    + [Configuring](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+    + [Mapping metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+    + [Sending documents and linking assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+    + [Version history](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
+
   + G Suite {#g-suite-integrations}
     + [Enhance your workflow with the G Suite Integration](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
 
