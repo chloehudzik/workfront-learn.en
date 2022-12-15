@@ -340,6 +340,15 @@ feature-set: Workfront
   + Microsoft Outlook {#outlook}
     + [Install the Microsoft Outlook add-in](integrations/outlook/integrations-microsoft-outlook.md)
 
+  + Microsoft Teams {#ms-teams}
+    + [Adobe Workfront for Microsoft Teams Overview](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+    + [Install Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+    + [Access Adobe Workfront from Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+    + [Search for and share Adobe Workfront items in Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+    + [Create Adobe Workfront tasks from Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+    + [Submit Adobe Workfront requests from Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+    + [Manage Adobe Workfront notifications in Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
+
   + Slack {#slack}
     + [Access your to-do list through [!UICONTROL Slack]](integrations/slack/access-your-to-do-list-through-slack.md)
     + [Assign tasks through [!UICONTROL Slack]](integrations/slack/assign-tasks-through-slack.md)

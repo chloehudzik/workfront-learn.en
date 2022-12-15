@@ -31,6 +31,3 @@ Before you dive into proof setups in [!DNL  Workfront], get familiar with the pr
 * **Email alert —** Notification when there’s activity on the proof.
 * **Proof user —** Someone with a [!DNL Workfront] Plan or Work license who can upload, review, approve, manage, etc., digital proofs.
 
-<!--
-For a complete list of [!DNL Workfront] proof terms, download this guide.
--->
