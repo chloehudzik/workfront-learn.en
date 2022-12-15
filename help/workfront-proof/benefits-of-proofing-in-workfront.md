@@ -1,5 +1,5 @@
 ---
-title: Learm the benefits of proofing
+title: Learn the benefits of proofing
 description: Learn what proofing is and the benefits of using digital proofing in [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -11,7 +11,7 @@ thumbnail: 336095.png
 kt: 8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
 ---
-# Learm the benefits of proofing [!DNL Workfront]
+# Learn the benefits of proofing [!DNL Workfront]
 
 In this video, you will learn:
 
