@@ -18,7 +18,7 @@ Date and time expressions let you pull important dates to the forefront of your 
 
 When looking at the available date and time expressions, you’ll find several options available.
 
-![Resource management setups one pager](assets/DTM01.png)
+![Sample date and time expressions](assets/datetimeexpressions01.png)
 
 There are two date and time expression sets used most often by [!DNL Workfront] customers:
 
@@ -31,9 +31,11 @@ Mathematical expressions allow [!DNL Workfront] to automatically do calculations
 
 When looking at the available date and time expressions, you’ll find that you have several options available.
 
-![Resource management setups one pager](assets/math01.png)
+![Sample mathematical expressions](assets/datetimeexpressions02.png)
 
-[!DNL Workfront] customers commonly use these two mathematical expression sets:
+Workfront customers commonly use these two mathematical expression sets:
 
 * SUB, SUM, DIV, PROD
 * ROUND
+
+<b>NOTE</b>: For a full list of expressions and more information on each one, please see the “Calculated data expressions” documentation page.
