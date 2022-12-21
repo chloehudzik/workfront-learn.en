@@ -26,31 +26,31 @@ To look for a specific value in the description, like “charity event,” use t
 
 The ISBLANK text expression includes the name of the expression and one data point. 
 
-**ISBLANK(data point)**
+**ISBLANK({data point})**
 
 ![Workload balancer with utilization report](assets/isblank03.png)
 
 In the example above—where you want to know if the project has a description—the expression would be:
 
-ISBLANK(Description)
+ISBLANK({description})
 
 ## CONTAINS
 
 The CONTAINS text expression includes the name of the expression, the word or phrase you’re looking for, and the field to look in. 
 
-**CONTAINS(“phrase”,field)**
+**CONTAINS(“phrase”,{fields})**
 
 Make sure to put quotes around the word or phrase you’re looking for, otherwise the expression won’t be valid.
 
 In the example above (looking for “charity event” in the project description), the expression would be:
 
-**CONTAINS(“charity event”,Description)**
+**CONTAINS(“charity event”,{description})**
 
 ![Workload balancer with utilization report](assets/isblank04.png)
 
 **Note**: The CONTAINS expression is case sensitive. For example, if “Charity Event” is capitalized in the description field, capitalize that phrase in the expression.
 
-**CONTAINS(“Charity Event”,Description)**
+**CONTAINS(“Charity Event”,{description})**
 
 Both the ISBLANK and CONTAINS expressions are good to use if you’re looking to see if a value is present. However, it may be more useful to know what the value is, to actually see it or have some sort of descriptor to provide better insight.
 
