@@ -61,6 +61,9 @@ feature-set: Workfront
     + [Understand group-specific approval processes](administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
     + [Create milestones](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
+  + System performance and maintenance {#system-perfomance-and-maintenance}
+    + [Take charge of an existing Adobe Workfront instance](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 + Custom Data {#custom-data}
   + Custom Forms {#custom-forms}
