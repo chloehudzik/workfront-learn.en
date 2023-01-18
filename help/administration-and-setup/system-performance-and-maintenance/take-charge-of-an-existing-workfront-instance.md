@@ -6,10 +6,11 @@ type: Tutorial
 role: Admin
 level: Beginner,Intermediate,Experienced
 activity: use
+kt: 11747
 team: Technical Marketing
 thumbnail: 
 ---
-# Take Charge of an Existing Adobe Workfront Instance 
+# Take charge of an existing Adobe Workfront instance 
 
 The wonderful thing about Workfront is that it’s so customizable. The challenging thing about Workfront is that it’s so customizable. And if you’re a new system, or group, administrator taking over an existing Workfront instance, it can be overwhelming to figure out how it was originally configured and set up. 
 
@@ -34,7 +35,8 @@ Wherever possible, we encourage you to work with others in your organization to 
 <br>
 </br>
 
-## Phase 1: Learning & Discovery 
+## Phase 1: Learning & Discovery
+
 <b>Suggested time frame: 4 weeks</b>
 
 The first thing to do is to understand how your instance of Workfront is set up today.  
@@ -54,6 +56,7 @@ By the end of this phase, you should have:
 </br>
 
 ## Phase 2: System Audit
+
 <b>Suggested timeframe: 4 weeks </b>
 
 After the initial discovery, it's recommended that you do a more technical audit of your instance. That means you need to determine changes or enhancements that may need to be done to ensure your current setup and configuration meets your business requirements and needs.  
@@ -67,6 +70,7 @@ By the end of this phase, you should have:
 </br>
 
 ## Phase 3: Documentation & Optimization
+
 <b>Suggested timeframe: Initial = 2 weeks; Continual updating </b>
 
 Based on what you learned in phases 1 and 2, you'll want to create, or update, and documentation of your instance and develop roadmaps to address strategic and program-level challenges.  
