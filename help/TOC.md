@@ -38,6 +38,7 @@ feature-set: Workfront
     + [Assign and manage access to layout templates](administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
     + [Customize object areas with a layout template](administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
     + [Customize project details with layout templates](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
+    + [Customize project headers with layout templates](administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
     + [Customize reporting lists with layout templates](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
 
   + Email and In App Notifications {#email-and-in-app-notifications}
