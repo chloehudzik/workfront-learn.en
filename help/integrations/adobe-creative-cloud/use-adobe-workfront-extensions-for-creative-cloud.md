@@ -8,7 +8,6 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: 
-exl-id: 
 ---
 # Use Adobe Workfront extensions for Creative Cloud
 
