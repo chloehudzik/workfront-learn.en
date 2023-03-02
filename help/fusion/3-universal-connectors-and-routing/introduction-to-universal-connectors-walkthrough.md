@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
+doc-type: video
 ---
 # Introduction to universal connectors walkthrough
 

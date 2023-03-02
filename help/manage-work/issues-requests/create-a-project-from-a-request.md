@@ -10,6 +10,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 9723
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
+doc-type: video
 ---
 # Create a project from a request
 

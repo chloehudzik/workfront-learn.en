@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335137.png
 kt: 8837
 exl-id: 5121b112-2b17-44f4-8e36-1ce4eb9898f8
+doc-type: video
 ---
 # Manage proof versions
 

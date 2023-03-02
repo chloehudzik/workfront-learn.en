@@ -10,6 +10,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
+doc-type: video
 ---
 # Work with tasks
 

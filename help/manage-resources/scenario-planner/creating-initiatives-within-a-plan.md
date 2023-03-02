@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335319.jpeg
 kt: 9077
 exl-id: 8c5971e6-1c6e-4357-9e7b-685b2ae558c4
+doc-type: video
 ---
 # Creating initiatives within a plan
 

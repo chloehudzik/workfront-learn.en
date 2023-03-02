@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335320.jpeg
 kt: 9078
 exl-id: da426ef6-5033-4974-a897-e82563a776f6
+doc-type: video
 ---
 # Adjust job role, budget, and cost information in the [!DNL Scenario Planner]
 

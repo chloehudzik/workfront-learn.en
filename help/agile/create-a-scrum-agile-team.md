@@ -7,6 +7,7 @@ level: Intermediate
 kt: 10871
 thumbnail: 346281.jpeg
 exl-id: 5fd50010-6aba-49af-9094-026b0569e0d8
+doc-type: video
 ---
 # Create a Scrum Agile Team
 

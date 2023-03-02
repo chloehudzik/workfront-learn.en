@@ -8,6 +8,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 8961
+doc-type: video
 ---
 # Approval Processes course introduction
 

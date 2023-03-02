@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335065.png
 kt: 8753
 exl-id: b961ba8c-9597-4ed4-a6d7-79689c8e290d
+doc-type: video
 ---
 # Configure global default project settings
 

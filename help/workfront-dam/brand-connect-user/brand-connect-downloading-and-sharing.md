@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8987
 exl-id: 5c1ab624-9f20-4ec4-b335-ceeaf9cbc86d
+doc-type: video
 ---
 # Brand Connect: How to download and share Lightboxes
 

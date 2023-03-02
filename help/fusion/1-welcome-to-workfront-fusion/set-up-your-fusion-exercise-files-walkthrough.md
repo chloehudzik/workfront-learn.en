@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 8998
 exl-id: 2499a65a-a3c6-4ba9-82c6-c2932831f33e
+doc-type: video
 ---
 # Set up your Fusion exercise files walkthrough
 

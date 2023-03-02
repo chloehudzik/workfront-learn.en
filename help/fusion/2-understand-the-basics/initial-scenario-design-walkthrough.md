@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
+doc-type: video
 ---
 # Initial scenario design walkthrough
 

@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8891
 exl-id: a1062cb3-94cb-4996-9352-dc15c6ae2a9a
+doc-type: video
 ---
 # Establish a vision and strategy
 

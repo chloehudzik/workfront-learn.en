@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9043
 exl-id: 85a51840-03b4-4584-a3c5-e2002a04464d
+doc-type: video
 ---
 # Understand scenario scheduling
 

@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8898
 exl-id: 16343eab-1243-4f36-824f-a53da328de78
+doc-type: video
 ---
 # Top-to-bottom approach. Convert existing activities and results (work) to child goals.
 

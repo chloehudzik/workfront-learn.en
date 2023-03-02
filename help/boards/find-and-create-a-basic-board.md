@@ -9,6 +9,7 @@ kt: 10806
 role: User, Leader
 level: Beginner
 exl-id: 2744efec-9194-4bd9-8bc4-391cc796c5a4
+doc-type: video
 ---
 # Find and create a basic board
 

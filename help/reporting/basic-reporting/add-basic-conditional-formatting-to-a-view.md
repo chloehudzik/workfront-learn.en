@@ -10,6 +10,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
+doc-type: video
 ---
 # Add basic conditional formatting to a view
 

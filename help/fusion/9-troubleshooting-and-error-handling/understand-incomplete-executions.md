@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9066
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
+doc-type: video
 ---
 # Understand incomplete executions
 

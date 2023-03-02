@@ -7,6 +7,7 @@ level: Intermediate
 kt: 10875
 thumbnail: 346285.jpeg
 exl-id: 9ad64b05-55d6-4ca4-a8f3-89a1c2c54f34
+doc-type: video
 ---
 # Using the iteration page
 

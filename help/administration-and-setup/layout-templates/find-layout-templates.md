@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335072.jpeg
 kt: 8759
 exl-id: eee9988f-2e60-4e1f-b1bf-c6e82a9ba19c
+doc-type: video
 ---
 # Find and create layout templates
 

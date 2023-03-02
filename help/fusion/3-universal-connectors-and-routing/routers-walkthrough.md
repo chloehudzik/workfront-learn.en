@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
+doc-type: video
 ---
 # Routers walkthrough
 

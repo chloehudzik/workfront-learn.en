@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335169.jpeg
 kt: 8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
+doc-type: video
 ---
 # View by job role in the [!DNL Resource Planner]
 

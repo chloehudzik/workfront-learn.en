@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335109.png
 kt: 8809
 exl-id: 40296ba0-32c1-4fe7-8060-f71991872c37
+doc-type: video
 ---
 # Understand updates and notifications
 

@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335129.png
 kt: 8829
 exl-id: 4b64aff1-b917-471b-a1ba-40a9ebe883e9
+doc-type: video
 ---
 # What is an automated workflow template?
 

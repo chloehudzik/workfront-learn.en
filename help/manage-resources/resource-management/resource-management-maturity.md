@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335160.png
 kt: 8814
 exl-id: f9043748-116f-4d89-9330-bd74a762e684
+doc-type: video
 ---
 # Resource management maturity
 

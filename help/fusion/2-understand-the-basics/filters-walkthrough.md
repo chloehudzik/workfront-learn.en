@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9007
 exl-id: 3609d5dc-c398-43b0-a253-d8f95b67b818
+doc-type: video
 ---
 # Using the mighty filter walkthrough
 

@@ -10,6 +10,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
+doc-type: video
 ---
 # Create a basic view
 

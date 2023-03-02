@@ -8,6 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: 8811
+doc-type: video
 ---
 # Use Adobe Workfront plugins for Creative Cloud
 

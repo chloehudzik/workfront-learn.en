@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335163.png
 kt: 8875
 exl-id: 8a767d41-391c-4862-8b49-6d9480cc8187
+doc-type: video
 ---
 # Filter the Unassigned and Assigned Work areas
 

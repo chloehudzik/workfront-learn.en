@@ -9,6 +9,7 @@ level: Intermediate
 type: Tutorial
 thumbnail: 
 kt: 11108
+doc-type: video
 ---
 # Customize project headers with layout templates
 

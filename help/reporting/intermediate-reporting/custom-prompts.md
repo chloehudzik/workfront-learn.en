@@ -10,6 +10,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
+doc-type: video
 ---
 # Create custom prompts
 

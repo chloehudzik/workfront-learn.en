@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335142.png
 kt: 8845
+doc-type: video
 exl-id: 8ade7208-4a39-4471-845f-5290fe27b66b
 ---
 # View and compare proof versions

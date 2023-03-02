@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8807
+doc-type: video
 ---
 # Update a request
 

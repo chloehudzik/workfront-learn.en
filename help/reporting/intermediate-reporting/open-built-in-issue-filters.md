@@ -10,6 +10,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
+doc-type: video
 ---
 # Understand built-in issue filters
 

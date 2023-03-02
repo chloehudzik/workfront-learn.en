@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8821
 exl-id: cb0ec783-0e2c-498d-a481-63617eddae8e
+doc-type: video
 ---
 # Search [!DNL Workfront] through [!DNL Slack]
 

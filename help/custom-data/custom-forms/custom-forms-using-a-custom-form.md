@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335173.png
 kt: 8910
 exl-id: 0d4ebd19-f4e8-4e3b-9580-e22e47442836
+doc-type: video
 ---
 # Attach a custom form to an object
 

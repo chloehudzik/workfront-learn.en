@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335170.jpeg
 kt: 8907
 exl-id: b1e4fdfe-ec7a-4893-930d-14842f59f45e
+doc-type: video
 ---
 # View by project in the [!DNL Resource Planner]
 

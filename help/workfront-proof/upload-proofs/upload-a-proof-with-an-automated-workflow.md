@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335133.png
 kt: 8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
+doc-type: video
 ---
 # Upload a proof with an automated workflow
 

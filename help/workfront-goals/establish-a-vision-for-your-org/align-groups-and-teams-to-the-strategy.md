@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8894
 exl-id: 2f3ef8e3-f667-4efa-9cf0-44f8835d1671
+doc-type: video
 ---
 # Align groups and teams to the strategy
 

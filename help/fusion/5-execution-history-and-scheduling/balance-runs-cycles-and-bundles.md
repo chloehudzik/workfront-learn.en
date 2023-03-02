@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9044
 exl-id: ed502932-2e42-4bc0-aa1b-d1a83637ca97
+doc-type: video
 ---
 # Balance runs, cycles, and bundles
 

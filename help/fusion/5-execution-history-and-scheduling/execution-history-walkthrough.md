@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
+doc-type: video
 ---
 # Execution history walkthrough
 

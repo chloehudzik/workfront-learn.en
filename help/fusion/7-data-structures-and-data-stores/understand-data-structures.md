@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9052
 exl-id: 5b64d25e-5555-400d-ae40-eb1199153874
+doc-type: video
 ---
 # Understand data structures
 

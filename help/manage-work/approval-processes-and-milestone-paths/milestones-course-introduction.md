@@ -8,6 +8,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 8931
+doc-type: video
 ---
 # Milestones&#58; Course introduction
 

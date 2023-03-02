@@ -9,6 +9,7 @@ kt: 10809
 role: User, Leader
 level: Beginner
 exl-id: 2ed7d5b5-e795-42cb-8a36-af6e8801a3b5
+doc-type: video
 ---
 # Add and manage team members for a board
 

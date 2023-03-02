@@ -10,6 +10,7 @@ activity: deploy
 team: Technical Marketing
 kt: 8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
+doc-type: video
 ---
 # Apply milestones
 

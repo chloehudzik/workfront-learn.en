@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8921
 exl-id: 5ef96f4e-8bdb-402b-89e2-2940774359cc
+doc-type: video
 ---
 # How to add an activity to a goal
 

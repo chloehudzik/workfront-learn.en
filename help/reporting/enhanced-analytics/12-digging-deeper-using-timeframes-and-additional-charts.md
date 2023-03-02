@@ -10,6 +10,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8730
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
+doc-type: video
 ---
 # Dig deeper using timeframes and additional charts in [!UICONTROL Enhanced Analytics]
 

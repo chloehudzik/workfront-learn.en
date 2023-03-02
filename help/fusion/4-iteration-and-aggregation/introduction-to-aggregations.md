@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9019
 exl-id: a3ea475d-3a76-4788-98eb-5e916a2cb3ee
+doc-type: video
 ---
 # Introduction to aggregations
 

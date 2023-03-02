@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9016
 exl-id: 18781714-af56-4bde-84c5-bf445186e43a
+doc-type: video
 ---
 # Set it and get it
 

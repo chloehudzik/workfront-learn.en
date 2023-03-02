@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
+doc-type: video
 ---
 # Contributor: publish assets
 

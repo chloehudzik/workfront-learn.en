@@ -9,6 +9,7 @@ kt: 10810
 role: User, Leader
 level: Beginner
 exl-id: 86bdeadc-ab72-4936-bc3a-45079d7a4ce1
+doc-type: video
 ---
 # Add cards to a board
 

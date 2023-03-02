@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335158.png
 kt: 8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
+doc-type: video
 ---
 # Send and share reports
 

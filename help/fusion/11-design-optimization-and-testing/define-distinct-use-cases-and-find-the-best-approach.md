@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
+doc-type: video
 ---
 # Define distinct use cases and find the best approach
 

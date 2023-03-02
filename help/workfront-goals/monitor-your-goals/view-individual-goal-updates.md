@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
+doc-type: video
 ---
 # View individual goal updates
 

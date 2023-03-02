@@ -10,6 +10,7 @@ level: Experienced
 team: Technical Marketing
 kt: 11202
 exl-id: 208af7e6-7625-4e81-bcb3-c3c7932828e5
+doc-type: video
 ---
 # Advanced reporting part 3
 

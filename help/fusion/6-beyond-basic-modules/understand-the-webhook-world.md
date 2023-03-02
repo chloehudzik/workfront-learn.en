@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9050
 exl-id: 87140000-e26b-48b3-ad58-c60b6be7a7fa
+doc-type: video
 ---
 # Understand the webhook world
 

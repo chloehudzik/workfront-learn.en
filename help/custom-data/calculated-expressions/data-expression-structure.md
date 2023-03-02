@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335174.png
 kt: 8911
 exl-id: 9696c36a-ffde-491c-a8c2-12f20f6bc374
+doc-type: video
 ---
 # Learn the data expression structure
 

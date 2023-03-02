@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8985
 exl-id: 67bc9228-f16e-4cba-bae2-d223e9d79d39
+doc-type: video
 ---
 # Brand Connect: working with assets
 

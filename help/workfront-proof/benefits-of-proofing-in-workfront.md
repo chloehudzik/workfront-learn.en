@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 336095.png
 kt: 8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
+doc-type: video
 ---
 # Learn the benefits of proofing [!DNL Workfront]
 

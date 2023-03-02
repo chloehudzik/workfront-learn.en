@@ -10,6 +10,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
+doc-type: video
 ---
 # Understand other ways to create projects
 

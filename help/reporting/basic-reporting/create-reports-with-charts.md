@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335153.png
 kt: 8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
+doc-type: video
 ---
 # Create reports with charts
 

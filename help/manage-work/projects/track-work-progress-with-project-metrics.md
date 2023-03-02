@@ -10,6 +10,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 8796
 exl-id: c80659f2-2818-47a7-9173-e3d9e236db75
+doc-type: video
 ---
 # Track work progress with project metrics
 

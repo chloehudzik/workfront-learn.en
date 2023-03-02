@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8983
 exl-id: 444a74f4-c99e-4a68-b484-8b0245118051
+doc-type: video
 ---
 # Brand Connect: introduction
 

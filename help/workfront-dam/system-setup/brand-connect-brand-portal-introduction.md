@@ -9,6 +9,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
+doc-type: video
 ---
 # Brand Connect: Brand Portal introduction and folder creation
 

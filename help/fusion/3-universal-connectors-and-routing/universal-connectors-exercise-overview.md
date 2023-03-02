@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9010
 exl-id: a44d93cb-6572-497e-b24c-5cacc9d79391
+doc-type: video
 ---
 # Universal connectors exercise overview
 

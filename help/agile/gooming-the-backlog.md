@@ -7,6 +7,7 @@ level: Intermediate
 kt: 10873
 thumbnail: 346283.jpeg
 exl-id: ebd18f1d-f309-4e99-9c76-8aabd4009806
+doc-type: video
 ---
 # Grooming the backlog
 

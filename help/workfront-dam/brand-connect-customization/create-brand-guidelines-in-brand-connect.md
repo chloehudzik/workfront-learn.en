@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8982
 exl-id: 717952e8-e633-4d65-b76a-9afb29159f5a
+doc-type: video
 ---
 # Create brand guidelines in [!UICONTROL Brand Connect]
 

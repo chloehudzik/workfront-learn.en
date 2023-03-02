@@ -9,6 +9,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 8968
 exl-id: 88b528a4-85be-44ed-b4d1-7acfdb2742d0
+doc-type: video
 ---
 # System setup: system settings
 

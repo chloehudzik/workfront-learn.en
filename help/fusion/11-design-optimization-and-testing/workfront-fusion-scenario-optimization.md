@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
+doc-type: video
 ---
 # Workfront Fusion scenario optimization
 

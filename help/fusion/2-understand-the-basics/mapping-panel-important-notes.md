@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9003
 exl-id: 2f5a2088-b32c-457f-baa1-913501d74b73
+doc-type: video
 ---
 # Mapping panel important notes
 

@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
+doc-type: video
 ---
 # Testing and launch
 

@@ -8,6 +8,7 @@ role: Admin, User
 level: Intermediate
 team: Technical Marketing
 kt: 8956
+doc-type: video
 ---
 # Queue management course introduction
 

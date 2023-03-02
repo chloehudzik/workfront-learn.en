@@ -7,6 +7,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+doc-type: video
 kt: 8870 
 ---
 # Into to Workftont Analytics

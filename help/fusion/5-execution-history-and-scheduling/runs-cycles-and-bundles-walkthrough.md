@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9045
 exl-id: 820f35af-a068-4a15-9322-98462964de61
+doc-type: video
 ---
 # Runs, cycles, and bundles walkthrough
 

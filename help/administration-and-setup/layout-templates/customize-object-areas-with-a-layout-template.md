@@ -10,6 +10,7 @@ type: Tutorial
 thumbnail: 335075.png
 kt: 8763
 exl-id: 5f4845ec-3107-4519-aac6-d5ec868202fa
+doc-type: video
 ---
 # Customize object areas with a layout template
 

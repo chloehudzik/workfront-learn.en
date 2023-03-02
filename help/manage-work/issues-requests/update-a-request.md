@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 336091.png
 kt: 8807
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
+doc-type: video
 ---
 # Update a request
 

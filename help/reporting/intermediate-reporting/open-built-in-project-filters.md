@@ -10,6 +10,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
+doc-type: video
 ---
 # Understand built-in project filters
 

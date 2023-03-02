@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9056
 exl-id: 12e5ff29-2efe-4ce3-b4a7-0778bdf5e427
+doc-type: video
 ---
 # Workfront app walkthrough
 

@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8981
 exl-id: e6dc7c1d-200c-4cea-8dd1-bdc86ff96d25
+doc-type: video
 ---
 # Add custom pages in [!UICONTROL Brand Connect]
 

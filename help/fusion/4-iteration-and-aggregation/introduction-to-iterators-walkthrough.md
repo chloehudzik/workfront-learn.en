@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
+doc-type: video
 ---
 # Introduction to iterators walkthrough
 

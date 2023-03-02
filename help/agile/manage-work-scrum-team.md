@@ -7,6 +7,7 @@ level: Intermediate
 kt: 10872
 thumbnail: 346282.jpeg
 exl-id: 50773b9b-8f64-4aed-bd44-3a43026bd085
+doc-type: video
 ---
 # Manage work as a Scrum team
 

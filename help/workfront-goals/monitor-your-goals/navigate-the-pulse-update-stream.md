@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8927
 exl-id: 441d5056-5e5f-4104-aa44-321fe0da9a12
+doc-type: video
 ---
 # Navigate the [!UICONTROL Pulse] update stream
 

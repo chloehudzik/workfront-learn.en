@@ -10,6 +10,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8721
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
+doc-type: video
 ---
 # Understand filters in [!UICONTROL Enhanced Analytics]
 

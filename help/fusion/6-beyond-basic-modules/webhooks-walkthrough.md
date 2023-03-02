@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
+doc-type: video
 ---
 # Webhooks walkthrough
 

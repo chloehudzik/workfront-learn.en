@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
+doc-type: video
 ---
 # Advanced aggregation walkthrough
 

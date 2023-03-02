@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8810
+doc-type: video
 ---
 # Delegate approvals from [!DNL Home]
 

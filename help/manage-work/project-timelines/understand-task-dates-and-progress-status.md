@@ -10,6 +10,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
+doc-type: video
 ---
 # Understand date types and progress status
 

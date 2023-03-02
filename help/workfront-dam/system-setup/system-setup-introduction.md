@@ -8,6 +8,7 @@ role: Admin
 level: Intermediate
 team: Technical Marketing
 kt: 8964
+doc-type: video
 ---
 # System setup: introduction
 

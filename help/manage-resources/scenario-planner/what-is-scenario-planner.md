@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335317.jpeg
 kt: 9075
 exl-id: 8df4cf3b-c6fc-4515-b475-efb8442b5962
+doc-type: video
 ---
 # What is [!DNL Scenario Planner]?
 

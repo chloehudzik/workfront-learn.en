@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335177.png
 kt: 8914
 exl-id: e767b73b-1591-4d96-bb59-2f2521e3efa3
+doc-type: video
 ---
 # Create a SUB, SUM, DIV, or PROD data expression
 

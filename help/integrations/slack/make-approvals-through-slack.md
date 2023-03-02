@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8819
 exl-id: abe86ef4-8090-44ca-bf4b-115c14e95515
+doc-type: video
 ---
 # Make approvals through [!DNL Slack]
 

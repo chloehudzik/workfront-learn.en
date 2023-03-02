@@ -10,6 +10,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 8946
 exl-id: bad53b87-4033-4ce7-af04-a38cfa00de9e
+doc-type: video
 ---
 # View milestones
 

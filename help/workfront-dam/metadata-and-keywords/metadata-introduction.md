@@ -9,6 +9,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 8970
 exl-id: 0d1d6fb5-907b-4732-ba11-b398eca72284
+doc-type: video
 ---
 # Metadata and keywords: course introduction
 

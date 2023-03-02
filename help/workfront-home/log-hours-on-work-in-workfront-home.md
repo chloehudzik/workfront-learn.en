@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335103.png
 kt: 8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
+doc-type: video
 ---
 # Log hours on work in [!DNL Workfront] [!UICONTROL Home]
 

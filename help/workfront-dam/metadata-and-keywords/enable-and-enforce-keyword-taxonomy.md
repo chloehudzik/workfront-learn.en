@@ -9,6 +9,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 8974
 exl-id: 57818b8d-46c8-476f-8f29-d4f0f4bb10e0
+doc-type: video
 ---
 # Metadata and keywords: enable and enforce keyword taxonomy
 

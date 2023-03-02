@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335176.png
 kt: 8913
 exl-id: 7ef77612-d490-4dc5-82e1-5c36acad761e
+doc-type: video
 ---
 # Create DATEDIFF and WEEKDAYDIFF expressions
 

@@ -8,6 +8,7 @@ team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
 kt: 8756
+doc-type: video
 ---
 # Where to start with user organization
 

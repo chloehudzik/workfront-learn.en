@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335223.jpeg
 kt: 8960
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
+doc-type: video
 ---
 # Create a request flow
 

@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9053
 exl-id: f4dca85c-524c-434e-866e-69b75d476471
+doc-type: video
 ---
 # Data structures walkthrough
 

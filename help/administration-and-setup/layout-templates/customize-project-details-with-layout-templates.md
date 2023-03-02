@@ -10,6 +10,7 @@ type: Tutorial
 thumbnail: 335076.png
 kt: 8764
 exl-id: af6ff5c1-a2c4-4440-b31d-c33726a7fee1
+doc-type: video
 ---
 # Customize project details with layout templates
 

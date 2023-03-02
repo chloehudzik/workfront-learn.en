@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335134.png
 kt: 8834
 exl-id: 25d05144-9fe9-4979-9a9d-4132cf4c2edc
+doc-type: video
 ---
 # Convert a document to a proof
 

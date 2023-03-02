@@ -10,6 +10,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
+doc-type: video
 ---
 # Understand navigating and reviewing projects in [!UICONTROL Enhanced Analytics]
 

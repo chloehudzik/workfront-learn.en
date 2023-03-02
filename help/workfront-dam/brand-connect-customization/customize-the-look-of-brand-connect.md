@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8979
 exl-id: 97b51b63-0ad3-4751-aed8-afc77a9560bc
+doc-type: video
 ---
 # Customize the look of [!UICONTROL Brand Connect]
 

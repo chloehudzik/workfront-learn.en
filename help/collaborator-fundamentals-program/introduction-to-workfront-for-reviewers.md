@@ -5,6 +5,7 @@ activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8805
+doc-type: video
 ---
 # Introduction to [!DNL Workfront] for Reviewers
 

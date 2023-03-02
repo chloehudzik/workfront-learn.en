@@ -9,6 +9,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 8975
 exl-id: 6455e20f-9c5c-4727-84cb-1f8bb825bd2a
+doc-type: video
 ---
 # Metadata and keywords: metadata templates
 

@@ -9,6 +9,7 @@ kt: 8932
 role: Admin
 level: Intermediate
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135
+doc-type: video
 ---
 # Create a milestone path and milestone steps
 

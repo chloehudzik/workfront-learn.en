@@ -10,6 +10,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
+doc-type: video
 ---
 # Understand reporting components
 

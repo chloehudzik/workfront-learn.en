@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9059
 exl-id: 8f16d7e1-2eb1-400f-bdad-5d05745a0ba7
+doc-type: video
 ---
 # Understand JSON in scenarios
 

@@ -10,6 +10,7 @@ team: Technical Marketing
 thumbnail: 335167.jpeg
 kt: 8879
 exl-id: f4d97236-7652-4877-bca3-d935760b6dbc
+doc-type: video
 ---
 # What is the [!DNL Resource Planner]?
 

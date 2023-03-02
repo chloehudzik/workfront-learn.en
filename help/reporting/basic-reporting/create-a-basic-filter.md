@@ -10,6 +10,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8857
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
+doc-type: video
 ---
 # Create a basic filter
 

@@ -9,6 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
+doc-type: video
 ---
 # Understand how [!DNL Workfront Goals] works
 

@@ -9,6 +9,7 @@ role: User
 level: Beginner
 kt: 9067
 exl-id: 81458d51-8b58-425d-8645-9b60423c6a72
+doc-type: video
 ---
 # Incomplete executions walkthrough
 
