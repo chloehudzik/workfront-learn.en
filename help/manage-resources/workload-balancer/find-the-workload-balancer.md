@@ -17,15 +17,13 @@ Knowing what resources are available and how to distribute them can be a challen
 
 Its purpose is to give you greater insight into and management of the daily and weekly workloads of the people you manage. This helps you make better assignments, based on role and availability, across multiple projects.
 
-![resourcing main menu option](assets/Find_01.png)
+![resourcing in the main menu](assets/Find_01.png)
 
 * Click [!UICONTROL Resourcing] in the [!UICONTROL Main Menu].
 * Go to the [!UICONTROL Scheduling] section in the Resource Management area.
-* Click the [!UICONTROL “Switch to Workload Balancer”] link.
+* Click the [!UICONTROL “Workload Balancer”] section that appears.
 
-![switch to workload balancer](assets/Find_02.png)
-
-The [!DNL Workload Balancer] is the default option when going to the Resource Management area of the Workfront tool.
+![workload balancer section](assets/Find_02.png)
 
 ## Areas within the Workload Balancer
 
