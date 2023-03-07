@@ -39,7 +39,7 @@ Explore the latest updates made to the tutorials for each Workfront product rele
 
 ## Staff picks
 
-<table>
+<table style="margin-top: 0 !important">
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
@@ -47,11 +47,9 @@ Explore the latest updates made to the tutorials for each Workfront product rele
       </a>
       <div>
          <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Find and create layout templates</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         Learn how to create a basic layout template.
+         <em>Learn how to create a basic layout template.</em>
       </p>
     </td>
    <td>
@@ -60,11 +58,9 @@ Explore the latest updates made to the tutorials for each Workfront product rele
       </a>
       <div>
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Make a request</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-      <br/>
-         Learn how to make, view, and edit requests.
+         <em>Learn how to make, view, and edit requests.</em>
       </p>
 
    <td>
@@ -73,11 +69,9 @@ Explore the latest updates made to the tutorials for each Workfront product rele
       </a>
       <div>
          <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Create a simple report</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         Learn how to create a simple custom report.
+         <em>Learn how to create a simple custom report.</em>
       </p>
     </td>
   </tr>
