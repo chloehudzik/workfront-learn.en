@@ -16,7 +16,9 @@ See other user landing pages to get ideas.
 
 -->
 
-## What's New?
+<div id="whats-new-section">
+
+## What's new?
 
 Explore the latest updates made to the tutorials for each Workfront product release. Here's what was updated with the latest release:
 
@@ -24,8 +26,18 @@ Explore the latest updates made to the tutorials for each Workfront product rele
 
 * Configure a custom form to work with multiple object types. See how in the <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">create and share a custom form</a> tutorial.
 
+</div>
 
-## Staff Picks
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
+
+## Staff picks
 
 <table>
   <tr>
@@ -70,3 +82,5 @@ Explore the latest updates made to the tutorials for each Workfront product rele
     </td>
   </tr>
 </table>
+
+</div>
