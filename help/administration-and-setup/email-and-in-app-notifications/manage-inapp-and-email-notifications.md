@@ -1,6 +1,7 @@
 ---
 title: Manage In-App and Email Event Notifications
-description: Learn how users can control which in-app and email notifications they receive so they're getting receive relevant, helpful emails regarding their work.
+description: Learn how users can control which in-app and email notifications they receive so they're getting relevant, helpful emails regarding their work.
+short-description: Learn how users can control which in-app and email notifications they receive.
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -13,7 +14,7 @@ exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 ---
 # Manage in-app and email event notifications
 
-Email is a part of daily work life and, some days, the amount of email you get is overwhelming. However, with [!DNL Workfront], system administrators can make sure everyone receives relevant and helpful emails regarding the work with which they’re involved.
+Email is a part of daily work life and, some days, the amount of email you get is overwhelming. However, with [!DNL Workfront], system administrators can make sure everyone receives relevant and helpful emails regarding the work with which they're involved.
 
 There are several types of notifications that Workfront can send to users. Some of these notifications are controlled at the system level and affect all users. Some notifications can be set to generate emails instantly, in a daily digest. Or turn emails off to generate only notifications inside Workfront.
 
@@ -45,7 +46,7 @@ By default, emails are set up to be sent instantly. However, you can switch the 
 
 ![[!UICONTROL Notification] section of [!UICONTROL Edit Person] window](assets/admin-fund-user-notifications-05.png)
 
-The daily option sends a digest of the day’s events in one email. Users get one email for each grouping they see in the [!UICONTROL Notifications] section. 
+The daily option sends a digest of the day's events in one email. Users get one email for each grouping they see in the [!UICONTROL Notifications] section. 
 
 For example, the [!UICONTROL Information about Projects I Own] section will generate one daily email, the [!UICONTROL Action Needed] section will generate one daily email, etc.
 
@@ -63,11 +64,11 @@ The final option is to turn the email notifications off entirely.
 
 ![Selected notification turned off in [!UICONTROL Edit Person] window](assets/admin-fund-user-notifications-09.png)
 
-If you decide to do this, know that although you’re not receiving emails, work is still being assigned, commented on, and updated within [!DNL Workfront]. By turning off all notifications, you may be missing important information you need to be aware of.
+If you decide to do this, know that although you're not receiving emails, work is still being assigned, commented on, and updated within [!DNL Workfront]. By turning off all notifications, you may be missing important information you need to be aware of.
 
 There are a few instances when [!DNL Workfront] has seen users turn off email notifications. For example, if you do most of your work through the [!DNL Workfront] mobile app, you could turn off your email notifications and receive notifications only through the app.
 
-Regardless of the [!UICONTROL Event Notifications] you decide to receive, notifications are important to the success of work being done for your organization’s goals.
+Regardless of the [!UICONTROL Event Notifications] you decide to receive, notifications are important to the success of work being done for your organization's goals.
 
 
 ## Recommendations
@@ -79,12 +80,12 @@ For most users:
 * [!UICONTROL A predecessor of one of my tasks is completed]
 * [!UICONTROL Someone includes me on a directed update]
 * [!UICONTROL Someone comments on my work item]
-* [!UICONTROL The due date changes on a task I’m assigned to]
+* [!UICONTROL The due date changes on a task I'm assigned to]
  
 
 Specifically for project managers:
 
-* [!UICONTROL A project I’m on becomes active]
+* [!UICONTROL A project I'm on becomes active]
 * [!UICONTROL A project I own gets behind]
 * [!UICONTROL An issue is added to a project I own]
 * [!UICONTROL Milestone task is completed on a project I own]

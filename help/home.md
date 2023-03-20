@@ -16,7 +16,9 @@ See other user landing pages to get ideas.
 
 -->
 
-## What's New?
+<div id="whats-new-section">
+
+## What's new?
 
 Explore the latest updates made to the tutorials for each Workfront product release. Here's what was updated with the latest release:
 
@@ -24,10 +26,20 @@ Explore the latest updates made to the tutorials for each Workfront product rele
 
 * Configure a custom form to work with multiple object types. See how in the <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">create and share a custom form</a> tutorial.
 
+</div>
 
-## Staff Picks
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
-<table>
+<div id="staff-picks-section">
+
+## Staff picks
+
+<table style="margin-top: 0 !important">
   <tr>
    <td>
       <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md">
@@ -35,11 +47,9 @@ Explore the latest updates made to the tutorials for each Workfront product rele
       </a>
       <div>
          <a href="/help/administration-and-setup/layout-templates/find-layout-templates.md"><strong>Find and create layout templates</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         Learn how to create a basic layout template.
+         <em>Learn how to create a basic layout template.</em>
       </p>
     </td>
    <td>
@@ -48,11 +58,9 @@ Explore the latest updates made to the tutorials for each Workfront product rele
       </a>
       <div>
          <a href="/help/manage-work/issues-requests/make-a-request.md"><strong>Make a request</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-      <br/>
-         Learn how to make, view, and edit requests.
+         <em>Learn how to make, view, and edit requests.</em>
       </p>
 
    <td>
@@ -61,12 +69,12 @@ Explore the latest updates made to the tutorials for each Workfront product rele
       </a>
       <div>
          <a href="/help/reporting/basic-reporting/create-a-simple-report.md"><strong>Create a simple report</strong></a>
-<!----         <br/><em>foo</em> --->
       </div>
       <p>
-        <br/>
-         Learn how to create a simple custom report.
+         <em>Learn how to create a simple custom report.</em>
       </p>
     </td>
   </tr>
 </table>
+
+</div>
