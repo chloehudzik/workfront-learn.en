@@ -15,6 +15,7 @@ feature-set: Workfront
     + [Understand the need for group administration](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
     + [Create companies](administration-and-setup/organizational-setup/user-organization-companies.md)
     + [Set up users with licenses, access levels, and job roles](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+    + [Create and manage job roles](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
     + [Log in as another user](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
 
   + Manage deleted items {#manage-deleted-items}

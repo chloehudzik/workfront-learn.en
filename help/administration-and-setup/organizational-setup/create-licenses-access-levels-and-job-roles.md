@@ -1,5 +1,5 @@
 ---
-title: Set up users with licenses, access levels, and job roles
+title: Set up users with licenses and access levels
 description: Learn about how licenses and access levels control what access users have. Learn how job roles are used in the system.
 feature: System Setup and Administration
 activity: deploy
@@ -10,18 +10,14 @@ level: Beginner
 thumbnail: 335066.jpeg
 kt: 8754
 exl-id: 49cb518a-f3ae-4fdd-b617-2c19006c7552
+last-substantial-update: 2023-03-20
 doc-type: video
 ---
 # Set up users with licenses, access levels, and job roles
 
-In this video, you will learn about:
+In this video, you will learn:
 
-* Licenses
-* Access levels
-* Job roles
+* What licenses and access levels are
+* How to create and manage access levels
 
 >[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12)
-
-In many instances, portfolios and programs are owned by various people and managed differently. Because of this, [!DNL Workfront] has separated the portfolio and program permission controls, making it easier for system admins to configure Workfront to how your users and organization functions.
-
-![[!UICONTROL Portfolios] and [!UICONTROL Programs] settings highlighted in [!UICONTROL New Access Level] window](assets/admin-fund-access-levels.png)
