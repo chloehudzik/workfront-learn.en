@@ -19,6 +19,9 @@ In this video, you will learn how to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12)
 
+>[!IMPORTANT]
+>
+>If you can't find the Workfront Add-in as described in the video, your IT department may need to do some set up work first. Detailed instructions can be found in [Set up Adobe Workfront for Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html).
 
 ## Integrate the Microsoft Outlook calendar with the [!DNL Workfront] Home calendar
 
