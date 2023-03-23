@@ -292,7 +292,7 @@ feature-set: Workfront
     + [Align groups and teams to your strategy](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
   
   + Create your goals {#create-goals}
-    + [Understand how to use [!UICONTROL Workfront Goals]](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
+    + [[!UICONTROL Workfront Goals] Overview](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
     + [Set up [!UICONTROL Workfront Goals] for your org](workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
     + [Grant goals access to selected users](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
     + [Create a layout template for [!UICONTROL Workfront Goals] users](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
@@ -308,19 +308,13 @@ feature-set: Workfront
   + Manage your goals {#manage-goals}
     + [Align your goals](workfront-goals/manage-your-goals/align-your-goals.md)
     + [Remove goal alignment](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-    + [Convert an activity to an aligned goal](workfront-goals/manage-your-goals/convert-an-activity-to-an-aligned-goal.md)
-    + [Make a qualitative update](workfront-goals/manage-your-goals/make-a-qualitative-update.md)
     + [Make a quantitative update](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
-    + [Manually connect goals to one another](workfront-goals/manage-your-goals/manually-connect-goals-to-one-another.md)
-    + [Track and update goals using [!UICONTROL Check-ins]](workfront-goals/manage-your-goals/track-and-update-goals-using-check-ins.md)
     + [Close a goal once complete](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
 
   + Monitor your goals {#monitor-goals}
     + [Understand the graphs section](workfront-goals/monitor-your-goals/understand-the-graphs-section.md)
-    + [View individual goal updates](workfront-goals/monitor-your-goals/view-individual-goal-updates.md)  
     + [Calculate goal progress](workfront-goals/monitor-your-goals/calculate-goal-progress.md)
     + [Communicate goal status](workfront-goals/monitor-your-goals/communicate-goal-status.md)
-    + [Navigate the [!UICONTROL Pulse] update stream](workfront-goals/monitor-your-goals/navigate-the-pulse-update-stream.md)
 
 
 + Integrations {#integrations}
