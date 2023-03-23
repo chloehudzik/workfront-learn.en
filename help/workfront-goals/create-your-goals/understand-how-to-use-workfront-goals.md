@@ -1,6 +1,6 @@
 ---
-title: Understand [!DNL Workfront Goals]
-description: The system administrator will learn about who can access [!DNL Workfront Goals], what permissions a system administrator has in [!DNL Workfront Goals], and how to enable [!DNL Workfront Goals] through a layout template.
+title: [!DNL Workfront Goals] Overview
+description: Learn how to navigate the Goal list, Graphs, and Goal Alignment.
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,14 +9,13 @@ level: Beginner
 team: Technical Marketing
 kt: 8888
 exl-id: 08cdc3de-dc45-4273-b17b-90ae753613c6
-doc-type: video
 ---
-# [!DNL Workfront Goals] overview
+# [!DNL Workfront Goals] Overview
 
-In this video, you will learn:
+In this video, you will learn how to:
 
-* Who can access [!DNL Workfront Goals]
-* What permissions a system administrator has in [!DNL Workfront Goals]
-* How to enable [!DNL Workfront Goals] through a layout template
+* Navigate the Goal list
+* Navigate Graphs 
+* Navigate Goal Alignment
 
 >[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12)
