@@ -1,5 +1,5 @@
 ---
-title: [!DNL Workfront Goals] Overview
+title: Workfront Goals Overview
 description: Learn how to navigate the Goal list, Graphs, and Goal Alignment.
 activity: use
 feature: Workfront Goals
