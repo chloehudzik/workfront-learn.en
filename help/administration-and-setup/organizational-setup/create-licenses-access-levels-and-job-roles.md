@@ -13,7 +13,7 @@ exl-id: 49cb518a-f3ae-4fdd-b617-2c19006c7552
 last-substantial-update: 2023-03-20
 doc-type: video
 ---
-# Set up users with licenses, access levels, and job roles
+# Set up users with licenses and access levels
 
 In this video, you will learn:
 
