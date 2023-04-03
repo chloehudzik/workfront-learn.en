@@ -20,7 +20,7 @@ In this video, you will learn how to:
 * Set up a request queue
 * Set up the request queue details
 
->[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
 ## Your turn
 

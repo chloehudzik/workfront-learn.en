@@ -23,7 +23,7 @@ Practice with different scenario configurations to explore using runs and cycles
 
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
 
->[!VIDEO](https://video.tv.adobe.com/v/335286/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335286/?quality=12&learn=on)
 
 >[!TIP]
 >

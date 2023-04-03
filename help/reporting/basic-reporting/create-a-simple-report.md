@@ -18,7 +18,7 @@ In this video, you will learn how to:
 
 * Create a simple report using an existing filter, view, and grouping
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
 ## Activity: Create a simple task report
 

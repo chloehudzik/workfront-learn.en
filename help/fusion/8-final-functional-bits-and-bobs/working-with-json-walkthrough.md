@@ -27,7 +27,7 @@ In this video, you will learn how to:
 
 * Create and parse JSON within a scenario to support your design needs
 
->[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on)
 
 >[!TIP]
 >

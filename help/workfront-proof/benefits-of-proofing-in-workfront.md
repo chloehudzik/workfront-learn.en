@@ -19,7 +19,7 @@ In this video, you will learn:
 * What is proofing?
 * Benefits of using digital proofing in [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12&learn=on)
 
 ## Proofing terminology
 

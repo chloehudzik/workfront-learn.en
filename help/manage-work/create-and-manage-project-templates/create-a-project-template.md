@@ -20,7 +20,7 @@ In this video, you will learn how to:
 * Create a template from an existing project
 * Create a template with Blueprints
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
 ## Create a template with Blueprints 
 

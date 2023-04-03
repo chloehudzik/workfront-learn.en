@@ -20,7 +20,7 @@ In this video, you will learn:
 * How to create a grouping
 * And how to share a grouping with other Workfront users
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
 ## Activity: Create a basic grouping
 

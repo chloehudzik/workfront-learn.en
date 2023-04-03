@@ -18,7 +18,7 @@ In this video, you will learn how to:
 
 * Assign a user to a task using inline editing
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
 <!---
 learn more urls:

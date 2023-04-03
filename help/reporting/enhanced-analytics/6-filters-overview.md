@@ -19,7 +19,7 @@ In this video, you will learn:
 * How to add a filter based on common project fields
 * How to add a filter using a custom form
 
->[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335043/?quality=12&learn=on)
 
 >[!NOTE]
 >

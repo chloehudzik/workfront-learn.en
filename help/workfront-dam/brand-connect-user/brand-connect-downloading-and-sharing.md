@@ -18,4 +18,4 @@ In this video, you will learn how to:
 * Share a lightbox with Brand Connect users or outside stakeholders
 * Download single or multiple assets
 
->[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12&learn=on)

@@ -21,4 +21,4 @@ In this video, you will learn:
 * How durations factor into project timelines
 * Best practice recommendations for using task durations
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on)

@@ -19,7 +19,7 @@ In this video, you will learn how to:
 * Define what you and your team must do to accomplish the top-level goal
 * Refine your goal hierarchy from Section 2: Establish a vision and strategy
 
->[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12&learn=on)
 
 <!--
 Pro-tips graphic

@@ -18,4 +18,4 @@ In this video, you will learn how to:
 
 * Use existing reporting elements—filters, views, and groupings—to access the valuable information being tracked in Workfront
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on)

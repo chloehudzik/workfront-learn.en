@@ -19,4 +19,4 @@ You will learn how to:
 * Share a template with other users
 * Share projects created using a template
 
->[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on)

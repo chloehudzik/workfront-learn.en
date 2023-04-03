@@ -20,7 +20,7 @@ In this video, you will learn how to:
 * Add a basic proofing workflow so stakeholders can review and approve the asset
 * Set a deadline for the proofing review
 
->[!VIDEO](https://video.tv.adobe.com/v/335132/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335132/?quality=12&learn=on)
 
 ## Your turn
 

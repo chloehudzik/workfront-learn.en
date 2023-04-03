@@ -12,4 +12,4 @@ role: Admin
 
 In this video, you will learn how milestones can help you keep projects moving forward.
 
->[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on)

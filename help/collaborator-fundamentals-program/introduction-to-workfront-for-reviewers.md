@@ -11,4 +11,4 @@ doc-type: video
 
 In this video, you will learn how you can use [!DNL  Workfront] with a Review license.
 
->[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on)

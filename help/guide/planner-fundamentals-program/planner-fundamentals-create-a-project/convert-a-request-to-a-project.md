@@ -15,4 +15,4 @@ In this video, you will learn how to:
 * Select the right project template
 * Convert the request into a project
 
->[!VIDEO](https://video.tv.adobe.com/v/335083/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335083/?quality=12&learn=on)

@@ -20,4 +20,4 @@ In this video, you will:
 * Learn how resource information is displayed in this view
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12&learn=on)

@@ -22,7 +22,7 @@ In this video, you will learn about:
 * File guardrails
 * Webhook guardrails
 
->[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on)
 
 ## Want to learn more? We recommend the following:
 

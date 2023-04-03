@@ -20,4 +20,4 @@ In this video, you will learn how to:
 * Select the appropriate project template
 * Complete the conversion from request to project
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on)

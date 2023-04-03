@@ -30,7 +30,7 @@ In this video, you will learn how to:
 
 * Navigate the [!UICONTROL Goals List] section to add a new goal
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on)
 
 ## Copy an existing goal
 
@@ -87,5 +87,5 @@ In this video, you will learn how to:
 
 * Add an activity and convert it to an aligned goal
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on)
 

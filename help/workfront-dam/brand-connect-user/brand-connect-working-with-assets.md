@@ -18,4 +18,4 @@ In this video, you will learn how to:
 * View assets in Brand Connect
 * View data about an asset, including metadata and keywords
 
->[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on)

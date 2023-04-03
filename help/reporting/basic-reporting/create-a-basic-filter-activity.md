@@ -18,7 +18,7 @@ In this video, you will create a project filter named “Projects I Own Closing 
 
 Step-by-step instructions are included below. 
 
->[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on)
 
 ## Answer
 

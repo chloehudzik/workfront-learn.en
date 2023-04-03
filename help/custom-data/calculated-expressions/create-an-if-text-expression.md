@@ -19,4 +19,4 @@ In this video, you will learn:
 * What the IF expression does
 * How to use a IF text expression in a calculated field
 
->[!VIDEO](https://video.tv.adobe.com/v/335180/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335180/?quality=12&learn=on)

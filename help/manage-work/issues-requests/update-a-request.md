@@ -19,4 +19,4 @@ In this video, you will learn how to:
 * Find requests you've submitted
 * Update a request
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)

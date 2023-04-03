@@ -19,7 +19,7 @@ In this video, you will learn:
 * How to submit a request through an [!DNL  Workfront] request queue
 * How request queues are structured
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## Request drafts save automatically
 

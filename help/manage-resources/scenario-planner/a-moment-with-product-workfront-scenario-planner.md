@@ -18,4 +18,4 @@ In this video, you will:
 * Get a navigational overview the [!DNL Scenario Planner] 
 * Understand how the [!DNL Scenario Planner] can help with aligning decisions with outcome for your business. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on)

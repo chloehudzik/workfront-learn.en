@@ -11,4 +11,4 @@ kt: Jira ticket
 
 In this video, you will learn how project timelines can speed up and standardize project creation.
 
->[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on)

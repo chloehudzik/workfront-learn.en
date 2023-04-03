@@ -22,4 +22,4 @@ In this video tutorial, you will learn about settings for:
 * Personal time off
 * Job roles
 
->[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12&learn=on)

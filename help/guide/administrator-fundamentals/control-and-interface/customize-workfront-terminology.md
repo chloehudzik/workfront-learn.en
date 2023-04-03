@@ -13,4 +13,4 @@ thumbnail: 335074.jpeg
 
 In this video, you will learn how to set terminology with a layout template.
 
->[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12&learn=on)

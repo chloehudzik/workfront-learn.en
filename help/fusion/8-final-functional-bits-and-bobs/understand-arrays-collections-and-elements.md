@@ -19,4 +19,4 @@ In this video, you will learn:
 * The difference between simple and complex arrays
 * How to work with simple and complex arrays
 
->[!VIDEO](https://video.tv.adobe.com/v/335298/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335298/?quality=12&learn=on)

@@ -14,4 +14,4 @@ doc-type: video
 
 In this video, you will learn how approval processes can simplify and automate the work review process.
 
->[!VIDEO](https://video.tv.adobe.com/v/335224/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335224/?quality=12&learn=on)

@@ -15,4 +15,4 @@ In this video, you will learn:
 * The definition of companies
 * How to create companies and association
 
->[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335069/?quality=12&learn=on)

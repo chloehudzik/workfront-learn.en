@@ -23,7 +23,7 @@ Look at a specific project in Workfront, then look at all the tasks within that 
 
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
 
->[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335278/?quality=12&learn=on)
 
 >[!TIP]
 >

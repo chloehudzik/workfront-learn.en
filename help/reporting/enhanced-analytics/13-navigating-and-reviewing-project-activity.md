@@ -18,7 +18,7 @@ In this video, you will learn:
 
 * How to compare projects based on users logged in, task status changes, and tasks completed
 
->[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on)
 
 ## Compare project work
 

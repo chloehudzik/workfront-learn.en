@@ -34,7 +34,7 @@ In this video, you will learn:
 * What camel case is 
 * Some basic “plug and play” text mode you can use in your views 
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## Task - 4 parents view
 

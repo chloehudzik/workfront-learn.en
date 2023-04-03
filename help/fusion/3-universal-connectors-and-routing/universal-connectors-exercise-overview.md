@@ -19,4 +19,4 @@ In this video, you will learn how to:
 * Connect to an external API 
 * Use the formula editor to extract information from an array
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on)

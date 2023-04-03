@@ -16,4 +16,4 @@ This course is designed for project managers, planners, and others managing proj
 
 In this video, you will learn how milestones can help you keep [!DNL  Workfront] projects moving forward.
 
->[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on)

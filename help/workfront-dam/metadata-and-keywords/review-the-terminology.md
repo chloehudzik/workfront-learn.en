@@ -21,4 +21,4 @@ In this video, you will learn:
 * How a keyword taxonomy can be beneficial
 * Searching for assets using metadata and keywords
 
->[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12&learn=on)

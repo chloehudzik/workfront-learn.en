@@ -20,7 +20,7 @@ In this video, you will learn how to:
 * Download all versions of a proof
 * Delete a proof version
 
->[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on)
 
 <!--
 ## Learn more

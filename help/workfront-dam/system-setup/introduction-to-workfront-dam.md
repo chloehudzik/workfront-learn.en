@@ -29,4 +29,4 @@ In this video, you will:
 * Search for and view assets
 * Explore how the folder structure affects asset organization and access
 
->[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on)

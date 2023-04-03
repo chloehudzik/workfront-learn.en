@@ -34,7 +34,7 @@ In this video, you will learn:
 * What camel case is 
 * Some basic “plug and play” text mode you can use in your report filters 
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 
 ## Task - Filter out tasks where I've marked "Done with my part"

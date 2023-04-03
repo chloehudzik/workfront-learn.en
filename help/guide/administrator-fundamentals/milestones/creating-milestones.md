@@ -16,4 +16,4 @@ In this video, you will learn:
 * How milestone paths are created
 * How to add milestone steps to a milestone path
 
->[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on)

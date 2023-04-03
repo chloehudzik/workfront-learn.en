@@ -21,4 +21,4 @@ In this video, you will learn how to:
 * Make rules regarding downloads
 * View reports and audit logs
 
->[!VIDEO](https://video.tv.adobe.com/v/335231/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335231/?quality=12&learn=on)

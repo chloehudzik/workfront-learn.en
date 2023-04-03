@@ -19,7 +19,7 @@ In this video, you will learn how to:
 * What to look at when monitoring project work
 * What your role is as a project manager
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
 ## Manage a project - review
 

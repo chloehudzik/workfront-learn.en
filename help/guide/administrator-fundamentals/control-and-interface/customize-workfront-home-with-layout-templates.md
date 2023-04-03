@@ -19,4 +19,4 @@ In this video, you will learn how to:
 * Remove items from Home
 * Add items to Home
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on)

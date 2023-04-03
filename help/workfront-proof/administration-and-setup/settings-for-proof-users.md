@@ -23,7 +23,7 @@ In this video, you will learn how to:
 * Adjust proof user settings in [!DNL  Workfront]
 * Adjust proof user settings in the proofing back-end setups
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on)
 
 <!--
 Lean More URLs

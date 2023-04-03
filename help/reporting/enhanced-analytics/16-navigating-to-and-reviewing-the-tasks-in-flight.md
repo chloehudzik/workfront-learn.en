@@ -19,7 +19,7 @@ In this video, you will learn:
 * How to access the Tasks in flight chart
 * How to quickly see which tasks have not been completed in a project
 
->[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on)
 
 ## Task-level data
 

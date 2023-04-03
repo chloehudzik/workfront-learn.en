@@ -21,7 +21,7 @@ In this video, you will learn:
 * How to use durations and predecessors to create a timeline
 * How to change or enter predecessors
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 
 <!---
 Learn more urls

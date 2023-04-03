@@ -19,7 +19,7 @@ In this video, you will learn how to:
 * Approve or reject work
 * Review a proof
 
->[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on)
 
 <!---
 learn more URLs

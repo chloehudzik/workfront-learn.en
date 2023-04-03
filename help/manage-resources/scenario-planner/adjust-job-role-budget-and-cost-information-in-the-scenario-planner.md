@@ -20,4 +20,4 @@ In this video, you will learn how to:
 * Adjust budget information
 * Adjust cost information
 
->[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on)

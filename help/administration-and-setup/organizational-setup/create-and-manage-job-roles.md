@@ -19,5 +19,5 @@ In this video, you will learn:
 * How to create job roles.
 * How to apply job roles to users so they can be assigned to the correct work.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on)
 

@@ -19,4 +19,4 @@ In this video, you will learn how to:
 * Use filters as search criteria within a module
 * Review filter evaluation in execution history 
 
->[!VIDEO](https://video.tv.adobe.com/v/335265/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335265/?quality=12&learn=on)

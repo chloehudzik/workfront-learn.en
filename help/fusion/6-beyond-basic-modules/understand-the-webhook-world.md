@@ -19,4 +19,4 @@ In this video, you will learn:
 * The difference between responsive and passive webhooks
 * How to create queues for incoming data with webhooks
 
->[!VIDEO](https://video.tv.adobe.com/v/335291/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335291/?quality=12&learn=on)

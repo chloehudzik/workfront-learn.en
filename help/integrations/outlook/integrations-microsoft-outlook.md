@@ -17,7 +17,7 @@ In this video, you will learn how to:
 
 * Install the Microsoft Outlook Add-in
 
->[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on)
 
 >[!IMPORTANT]
 >

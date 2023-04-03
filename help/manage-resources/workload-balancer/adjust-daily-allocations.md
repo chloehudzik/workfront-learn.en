@@ -20,4 +20,4 @@ In this video, you will learn how to:
 * Reassign work from one user to another
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12&learn=on)

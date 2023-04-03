@@ -38,4 +38,4 @@ In this video, you will learn:
 * What triggers, actions, and searches are and how they differ
 * Types of modules found in different app connectors and how they function
 
->[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12&learn=on)

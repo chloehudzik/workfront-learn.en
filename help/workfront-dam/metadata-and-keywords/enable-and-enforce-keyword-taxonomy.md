@@ -20,4 +20,4 @@ In this video, you will learn how to:
 * Understand when [!UICONTROL Workfront DAM] users can enter their own keywords
 * Set up search facets
 
->[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on)

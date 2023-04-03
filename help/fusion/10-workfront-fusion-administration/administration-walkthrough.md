@@ -23,7 +23,7 @@ Learn to switch between different organizations or teams and add users to the sy
 
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
 
->[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
 
 ## Want to learn more? We recommend the following:
 

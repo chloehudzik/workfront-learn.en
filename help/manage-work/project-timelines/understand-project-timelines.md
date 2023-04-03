@@ -20,4 +20,4 @@ In this video, you will learn about:
 * Scheduling projects from the start or completion date
 * Task constraints
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on)

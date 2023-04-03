@@ -35,4 +35,4 @@ In this video, you will learn how to:
 * Publish assets to [!UICONTROL Brand Connect]
 * Publish folders to [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on)

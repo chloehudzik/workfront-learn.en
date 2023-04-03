@@ -19,4 +19,4 @@ In this video, you will learn how to:
 * Set up a metadata template
 * Apply a template to a folder
 
->[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12&learn=on)

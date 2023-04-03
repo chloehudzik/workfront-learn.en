@@ -16,7 +16,7 @@ In this video, you will learn how to:
 * Make approvals for documents
 * Make approvals for proofs
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
 
 <!---
 learn more URLS

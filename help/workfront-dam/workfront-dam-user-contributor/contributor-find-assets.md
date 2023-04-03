@@ -22,7 +22,7 @@ In this video, you will learn how to:
 * View folder details
 * View and update asset metadata and keywords
 
->[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on)
 
 ## Basic search criteria
 

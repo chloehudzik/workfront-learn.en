@@ -19,4 +19,4 @@ In this video, you will learn how to:
 * Plan for maintaining metadata and keywords
 * Establish [!UICONTROL Workfront DAM] best practices
 
->[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on)

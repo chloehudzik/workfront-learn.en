@@ -19,4 +19,4 @@ In this video, you will learn how to:
 * Create custom Brand Connect pages
 * Customize options in the navigation bar
 
->[!VIDEO](https://video.tv.adobe.com/v/335243/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335243/?quality=12&learn=on)

@@ -22,4 +22,4 @@ In this video, you will learn how to:
 * Remove items from [!UICONTROL Home]
 * Add items to [!UICONTROL Home]
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on)

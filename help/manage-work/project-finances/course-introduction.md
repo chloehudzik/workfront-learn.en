@@ -18,4 +18,4 @@ In this video, you will learn how to:
 * Track costs and revenue
 * Handle expenses
 
->[!VIDEO](https://video.tv.adobe.com/v/335207/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335207/?quality=12&learn=on)

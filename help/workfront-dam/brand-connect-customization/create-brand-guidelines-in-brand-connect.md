@@ -18,4 +18,4 @@ In this video, you will learn:
 * What brand guidelines are
 * How to create a brand guidelines page in [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12&learn=on)

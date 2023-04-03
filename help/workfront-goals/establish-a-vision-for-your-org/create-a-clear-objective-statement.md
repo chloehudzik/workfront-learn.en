@@ -18,7 +18,7 @@ In this video, you will learn how to:
 * Create a clear objective statement, or Commander's Intent
 * Write strong enterprise or organizational goals
 
->[!VIDEO](https://video.tv.adobe.com/v/335186/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335186/?quality=12&learn=on)
 
 <!--
 Your turn graphic

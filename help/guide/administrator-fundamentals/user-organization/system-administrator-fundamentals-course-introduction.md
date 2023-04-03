@@ -12,4 +12,4 @@ role: Admin
 
 In this video, you will be introduced to a fictional company called Swain's, where users are learning how to use  —just like you.
 
->[!VIDEO](https://video.tv.adobe.com/v/335064/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335064/?quality=12&learn=on)

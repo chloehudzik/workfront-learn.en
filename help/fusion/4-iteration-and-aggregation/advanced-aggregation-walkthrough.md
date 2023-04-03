@@ -23,7 +23,7 @@ Call a web service to return details about multiple countries and identify the t
 
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
 
->[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on)
 
 ## Exercise URLs
 

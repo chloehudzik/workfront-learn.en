@@ -27,7 +27,7 @@ In this video, you will learn how to:
 
 * Add a filter between the two modules in the modules 
 
->[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on)
 
 >[!TIP]
 >

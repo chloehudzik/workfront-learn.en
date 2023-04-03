@@ -19,4 +19,4 @@ In this video, you learn:
 * What the CONCAT expression does
 * How to create a CONCAT text expression in a calculated field
 
->[!VIDEO](https://video.tv.adobe.com/v/335178/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335178/?quality=12&learn=on)

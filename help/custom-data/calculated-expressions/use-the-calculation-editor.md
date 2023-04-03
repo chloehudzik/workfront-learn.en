@@ -20,4 +20,4 @@ In this video, you will learn:
 * The features of the Calculation Editor 
 * How to create an ADDWEEKDAYS date expression in a calculated field using the Calculation Editor 
 
->[!VIDEO](https://video.tv.adobe.com/v/339959/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/339959/?quality=12&learn=on)

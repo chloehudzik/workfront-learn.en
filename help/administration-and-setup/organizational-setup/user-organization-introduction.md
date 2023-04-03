@@ -18,7 +18,7 @@ In this video, you will learn about:
 * Groups
 * Teams
 
->[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on)
 
 Before you get started, here are some key terms to be familiar with as you explore user organizations in [!DNL Workfront].
 

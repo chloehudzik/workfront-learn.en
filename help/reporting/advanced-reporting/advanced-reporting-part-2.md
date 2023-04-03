@@ -20,7 +20,7 @@ In this video, you will learn:
 * Additional details about the structure of text mode
 * How to create calculated custom data fields and calculated columns
 
->[!VIDEO](https://video.tv.adobe.com/v/3409634/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3409634/?quality=12&learn=on)
 
 ## Handy links
 

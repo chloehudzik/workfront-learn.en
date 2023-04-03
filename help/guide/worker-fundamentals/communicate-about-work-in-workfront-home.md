@@ -14,4 +14,4 @@ In this video, you will learn how to:
 * Tag users on Workfront updates
 * Reply to existing updates
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on)

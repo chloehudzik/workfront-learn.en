@@ -19,4 +19,4 @@ To truly empower people, managers must plan and schedule their people’s effort
 However, that task can be a little bit easier with Workfront’s Resource Planner for resources.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on)
