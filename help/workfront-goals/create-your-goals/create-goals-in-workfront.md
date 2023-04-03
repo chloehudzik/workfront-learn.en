@@ -62,7 +62,7 @@ Here are a few things to consider before copying goals:
 
     ![An image of the [!UICONTROL Goal Details] panel in [!DNL Workfront Goals] with the [!UICONTROL Copy] option](assets/03-workfront-goals-copy-a-goal.png)
 
-1. Click **[!UICONTROL Activate]**, which updates the goal status to Active. The goal must have an associated activity or result in order to "activate."
+1. Click the 3-dot icon, then select  **[!UICONTROL Activate]**, which updates the goal status to Active. The goal must have an associated activity or result in order to "activate."
 
 If you copied a goal that was not completed in a previous time period and want to continue working on it in the following time period, do the following:
 
