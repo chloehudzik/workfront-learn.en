@@ -23,7 +23,7 @@ Change the project name, planned start date, and priority from the "Initial scen
 
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12&learn=on)
 
 >[!TIP]
 >

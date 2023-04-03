@@ -18,4 +18,4 @@ In this video tutorial, you will learn:
 
 * How to optimize resource management tools—durations and planned dates, planned hours, and job role assignments
 
->[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on)

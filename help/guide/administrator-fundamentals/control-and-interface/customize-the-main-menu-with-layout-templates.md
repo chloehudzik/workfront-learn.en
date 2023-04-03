@@ -18,4 +18,4 @@ In this video, you will learn how to:
 * Add items to the [!UICONTROL Main Menu] 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on)

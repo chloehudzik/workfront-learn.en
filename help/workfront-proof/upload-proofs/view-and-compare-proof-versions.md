@@ -21,7 +21,7 @@ In this video, you will learn how to:
 * Make comments and markup on a version
 * Compare the current version with an earlier version of the file 
 
->[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on)
 
 <!--
 ## Learn more

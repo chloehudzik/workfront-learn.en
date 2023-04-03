@@ -18,7 +18,7 @@ In this video, you will learn about:
 * The 6 steps in a typical work life cycle
 * Core building blocks in the "strategy phase" in the work life cycle
 
->[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on)
 
 <!--
 Your turn graphic

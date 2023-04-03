@@ -19,6 +19,6 @@ In this video, you will learn:
 * What the DATEDIFF and WEEKDAYDIFF expressions calculate
 * How to create a WEEKDAYDIFF data expression in a calculated field
 
->[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12&learn=on)
 
 **Note**: The WEEKDAYDIFF data expression does NOT take into account holidays specified by your organization.

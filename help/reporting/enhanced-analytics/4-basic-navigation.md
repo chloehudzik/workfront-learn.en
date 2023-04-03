@@ -27,4 +27,4 @@ In this video, you will learn:
 * An overview of the work charts
 * An overview of the people charts
 
->[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12&learn=on)

@@ -23,7 +23,7 @@ Look up information about a project in Workfront and send an email with related 
 
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
 
->[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335276/?quality=12&learn=on)
 
 >[!TIP]
 >

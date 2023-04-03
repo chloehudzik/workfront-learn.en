@@ -18,4 +18,4 @@ In this video, you will learn how to:
 
 * Take your project live using the project status
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on)

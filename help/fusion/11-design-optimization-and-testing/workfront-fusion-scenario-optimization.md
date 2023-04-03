@@ -25,7 +25,7 @@ In this video, you will learn how to:
 * Send fewer API calls
 * Use fewer modules
 
->[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12&learn=on)
 
 ## Want to learn more? We recommend the following:
 

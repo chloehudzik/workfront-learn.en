@@ -20,7 +20,7 @@ In this video, you will learn:
 * Calculated aggregates
 * Calculated groupings
 
->[!VIDEO](https://video.tv.adobe.com/v/3409635/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3409635/?quality=12&learn=on)
 
 ## Handy links
 

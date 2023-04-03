@@ -22,7 +22,7 @@ In this video, you will learn:
 * How to share a dashboard with other Workfront users
 * How to print a dashboard
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
 ## Activity: Create a dashboard
 

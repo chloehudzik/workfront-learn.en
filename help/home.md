@@ -7,7 +7,7 @@ exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 
 A library of training videos and articles designed to help you better understand Workfront features and settings.  Included is a collection of best practices, curated exercises and other resources that will help both you and your organization be successful with Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on)
 
 <!-- 
 

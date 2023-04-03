@@ -19,4 +19,4 @@ In this video, you will learn:
 * What the LEFT / RIGHT expression does
 * How to use a LEFT / RIGHT text expression in a calculated field
 
->[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12&learn=on)

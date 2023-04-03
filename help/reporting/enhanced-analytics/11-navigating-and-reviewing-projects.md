@@ -18,7 +18,7 @@ In this video, you will learn:
 
 * How to read the Flight plan chart
 
->[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on)
 
 ## Flight plan chart
 

@@ -20,7 +20,7 @@ In this video, you will learn:
 * How to apply a workflow using a proof template
 * How to set up an automated workflow from scratch
 
->[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on)
 
 
 

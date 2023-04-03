@@ -16,7 +16,7 @@ doc-type: video
 
 In this video, you will learn how to configure queue topics, topic groups, and routing rules.
 
->[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
 
 ## Frequently asked questions
 

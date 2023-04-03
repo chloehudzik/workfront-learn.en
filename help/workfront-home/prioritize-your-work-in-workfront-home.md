@@ -19,4 +19,4 @@ In this video, you will learn how to:
 * Mark work as priority assignments
 * Filter the [!UICONTROL Work List] to see only priority work
 
->[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on)

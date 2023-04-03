@@ -16,4 +16,4 @@ In this video, you will learn how to:
 * Assign layout templates to users, groups, or teams
 * Control who can manage access
 
->[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on)

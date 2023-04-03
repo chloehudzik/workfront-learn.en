@@ -16,4 +16,4 @@ doc-type: video
 
 In this video, you will learn how to create initiatives as part of a plan in the [!DNL Scenario Planner].
 
->[!VIDEO](https://video.tv.adobe.com/v/335319/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335319/?quality=12&learn=on)

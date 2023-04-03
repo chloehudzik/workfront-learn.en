@@ -20,4 +20,4 @@ In this video, you will learn how to:
 * Add items to the left panel menu
 * Rearrange items in the panel menu
 
->[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on)

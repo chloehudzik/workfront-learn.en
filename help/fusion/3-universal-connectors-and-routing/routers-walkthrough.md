@@ -23,7 +23,7 @@ Use a router to pass Pokemon vs. superheroes bundles down the correct path, then
 
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
 
->[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on)
 
 ## Exercise URLs
 

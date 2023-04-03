@@ -24,4 +24,4 @@ In this video, you will learn:
 * Scenario planning within your organization
 * Access settings needed to use the [!DNL Scenario Planner]
 
->[!VIDEO](https://video.tv.adobe.com/v/335317/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335317/?quality=12&learn=on)

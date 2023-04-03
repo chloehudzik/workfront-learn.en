@@ -19,7 +19,7 @@ In this video, you will learn:
 * What the ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR expressions calculate
 * How to create an ADDWEEKDAYS data expression in a calculated field
 
->[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on)
 
 ## Additional examples
 

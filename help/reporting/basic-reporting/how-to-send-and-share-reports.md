@@ -20,7 +20,7 @@ In this video, you will learn:
 * How to share reports with anyone
 * What recipients can see and do with a Workfront report
 
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
 ## Activity: Send a report
 

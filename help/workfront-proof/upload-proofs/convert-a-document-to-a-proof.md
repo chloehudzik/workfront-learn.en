@@ -20,7 +20,7 @@ In this video, you will learn how to:
 * Add a workflow while generating the proof
 * Add or edit a workflow after the proof is created
 
->[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on)
 
 
 ## Who can upload documents?

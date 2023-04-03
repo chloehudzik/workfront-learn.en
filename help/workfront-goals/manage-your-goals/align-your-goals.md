@@ -45,4 +45,4 @@ In this video, you will learn how to:
 
 * Navigate the [!UICONTROL Goal Alignment] page
 
->[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)

@@ -18,4 +18,4 @@ In this video, you will learn:
 * How to install and use the Workfront Fusion Dev Tool
 * How to review the different advanced scenario design tools
 
->[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12&learn=on)

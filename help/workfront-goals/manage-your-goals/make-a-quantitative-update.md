@@ -17,4 +17,4 @@ In this video, you will learn how to:
 
 * Make a quantitative update, or an update to progress indicators (i.e., results, activities, aligned goals, etc.) to drive your goal’s progress
 
->[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on)

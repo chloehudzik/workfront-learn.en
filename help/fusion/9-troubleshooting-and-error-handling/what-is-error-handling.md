@@ -18,4 +18,4 @@ In this video, you will learn:
 * What some common error types are and how the system handles them by default
 * How to apply custom error handling using an error handling module
 
->[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on)

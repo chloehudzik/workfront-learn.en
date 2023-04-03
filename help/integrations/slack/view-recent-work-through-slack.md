@@ -17,4 +17,4 @@ In this video, you will learn how to:
 
 * View recent work through [!DNL Slack]
 
->[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335120/?quality=12&learn=on)

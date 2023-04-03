@@ -23,7 +23,7 @@ This scenario creates a convenience store app so they can easily determine wheth
 
 Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
 
->[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335292/?quality=12&learn=on)
 
 >[!TIP]
 >

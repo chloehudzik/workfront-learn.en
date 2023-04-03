@@ -18,4 +18,4 @@ In this video, you will learn how to:
 
 * Find financial information about a project and understand where it came from.
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on)

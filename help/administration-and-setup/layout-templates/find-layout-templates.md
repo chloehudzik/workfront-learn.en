@@ -19,4 +19,4 @@ In this video, you will learn:
 * Find layout templates in the [!UICONTROL Setup] area
 * Start creating layout templates in Workfront.
 
->[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on)

@@ -16,4 +16,4 @@ In this video, you will learn about:
 * Access levels
 * Job roles
 
->[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12&learn=on)

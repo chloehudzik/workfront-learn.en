@@ -20,7 +20,7 @@ In this video, you will learn how to:
 * Add users to an existing workflow
 * Switch an existing workflow to an automated workflow
 
->[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on)
 
 ## Your turn
 

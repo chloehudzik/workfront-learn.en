@@ -18,4 +18,4 @@ In this video, you will learn how to:
 * Navigate Graphs 
 * Navigate Goal Alignment
 
->[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12&learn=on)

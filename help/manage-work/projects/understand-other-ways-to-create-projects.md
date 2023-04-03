@@ -21,7 +21,7 @@ In this video, you will learn how to:
 * Copy an existing project
 * Import a [!DNL Microsoft Project] file
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on)
 
 ## Pro tips
 

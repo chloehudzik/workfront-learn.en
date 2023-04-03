@@ -20,4 +20,4 @@ In this video, you will learn:
 * How to create and modify a filter
 * How to share a filter with other Workfront users
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on)

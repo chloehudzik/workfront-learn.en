@@ -18,7 +18,7 @@ In this video, you will learn how to:
 * Customize the navigation bar and footer
 * Customize the home page and login page
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on)
 
 ## Additional [!UICONTROL Appearance] setting
 

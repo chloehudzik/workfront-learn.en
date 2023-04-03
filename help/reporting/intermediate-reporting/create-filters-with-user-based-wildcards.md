@@ -19,7 +19,7 @@ In this video, you will learn how to:
 * Understand why to use wildcards 
 * Build a filter with a user-based wildcard 
 
->[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >

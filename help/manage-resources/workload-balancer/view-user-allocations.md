@@ -19,4 +19,4 @@ In this video, you will learn how to:
 * Select Chart mode to get a high-level view of user allocation
 * Show users’ daily allocation breakdowns
 
->[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on)

@@ -19,7 +19,7 @@ In this video, you will learn how to:
 * Upload a new version of a proof
 * Apply a proofing workflow to the version
 
->[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on)
 
 ## Upload a version from the proofing viewer
 

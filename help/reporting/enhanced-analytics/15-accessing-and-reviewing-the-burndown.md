@@ -19,7 +19,7 @@ In this video, you will learn:
 * How to access the burndown chart
 * How to understand the relationship between remaining hours, the project condition, and velocity on a project
 
->[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on)
 
 ## Track project velocity
 

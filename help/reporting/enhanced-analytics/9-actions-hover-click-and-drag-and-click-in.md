@@ -20,7 +20,7 @@ In this video, you will learn:
 * Create a timeframe on a chart
 * How to make additional charts appear
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on)
 
 ## Click a chart for more information
 

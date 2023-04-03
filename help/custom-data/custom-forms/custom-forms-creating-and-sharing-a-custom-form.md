@@ -21,7 +21,7 @@ In this video, you will learn how to:
 * Organize fields using sections and logic
 * Share forms with other users
 
->[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12&learn=on)
 
 ## Custom forms work with multiple object types
 

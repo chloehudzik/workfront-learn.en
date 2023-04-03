@@ -16,7 +16,7 @@ doc-type: video
 
 In this video, you will learn how to create a plan in the [!DNL Scenario Planner].
 
->[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on)
 
 ## Estimate job role information for a plan
 

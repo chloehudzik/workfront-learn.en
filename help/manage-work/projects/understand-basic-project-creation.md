@@ -20,7 +20,7 @@ In this video, you will learn:
 * The definition of a project in [!DNL Workfront]
 * The three most common ways of creating a project
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
 Get your [!DNL  Workfront] projects up and running quickly by using a project template. Then plan your project by focusing first on these five fields:
 

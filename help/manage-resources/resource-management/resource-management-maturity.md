@@ -26,7 +26,7 @@ However, some of you may be further along the journey to resource management mas
 
 ## Four stages of resource management maturity
 
->[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on)
 
 
 ## Where to go from here

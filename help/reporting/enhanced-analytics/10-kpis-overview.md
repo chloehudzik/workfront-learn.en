@@ -18,7 +18,7 @@ In this video, you will learn:
 
 * How to get value from the KPI data
 
->[!VIDEO](https://video.tv.adobe.com/v/335046/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335046/?quality=12&learn=on)
 
 ## Compare KPIs
 

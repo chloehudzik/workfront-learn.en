@@ -20,7 +20,7 @@ In this video, you will learn:
 * How to create and modify a view
 * How to share a view with other Workfront users
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
 ## Activity: Create a basic view
 

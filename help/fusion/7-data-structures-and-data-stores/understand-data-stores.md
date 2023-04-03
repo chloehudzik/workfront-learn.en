@@ -19,4 +19,4 @@ In this video, you will learn:
 * How data structures support a data store
 * How to synchronize systems using a data store
 
->[!VIDEO](https://video.tv.adobe.com/v/335295/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335295/?quality=12&learn=on)

@@ -20,7 +20,7 @@ In this video, you will learn how to:
 * Why planned hours are important to your project
 * How to add planned hours to tasks
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
 
 
 <!---

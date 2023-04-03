@@ -22,4 +22,4 @@ In this video, you will learn how to:
 * Read and interpret the Goal Health chart
 * Read and interpret the Goal Progress chart
 
->[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12&learn=on)

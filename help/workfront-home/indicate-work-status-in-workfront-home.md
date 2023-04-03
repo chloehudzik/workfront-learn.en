@@ -19,7 +19,7 @@ In this video, you will learn:
 * The purpose of status in [!DNL  Workfront]
 * How to change the status of work assignments
 
->[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on)
 
 ## Start vs. Work On It
 

@@ -12,4 +12,4 @@ role: Admin
 
 In this video, learn how request queues can centralize demand management.
 
->[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on)

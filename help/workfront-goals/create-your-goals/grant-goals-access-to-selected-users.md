@@ -17,7 +17,7 @@ In this video, you will learn how to:
 
 * Edit access levels according to license type
 
->[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on)
 
 System administrators can keep track of how many [!DNL Workfront Goals] licenses have been used through the **[!UICONTROL Setup]** area of Workfront.
 

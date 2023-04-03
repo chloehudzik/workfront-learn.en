@@ -21,4 +21,4 @@ In this video, you will learn how to:
 * Add related files to an asset
 * Download assets
 
->[!VIDEO](https://video.tv.adobe.com/v/335255/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335255/?quality=12&learn=on)

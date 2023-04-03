@@ -17,7 +17,7 @@ In this video, you will learn:
 
 * Recommendations for blending a review and approval process with a project timeline
 
->[!VIDEO](https://video.tv.adobe.com/v/335125/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335125/?quality=12&learn=on)
 
 <!--
 This is a duplicate and not used in the TOC

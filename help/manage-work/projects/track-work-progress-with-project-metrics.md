@@ -19,7 +19,7 @@ In this video, you will learn how to:
 * Access the project metrics charts
 * Customize the information in the charts
 
->[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/336667/?quality=12&learn=on)
 
 You can export the entire project metrics dashboard as a .png file with the [!UICONTROL Export] button. This makes it easy to share the data with others through emails or presentations.
 

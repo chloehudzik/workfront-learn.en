@@ -20,7 +20,7 @@ In this video, you will learn how to:
 * Make comments on a static website proof
 * Make comments on an interactive website proof
 
->[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on)
 
 <!--
 ## Learn more

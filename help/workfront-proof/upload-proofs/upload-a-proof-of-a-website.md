@@ -19,7 +19,7 @@ In this video, you will learn how to:
 * Upload a website as a static proof
 * Upload a website as an interactive proof
 
->[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on)
 
 
 ## Interactive content considerations

@@ -18,4 +18,4 @@ In this video, you will learn:
 
 * How end users might use Flight plan, Burndown, and Tasks in flight charts
 
->[!VIDEO](https://video.tv.adobe.com/v/335055/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335055/?quality=12&learn=on)

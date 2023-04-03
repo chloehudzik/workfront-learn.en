@@ -20,7 +20,7 @@ In this video, you will:
 * Learn how resource information is displayed in this view
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on)
 
 For the View by Job Role option, the default is to show the Budgeted column, which pulls in the estimated number of resources needed for a project from a business case, if it has been filled in. This also means the Net column is, by default, using the numbers from the Budgeted column to tell you how many resources are left.
 

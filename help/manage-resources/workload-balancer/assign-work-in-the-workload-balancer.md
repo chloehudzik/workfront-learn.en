@@ -20,4 +20,4 @@ In this video, you will learn how to:
 * Make assignments to an unassigned task
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335166/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335166/?quality=12&learn=on)

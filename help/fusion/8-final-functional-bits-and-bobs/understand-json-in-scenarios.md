@@ -21,4 +21,4 @@ In this video, you will learn:
 * How to read JSON and how it will be translated into data to be used within your scenarios
 * How to use the JSON modules when creating, changing, and working with JSON
 
->[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12&learn=on)

@@ -17,4 +17,4 @@ In this video, you will learn how to:
 
 * Close a goal to indicate when the goal is done, or when you are no longer working on it nor plan to do so in the immediate future
 
->[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on)

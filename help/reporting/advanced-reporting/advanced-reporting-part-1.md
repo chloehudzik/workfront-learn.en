@@ -20,7 +20,7 @@ In this video, you will learn:
 * How to use API explorer and text mode
 * An in depth study of text mode filters 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409632/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3409632/?quality=12&learn=on)
 
 ## Handy links
 

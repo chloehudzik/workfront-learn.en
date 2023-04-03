@@ -21,4 +21,4 @@ In this video, you will learn:
 * How a [!UICONTROL View] can help you see the information you need
 * How to set the start or completion date
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on)

@@ -16,4 +16,4 @@ In this video, you will learn how to:
 * Identify work that’s ready to start
 * Accept work assignments
 
->[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on)

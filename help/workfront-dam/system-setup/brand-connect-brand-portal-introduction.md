@@ -20,7 +20,7 @@ In this video, you will learn how to:
 * Set expiration dates on individual assets
 * Edit asset settings
 
->[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on)
 
 ## Asset folders
 

@@ -21,7 +21,7 @@ In this video, you will learn how to:
 * Filter the comments column
 * Close the proof
 
->[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12&learn=on)
 
 <!-- 
 ## Learn more

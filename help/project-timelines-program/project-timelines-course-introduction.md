@@ -14,4 +14,4 @@ doc-type: video
 
 In this video, you will learn which elements—such as date types and task constraints—are used when building and managing project timelines in [!DNL  Workfront].
 
->[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on)

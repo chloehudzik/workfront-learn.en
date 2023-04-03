@@ -20,7 +20,7 @@ In this video, you will learn how to:
 * Why it's important to have updated data
 * Questions you can ask to help you improve future projects
 
->[!VIDEO](https://video.tv.adobe.com/v/335096/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335096/?quality=12&learn=on)
 
 <!---
 learn more urls:

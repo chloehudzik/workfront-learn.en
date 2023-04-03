@@ -14,4 +14,4 @@ kt: 8870
 
 Watch this video with Workfront's Joel Pettigrew, product manager for [!DNL Enhanced analytics], to learn how analytics came about and the exciting capabilities it makes possible. 
 
->[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335042/?quality=12&learn=on)

@@ -20,4 +20,4 @@ In this video, you will learn:
 * What licenses and access levels are
 * How to create and manage access levels
 
->[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12&learn=on)

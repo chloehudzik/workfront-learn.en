@@ -17,7 +17,7 @@ In this video, you will learn how to:
 
 * View your individual goals in the [!UICONTROL Pulse] update stream
 
->[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on)
 
 ## Filter information in your Pulse stream
 

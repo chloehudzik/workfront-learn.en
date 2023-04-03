@@ -17,4 +17,4 @@ In this video, you will learn how to:
 
 * Access your to-do list in [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335118/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335118/?quality=12&learn=on)
