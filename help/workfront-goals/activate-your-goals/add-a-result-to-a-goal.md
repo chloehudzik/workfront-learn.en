@@ -17,4 +17,4 @@ In this video, you will learn how to:
 
 * Activate a goal by adding a result
 
->[!VIDEO](https://video.tv.adobe.com/v/335194/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335194/?quality=12&learn=on)
