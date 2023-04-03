@@ -297,7 +297,6 @@ feature-set: Workfront
     + [Grant goals access to selected users](workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
     + [Create a layout template for [!UICONTROL Workfront Goals] users](workfront-goals/create-your-goals/create-a-layout-template-with-workfront-goals.md)
     + [Create goals](workfront-goals/create-your-goals/create-goals-in-workfront.md)
-    + [Copy an existing goal](workfront-goals/create-your-goals/copy-an-existing-goal.md)
 
   + Activate your goals {#activate-goals}
     + [Activate goals](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
