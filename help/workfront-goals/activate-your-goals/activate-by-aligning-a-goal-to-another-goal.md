@@ -26,3 +26,10 @@ When you align two goals one will become the parent goal and the other a child g
 1. Click [!UICONTROL Save Changes].
 
 Aligning a goal to another goal creates a child goal. Think of child goals as individual goals that contribute to the progress of the organization's or team's parent goals. Child goals can activate and influence the progress of the parent goal.
+
+## Now activate the parent goal
+
+Now that you have created a child goal it becomes a progress indicator on your parent goal. You will see the Activate option when you click on the three dot menu next to the parent goal name.
+
+![A screenshot showing how to activate the parent goal.](assets/activate-the-parent-goal.png)
+
