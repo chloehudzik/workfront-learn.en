@@ -302,7 +302,7 @@ feature-set: Workfront
     + [Activate goals](workfront-goals/activate-your-goals/activate-goals-in-workfront.md)
     + [Activate by aligning a goal to another](workfront-goals/activate-your-goals/activate-by-aligning-a-goal-to-another-goal.md)
     + [Add a result to a goal](workfront-goals/activate-your-goals/add-a-result-to-a-goal.md)
-    + [Add an activity to a goal](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
+    + [Add an activity and a project to a goal](workfront-goals/activate-your-goals/add-an-activity-to-a-goal.md)
 
   + Manage your goals {#manage-goals}
     + [Align your goals](workfront-goals/manage-your-goals/align-your-goals.md)
