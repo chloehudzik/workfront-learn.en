@@ -1,5 +1,5 @@
 ---
-title: Add [!DNL Workfront Goals] to a layout template
+title: Create a layout template for [!DNL Workfront Goals] users
 description: Learn how to create a layout template with [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] terminology to suit your organization.
 activity: use
 feature: Workfront Goals
@@ -11,7 +11,7 @@ kt: 8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
 ---
-# Create a layout template with [!DNL Workfront Goals]
+# Create a layout template for [!DNL Workfront Goals] users
 
 In the **[!UICONTROL Setup]** area, you can also create and assign a layout template that includes [!DNL Workfront Goals] so you and your users can access it more easily.
 
