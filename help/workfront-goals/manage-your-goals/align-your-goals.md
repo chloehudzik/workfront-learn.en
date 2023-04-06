@@ -19,13 +19,13 @@ Now that you've created and activated your goals in [!DNL Workfront Goals], let'
 
 <!--Insert link to LP 1, above -->
 
-Use goal alignment to:
+Use the Goal Alignment section to:
 
 * View goals that belong to you or your organization.
 * Display goal hierarchy and view aligned children goals.
-* Access the Goal Details panel and update the goal, its results, or activities.
+* Open the goal to see its progress indicators.
 
-Ensuring goals are aligned means everyone from the top down will be executing on work that drives the same initiatives forward. Visualization is an important part of how each top corporate objective directly aligns to the departmental, team, and individual level. Silos are reduced by aligning teams cross-functionally. Alignment creates clarity around everyone’s purpose and connects the organization to what truly matters. 
+Ensuring goals are aligned means everyone from the top down will be executing on work that drives the same initiatives forward. Visualization is an important part of how each top corporate objective directly aligns to the departmental, team, and individual level. Silos are reduced by aligning teams cross-functionally. Alignment creates clarity around everyone's purpose and connects the organization to what truly matters. 
 
 When aligning your company goals, remember they are meant to create clarity and focus through simplicity. If you are struggling with alignment, it's probably because you are trying to force together goals that are inherently disconnected. When you feel stuck, simply revisit the top company goals, then the group and team goals, and decide which are the most important to keep. Eliminate anything that seems redundant or that does not align with your organization's vision.
 
@@ -43,6 +43,7 @@ Here are some things to consider before aligning goals in [!DNL Workfront]:
 
 In this video, you will learn how to:
 
-* Navigate the [!UICONTROL Goal Alignment] page
+* Align goals using both a bottom-up and a top-down approach
+* Navigate the [!UICONTROL Goal Alignment] section
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)

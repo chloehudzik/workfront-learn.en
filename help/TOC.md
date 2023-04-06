@@ -307,7 +307,7 @@ feature-set: Workfront
   + Manage your goals {#manage-goals}
     + [Align your goals](workfront-goals/manage-your-goals/align-your-goals.md)
     + [Remove goal alignment](workfront-goals/manage-your-goals/remove-goal-alignment.md)
-    + [Make a quantitative update](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
+    + [Update progress on results and activities](workfront-goals/manage-your-goals/make-a-quantitative-update.md)
     + [Close a goal once complete](workfront-goals/manage-your-goals/close-a-goal-once-complete.md)
 
   + Monitor your goals {#monitor-goals}

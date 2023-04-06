@@ -1,5 +1,5 @@
 ---
-title: Edit [!UICONTROL Access Levels] for [!DNL Workfront Goals]
+title: Grant goals access to selected users
 description: Learn how to edit access levels according to license type for your users in [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
@@ -11,11 +11,11 @@ kt: 8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
 ---
-# Edit access levels for [!DNL Workfront Goals]
+# Grant goals access to selected users
 
 In this video, you will learn how to:
 
-* Edit access levels according to license type
+* Grant goals access to selected users
 
 >[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on)
 
