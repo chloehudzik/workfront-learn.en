@@ -13,8 +13,6 @@ doc-type: video
 ---
 # Working with JSON walkthrough
 
-## Overview
-
 Learn how to create and parse JSON within a scenario to support your design needs. 
 
 ![An image of a Fusion scenario](assets/final-functional-bits-and-bobs-2.png)

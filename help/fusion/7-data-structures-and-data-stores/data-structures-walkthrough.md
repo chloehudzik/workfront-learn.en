@@ -13,8 +13,6 @@ doc-type: video
 ---
 # Data structures walkthrough
 
-## Overview
-
 Open a CSV file that contains a list of time entries. These time entries are for minutes logged throughout certain days by multiple users. The goal is to take this information and produce a new CSV that shows the total time, in hours, logged by each user, each day.
 
 ![An image of a Fusion scenario](assets/data-structures-and-data-stores-1.png)

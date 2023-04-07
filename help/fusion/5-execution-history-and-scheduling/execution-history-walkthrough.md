@@ -13,9 +13,7 @@ doc-type: video
 ---
 # Execution history walkthrough
 
-## Overview
-
-Review the execution history for the “Using the mighty filter” scenario to understand what happened when executions occurred and how they were structured when they were run.
+Review the execution history for the "Using the mighty filter" scenario to understand what happened when executions occurred and how they were structured when they were run.
 
 ![An image of execution history in a Fusion scenario](assets/execution-history-and-scheduling-1.png)
 

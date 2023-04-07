@@ -13,8 +13,6 @@ doc-type: video
 ---
 # Runs, cycles, and bundles walkthrough
 
-## Overview
-
 Practice with different scenario configurations to explore using runs and cycles. 
 
 ![An image of runs and cycles settings](assets/execution-history-and-scheduling-6.png)

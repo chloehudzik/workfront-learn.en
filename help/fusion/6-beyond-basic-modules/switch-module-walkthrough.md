@@ -13,8 +13,6 @@ doc-type: video
 ---
 # Switch module walkthrough
 
-## Overview
-
 Understand how to use the Switch module when you need to perform more complex or dynamic data transformations.
 
 ![An image using the switch module](assets/beyond-basic-modules-4.png)

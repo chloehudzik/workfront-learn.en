@@ -13,8 +13,6 @@ doc-type: video
 ---
 # Incomplete executions walkthrough
 
-## Overview
-
 Learn the useful habit of storing incomplete executions and understand the value provided when re-running bundles after evaluating and correcting errors.
 
 ![An image of a scenario with error handling](assets/troubleshooting-and-error-handling-8.png)

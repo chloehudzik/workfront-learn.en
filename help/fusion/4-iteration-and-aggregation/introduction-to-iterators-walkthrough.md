@@ -13,9 +13,7 @@ doc-type: video
 ---
 # Introduction to iterators walkthrough
 
-## Overview
-
-Look at a specific project in Workfront, then look at all the tasks within that project. Then you will use the increment tool module to count the number of tasks within the project, Finally, you’ll use the Set variable module to subtract the Number of Children from the Number of Open Issues to produce a numeric value for each of the task bundles.
+Look at a specific project in Workfront, then look at all the tasks within that project. Then you will use the increment tool module to count the number of tasks within the project, Finally, you'll use the Set variable module to subtract the Number of Children from the Number of Open Issues to produce a numeric value for each of the task bundles.
 
 ![An image of the Fusion scenario](assets/iteration-and-aggregation-1.png)
 
