@@ -28,11 +28,8 @@ The progress of your goal is a good way to get an idea of where your goal is at 
 
 ![A graphic covering the different progress labels in [!DNL Workfront Goals]](assets/15-workfront-goals-progress-bar-code.png)
 
-![A screenshot of the goal progress percentage column in the [!UICONTROL Check-in] section of [!DNL Workfront Goals]](assets/16-workfront-goals-progress-status-bar.png)
-
-<!-- Learn more graphic -->
  
-* For more information about the formulas used to calculate goal progress, explore the article Calculate goal progress in [!DNL   Goals].
- 
+>[!TIP]
+>
+>For more information about the formulas used to calculate goal progress, explore this article: [Overview of goal progress and condition in Adobe Workfront Goals](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=en#overview-of-goal-progress-and-threshold).
 
-<!-- need link to documentation article, above -->

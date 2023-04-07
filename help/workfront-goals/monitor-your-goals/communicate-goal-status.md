@@ -12,17 +12,16 @@ exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
 ---
 # Communicate goal status
 
-Now that you've updated your goals using [!UICONTROL Check-ins], take a moment to step back and get a bird's-eye view of the goals you're working on and how they relate to the team, group, and company goals. Communicating with others on the progress and status of your goals is an important part of staying aligned.
+Now that you've updated your goals using, take a moment to step back and get a bird's-eye view of the goals you're working on and how they relate to the team, group, and company goals. Communicating with others on the progress and status of your goals is an important part of staying aligned.
 
 There are various ways to keep the right people updated on your goals. You can start by: 
 
 * Sharing and reporting on your goals
-* Setting up your view of the [!UICONTROL Pulse] stream to create and view individual goal updates
 * Leveraging the [!UICONTROL Graphs] section to get a comprehensive snapshot of your goals' progress
 
 ## Share a goal
 
-You can share a goal you created or a goal created by someone else to which you have permissions to manage. You cannot share goals with groups, teams, or companies. If you have Manage permissions to a goal, you can change goal’s permissions for the goal creator. By default, the person creating the goal has Manage permissions, but you can change them to View. 
+You can share a goal you created or a goal created by someone else to which you have permissions to manage. You cannot share goals with groups, teams, or companies. If you have Manage permissions to a goal, you can change goal's permissions for the goal creator. By default, the person creating the goal has Manage permissions, but you can change them to View. 
 
 1. Click the name of the goal to share from any section in the [!DNL Goals] area to open the [!UICONTROL Goal Details] panel.
 
