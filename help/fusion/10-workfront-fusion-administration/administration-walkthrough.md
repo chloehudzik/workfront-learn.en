@@ -13,8 +13,6 @@ doc-type: video
 ---
 # Administration walkthrough
 
-## Overview
-
 Learn to switch between different organizations or teams and add users to the system.
 
 ![An image of a scenario with error handling](assets/workfront-fusion-administration-1.png)

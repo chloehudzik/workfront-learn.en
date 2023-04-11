@@ -13,8 +13,6 @@ doc-type: video
 ---
 # Arrays walkthrough
 
-## Overview
-
 Review previous walkthrough exercises where simple and complex arrays were used. We'll review how we found these and how to utilize the information using array functions if necessary.
 
 ![An image of a Fusion scenario](assets/final-functional-bits-and-bobs-1.png)

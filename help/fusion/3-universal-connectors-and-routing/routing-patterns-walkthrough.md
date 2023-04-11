@@ -13,8 +13,6 @@ doc-type: video
 ---
 # Routing patterns and fallbacks walkthrough
 
-## Overview
-
 Use the Set Variable module to send a number through multiple paths to see how filters and fallbacks behave when routing.
 
 ![An image of the Fusion scenario](assets/universal-connectors-and-routing-7.png)

@@ -13,8 +13,6 @@ doc-type: video
 ---
 # Initial scenario design walkthrough
 
-## Overview
-
 Create a new project in Workfront for each row in the Project List CSV file.
 
 ![An image of the Fusion scenario](assets/understand-the-basics-1.png)

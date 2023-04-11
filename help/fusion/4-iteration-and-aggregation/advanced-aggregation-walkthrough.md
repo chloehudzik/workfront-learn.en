@@ -13,8 +13,6 @@ doc-type: video
 ---
 # Advanced aggregation walkthrough
 
-## Overview
-
 Call a web service to return details about multiple countries and identify the total population of all countries, grouped by sub-region.
 
 ![An image of the Fusion scenario](assets/iteration-and-aggregation-3.png)
@@ -50,7 +48,7 @@ You'll see a shadow surrounding any segment in your scenario from a **beginning-
 
 This practice exercise builds on what you learned in the walkthrough, but the solution is not provided.
 
-Create a new scenario to sum all hours logged on tasks in projects in the marketing portfolio. Then send one email that says “Your {Project Name} project team has logged {summed hours} of the total {planned hours} planned hours, putting you at {percentage} of the plan.”
+Create a new scenario to sum all hours logged on tasks in projects in the marketing portfolio. Then send one email that says "Your {Project Name} project team has logged {summed hours} of the total {planned hours} planned hours, putting you at {percentage} of the plan."
 
 **Challenge:** See if you can do the same thing but for hours logged this year only.
 
