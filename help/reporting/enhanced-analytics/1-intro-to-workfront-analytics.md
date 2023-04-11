@@ -1,5 +1,5 @@
 ---
-title: Into to Workftont Analytics
+title: A Moment with Product - Introduction to Workftont Analytics
 description:  Learn how analytics came about and the exciting capabilities it makes possible with Joel Pettigrew, product manager for [!DNL Enhanced analytics]. 
 activity: use
 feature: Reports and Dashboards
