@@ -13,8 +13,6 @@ doc-type: video
 ---
 # Dev tool walkthrough
 
-## Overview
-
 Install and use the different areas in the Workfront Dev Tool to take a deeper dive into requests/responses made and advanced scenario design tricks.
 
 ![An image of a Fusion scenario and the dev tool](assets/troubleshooting-and-error-handling-1.png)
@@ -32,7 +30,7 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 ## Download the Dev tool
 
-The Dev Tool has a number of advanced features that improve your ability to understand and troubleshooting scenarios. Download the “workfront-fusion-devtool.zip” document found in the Fusion Exercise Files folder in your test drive.
+The Dev Tool has a number of advanced features that improve your ability to understand and troubleshooting scenarios. Download the "workfront-fusion-devtool.zip" document found in the Fusion Exercise Files folder in your test drive.
 
 
 

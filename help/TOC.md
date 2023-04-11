@@ -220,6 +220,7 @@ feature-set: Workfront
     + [Advanced reporting part 3](reporting/advanced-reporting/advanced-reporting-part-3.md)
 
   + Enhanced Analytics {#enhanced-analytics}
+    + [A moment with Product about [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
     + [Get started with [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
     + [Add [!UICONTROL analytics] to layout templates](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
     + [Understand basic navigation](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -273,7 +274,7 @@ feature-set: Workfront
     + [Visibility in resource management tools](manage-resources/pto/visibility-in-resource-management-tools.md)
 
   + Scenario Planner {#scenario-planner}
-    + [A moment with product about the Scenario Planner](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
+    + [A moment with Product about the Scenario Planner](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
     + [What is the Scenario Planner?](manage-resources/scenario-planner/what-is-scenario-planner.md)
     + [Access a plan in Scenario Planner](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
     + [Create Plans in the Scenario Planner](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)

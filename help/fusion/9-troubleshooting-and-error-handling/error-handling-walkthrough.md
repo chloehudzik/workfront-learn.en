@@ -13,8 +13,6 @@ doc-type: video
 ---
 # Error handling walkthrough
 
-## Overview
-
 Understand how default error handling occurs and how to add specific module error handling using directives.
 
 ![An image of a scenario with error handling](assets/troubleshooting-and-error-handling-7.png)

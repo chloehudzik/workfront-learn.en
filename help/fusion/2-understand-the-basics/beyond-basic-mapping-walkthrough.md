@@ -13,8 +13,6 @@ doc-type: video
 ---
 # Beyond basic mapping walkthrough
 
-## Overview
-
 Change the project name, planned start date, and priority from the "Initial scenario design" you created in the first walkthrough using the mapping panel formulas. 
 
 ![An image of the Fusion scenario](assets/understand-the-basics-1.png)
@@ -37,11 +35,11 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 This practice exercise builds on what you learned in the walkthrough, but the solution is not provided.
 
-Create a clone of the “Beyond basic mapping” walkthrough you just completed. You’ll continue using that scenario in the next walkthrough, so you don’t want to modify it with this exercise.
+Create a clone of the "Beyond basic mapping" walkthrough you just completed. You'll continue using that scenario in the next walkthrough, so you don't want to modify it with this exercise.
 
 Create a task in each project you created as part of the previous walkthrough.
 
-* Use “Initial Planning for a (Project Color) Project” as the task name.
+* Use "Initial Planning for a (Project Color) Project" as the task name.
 * Set the planned start date to be the same as the project planned start date.
 * Set the duration to 3 days and duration type to Calculated Assignment.
 * Set the planned hours to be 10% of the Confidence Rating in hours.

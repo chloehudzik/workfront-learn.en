@@ -13,9 +13,7 @@ doc-type: video
 ---
 # Using the mighty filter walkthrough
 
-## Overview
-
-Using the “Beyond basic mapping” walkthrough exercise you created earlier, add a filter between the two modules in the modules to only create projects that have a “Red” project color in the Project List.
+Using the "Beyond basic mapping" walkthrough exercise you created earlier, add a filter between the two modules in the modules to only create projects that have a "Red" project color in the Project List.
 
 ![An image of the Fusion scenario](assets/understand-the-basics-2.png)
 
@@ -41,7 +39,7 @@ In this video, you will learn how to:
 
 This practice exercise builds on what you learned in the walkthrough, but the solution is not provided.
 
-Modify the filter you created during the filters walkthrough to only allow projects that are “Yellow” and the confidence rating is less than 100 or have the word “phase” in the project name and the planned begin date is in 2021. Name the filter “Practice Exercise Filter.”
+Modify the filter you created during the filters walkthrough to only allow projects that are "Yellow" and the confidence rating is less than 100 or have the word "phase" in the project name and the planned begin date is in 2021. Name the filter "Practice Exercise Filter."
 
 **Challenge:** Try creating a filter that only allows projects with an even Confidence Rating to pass through. Need a hint? Look into the math formulas.
 

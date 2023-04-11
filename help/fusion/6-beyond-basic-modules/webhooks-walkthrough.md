@@ -13,9 +13,7 @@ doc-type: video
 ---
 # Webhooks walkthrough
 
-## Overview
-
-This scenario creates a convenience store app so they can easily determine whether or not a customer is old enough to purchase alcohol. The cashier simply needs to post the name and birthdate of the customer AND a verified client token to a URL that’s been provided. Once entered, that will trigger our scenario to calculate the appropriate response and return it to the requestor.
+This scenario creates a convenience store app so they can easily determine whether or not a customer is old enough to purchase alcohol. The cashier simply needs to post the name and birthdate of the customer AND a verified client token to a URL that's been provided. Once entered, that will trigger our scenario to calculate the appropriate response and return it to the requestor.
 
 ![An image using the switch module](assets/beyond-basic-modules-5.png)
 
