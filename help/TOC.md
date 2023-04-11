@@ -139,6 +139,7 @@ feature-set: Workfront
     + [Understand settings for a flow request](manage-work/request-queues/understand-settings-for-a-flow-request.md)
     + [Create a request queue](manage-work/request-queues/create-a-request-queue.md)
     + [Create a request flow](manage-work/request-queues/create-a-request-flow.md)
+    + [Answers to common questions about request queues](manage-work/request-queues/request-queue-faq.md)
 
   + Approval processes and milestone paths {#approval-processes-and-milestone-paths}
     + [Create a single-use approval process](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
