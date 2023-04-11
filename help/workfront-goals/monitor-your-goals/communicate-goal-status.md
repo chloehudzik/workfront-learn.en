@@ -12,7 +12,7 @@ exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
 ---
 # Communicate goal status
 
-Now that you've updated your goals using, take a moment to step back and get a bird's-eye view of the goals you're working on and how they relate to the team, group, and company goals. Communicating with others on the progress and status of your goals is an important part of staying aligned.
+Now that you've updated your goals, take a moment to step back and get a bird's-eye view of the goals you're working on and how they relate to the team, group, and company goals. Communicating with others on the progress and status of your goals is an important part of staying aligned.
 
 There are various ways to keep the right people updated on your goals. You can start by: 
 
@@ -27,7 +27,7 @@ You can share a goal you created or a goal created by someone else to which you 
 
 1. Click the 3-dot icon next to the goal name, then click [!UICONTROL **Share**]. The [!UICONTROL Goal Access] box displays.
 
-    ![Assss](assets/17-workfront-goals-share-a-goal.png)
+    ![Screenshot of sharing a goal](assets/17-workfront-goals-share-a-goal.png)
 
 1. Do one of the following:
 
