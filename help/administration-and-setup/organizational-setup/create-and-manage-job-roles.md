@@ -10,6 +10,7 @@ level: Beginner
 kt: 12448
 doc-type: video
 last-substantial-update: 2023-03-27
+exl-id: ac72827b-6a65-473a-a5ac-7d0771230d63
 ---
 # Create and mange job roles
 
@@ -20,4 +21,3 @@ In this video, you will learn:
 * How to apply job roles to users so they can be assigned to the correct work.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on)
-
