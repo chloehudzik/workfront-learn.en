@@ -6,6 +6,7 @@ type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10101
+exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 ---
 # Common questions about request queues
 
@@ -38,4 +39,3 @@ Yes. This involves creating a custom form and selecting both [!UICONTROL Issue] 
 **I'm looking at a project or task report. How can I find out what request this object originated from?**
 
 You can leverage the **[!UICONTROL Converted Issue Originator]** field source to add that information to your project and task reports.
-
