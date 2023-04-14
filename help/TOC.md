@@ -41,6 +41,7 @@ feature-set: Workfront
     + [Customize project details with layout templates](administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
     + [Customize project headers with layout templates](administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.md)
     + [Customize reporting lists with layout templates](administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
+     + [Add and manage pins through a layout template](administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
 
   + Email and In App Notifications {#email-and-in-app-notifications}
     + [Manage inapp and email notifications](administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
