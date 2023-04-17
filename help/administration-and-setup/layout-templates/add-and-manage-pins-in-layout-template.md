@@ -10,7 +10,7 @@ jira: KT-13069
 thumbnail: 3418382.jpeg
 ---
 
-# Pin pages through a layout templates
+# Add and manage pins through a layout templates
 
 Learn what a pin is and how to pin important or pertinent pages for a set of users through layout templates.
 
