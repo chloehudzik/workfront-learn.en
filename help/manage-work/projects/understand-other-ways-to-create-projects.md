@@ -1,5 +1,5 @@
 ---
-title: Understand other ways to create projects
+title: Learn four ways to create a project
 description: Learn how to create a project from a template, create a project from scratch, copy an existing project, or import a [!DNL Microsoft Project] file.
 activity: use
 feature: Work Management
@@ -12,7 +12,7 @@ kt: 8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
 ---
-# Understand other ways to create projects
+# Learn four ways to create a project
 
 In this video, you will learn how to:
 
@@ -29,7 +29,7 @@ In this video, you will learn how to:
 
 ![[!UICONTROL New Project from Template] window](assets/planner-fund-new-project-from-template-window.png)
 
-* If there’s a template you use frequently, make it a favorite! You’ll see the template listed in the [!UICONTROL New Project] menu, in addition to it appearing under the [!UICONTROL Favorites and Recents] icon in the navigation bar. Just click the favorite star icon wherever you see it—on the template page, while choosing a template to create your project with, etc.
+* If there's a template you use frequently, make it a favorite! You'll see the template listed in the [!UICONTROL New Project] menu, in addition to it appearing under the [!UICONTROL Favorites and Recents] icon in the navigation bar. Just click the favorite star icon wherever you see it—on the template page, while choosing a template to create your project with, etc.
 
 ![[!UICONTROL Favorite templates] list under [!UICONTROL New Project] button](assets/planner-fund-template-favorites.png)
 
