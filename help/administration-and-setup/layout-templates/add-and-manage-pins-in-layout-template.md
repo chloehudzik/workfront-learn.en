@@ -8,8 +8,8 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-19
 jira: KT-13069
 thumbnail: 3418382.jpeg
+exl-id: 022a343f-f7b4-41d0-bfdd-395157a19da7
 ---
-
 # Add and manage pins through a layout templates
 
 Learn what a pin is and how to pin important or pertinent pages for a set of users through layout templates.
