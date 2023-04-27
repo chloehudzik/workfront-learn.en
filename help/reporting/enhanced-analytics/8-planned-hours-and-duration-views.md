@@ -17,4 +17,10 @@ In the Burndown and Project treemap charts, you can view the information by plan
 
 ![An image of selecting a planned hours rather than duration](assets/section-1-5.png)
 
+
+
 Planned hours is the default. If you switch to duration, this does stick if you navigate away from [!DNL Analytics] and come back and between Workfront logins.
+
+## What does box size and color shade mean?
+
+Smaller, lighter blue boxes indicate fewer hours while larger boxes and darker shades of blue indicate more hours in comparison. For more information see [Understand the Project treemap visualization](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=en).
