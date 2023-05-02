@@ -1,6 +1,6 @@
 ---
 title: Understand the activity by team chart in [!UICONTROL Enhanced Analytics]
-description: The Activity by team chart allows you to understand how your organization’s home teams spend their time in Workfront.
+description: The Activity by team chart allows you to understand how your organization's home teams spend their time in Workfront.
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -13,7 +13,7 @@ exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
 ---
 # Understand the activity by team chart in [!UICONTROL Enhanced Analytics]
 
-The Activity by team chart allows you to understand how your organization’s home teams spend their time in Workfront. Workfront users can be on multiple teams, but they can only be on one home team. The teams used in the People charts are made up of only those users who have that team designated as their home team. 
+The Activity by team chart allows you to understand how your organization's home teams spend their time in Workfront. Workfront users can be on multiple teams, but they can only be on one home team. The teams used in the People charts are made up of only those users who have that team designated as their home team. 
 
 Activities—users logged in, task status changes, and task completed—display in different colors to summarize these events over the filtered time period.
 
@@ -32,3 +32,9 @@ On the chart, you can see:
 1. Purple boxes show that users assigned to the project logged in on that day, with a darker shade indicating a higher number of users logging in.
 1. Pink boxes show that users changed the status of a task for the project on that day, with a darker shade indicating a higher number of task statuses changing.
 1. Blue boxes show that users completed a task for the project, with a darker shade indicating a higher number of tasks being completed.
+
+## How to navigate to the chart
+
+1. Click on the [!UICONTROL People] tab in the left panel.
+1. Use the [!UICONTROL Filter] to choose a Home team to examine.
+1. You will see the activity by team chart appear at the top of the people charts.
