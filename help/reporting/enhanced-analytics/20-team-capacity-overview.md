@@ -31,6 +31,12 @@ On the chart, you can see:
 1. The darker blue fill color indicates the home team is either experiencing burnout (4) or is unchallenged.
 1. The lighter or more transparent blue indicates the home team's workload is balanced
 
+## How to navigate to the chart
+
+1. Click on the [!UICONTROL People] tab in the left panel.
+1. Use the [!UICONTROL Filter] to choose a Home team to examine.
+1. You will see the team capacity chart appear below the [!UICONTROL Resource capacity] chart.
+
 ## How to use the chart
 
 To display data on the charts in the People section of the Analytics area, you must add filters and select a date range. If you have added filters before, they are active until you remove them.

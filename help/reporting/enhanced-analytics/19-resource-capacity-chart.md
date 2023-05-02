@@ -31,6 +31,12 @@ On the chart, you can see the following key details:
 1. The circle shows the number of planned hours assigned to the home team.
 1. The vertical line shows the total number of hours available for the home team.
 
+## How to navigate to the chart
+
+1. Click on the [!UICONTROL People] tab in the left panel.
+1. Use the [!UICONTROL Filter] to choose a Home team to examine.
+1. You will see the [!UICONTROL Resource capacity] chart appear below the team activity chart.
+
 ## How to use the chart
 
 You must add filters and select a date range to display data on the charts in the [!UICONTROL Enhanced analytics] area of Workfront. If you added filters previously, they are active until you remove them.
