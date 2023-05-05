@@ -1,6 +1,6 @@
 ---
 title: Understand project communication
-description: Learn how to communicate about project work using updates on projects, tasks, issues, or documents. Then review existing updates in [!DNL  Workfront].
+description: Learn how to communicate about project work using good project planning, updates, task status,  percent complete, issues, and reports.
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,26 +8,24 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-05
 kt: 10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 ---
 # Understand project communication
 
-As the saying goes, 90 percent of managing a project is communication. Communication with the project team, your managers, and project stakeholders.
+In this video you will learn how to communicate with all project stakeholders using:
 
-But when project teams use email, instant messaging, meetings, and sticky notes for project communication, information gets scattered ... or worse, forgotten. Keep communication about project work on the project itself in [!DNL Workfront] using updates.
+* Good project planning
+* Updates
+* Task status and percent complete
+* Issues
+* Reports
 
-As project team members are working on assignments, they can make updates from [!DNL Workfront] [!UICONTROL Home] on the tasks assigned to them.
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on)
 
-![Updates section in a project](assets/planner-fund-project-communication.png)
-
-Updates from tasks, issues, and documents roll up to the project-level [!UICONTROL Updates] tab, making information quick and easy to view.
-
-Then you can reply to updates, simply by clicking the button. This keeps all conversation in one place, allowing you to refer back to it later.
-
-<!---
-learn more urls
-Communicate about work in Home
-Subscribe to items in Workfront
-Update work
---->
+>[!TIP]
+>
+>To create the Note Search report shown in the video, see the activity in the [Create a task report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) tutorial.
+>
+>To add the Note Search report to your project panel, see the activity in the [Create dashboards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) tutorial.
