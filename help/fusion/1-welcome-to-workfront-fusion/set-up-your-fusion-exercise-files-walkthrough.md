@@ -1,5 +1,5 @@
 ---
-title: Set up your Fusion exercise files walkthrough
+title: Set up your Workfront Fusion exercise files
 description: Learn how to download the exercise files and upload these files into a folder in Workfront, in [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
@@ -11,10 +11,12 @@ kt: 8998
 exl-id: 2499a65a-a3c6-4ba9-82c6-c2932831f33e
 doc-type: video
 ---
-# Set up your Fusion exercise files walkthrough
+# Set up your Workfront Fusion exercise files
 
-Step 1: Download the [Fusion exercise files](/help/assets/fusion-exercise-files.zip)
+Learn how to set up your Fusion exercise files.
 
-Step 2: Watch the video to learn how to upload these files into a folder in Workfront
+1. Download the [Fusion exercise files](/help/assets/fusion-exercise-files.zip).
+
+1. Watch the video to learn how to upload these files into a folder in Workfront.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on)
