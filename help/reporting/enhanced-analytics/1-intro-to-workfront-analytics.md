@@ -11,7 +11,7 @@ doc-type: video
 kt: 8870
 exl-id: 037ec658-a7b7-44cd-a7af-b1923935f41c
 ---
-# Into to Workftont Analytics
+# Intro to Workftont Analytics
 
 Watch this video with Workfront's Joel Pettigrew, product manager for [!DNL Enhanced analytics], to learn how analytics came about and the exciting capabilities it makes possible. 
 
