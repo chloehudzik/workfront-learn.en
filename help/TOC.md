@@ -107,7 +107,7 @@ feature-set: Workfront
     + [Track overall project progress](manage-work/projects/track-overall-project-progress.md)
     + [Track work progress with project metrics](manage-work/projects/track-work-progress-with-project-metrics.md)
     + [Understand the [!UICONTROL Gantt] view](manage-work/projects/understand-the-gantt-view.md)
-    + [Change the project status](manage-work/projects/change-the-project-status.md)
+    + [Close the project](manage-work/projects/change-the-project-status.md)
      
   + Tasks {#tasks}
     + [How to create tasks](manage-work/tasks/how-to-create-tasks.md)
