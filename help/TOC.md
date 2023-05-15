@@ -110,7 +110,7 @@ feature-set: Workfront
     + [Close the project](manage-work/projects/change-the-project-status.md)
      
   + Tasks {#tasks}
-    + [How to create tasks](manage-work/tasks/how-to-create-tasks.md)
+    + [Create tasks](manage-work/tasks/how-to-create-tasks.md)
     + [Understand parent-child tasks](manage-work/tasks/understand-parent-child-tasks.md)
     + [Work with tasks](manage-work/tasks/work-with-tasks.md)
     + [Assign tasks from the project plan](manage-work/tasks/assign-tasks-from-the-project-plan.md)
