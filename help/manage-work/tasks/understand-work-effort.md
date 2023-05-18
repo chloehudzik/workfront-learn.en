@@ -17,7 +17,7 @@ Workfront understands that some organizations don't use planned hours when creat
 
 With both concepts in mind, Workfront created the [!UICONTROL Work Effort] option.
 
-Instead of entering specific hours for each task in the project, you can use the [!UICONTROL Work Effort] to indicate if a task is a small, medium, or large effort. Workfront automatically estimates planned hours with those tasks based on settings within the project.
+Instead of entering specific hours for each task in the project, you can use [!UICONTROL Work Effort] to indicate if a task is a small, medium, or large effort. Workfront automatically estimates planned hours with those tasks based on settings within the project.
 
 That way, if you plan on using any of Workfront's resource management tools, the estimates you need are already filled in and users have a heads up on the amount of work coming their way.
 
