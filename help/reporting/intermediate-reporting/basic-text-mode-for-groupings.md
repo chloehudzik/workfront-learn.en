@@ -1,6 +1,6 @@
 ---
 title: Understand basic text mode for groupings
-description: Learn what text mode is, what camel case is, and some basic “plug and play” text mode you can use in your groupings in Workfront.
+description: Learn what text mode is, what camel case is, and some basic "plug and play" text mode you can use in your groupings in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -31,7 +31,7 @@ In this video, you will learn:
 
 * What text mode is 
 * What camel case is 
-* Some basic “plug and play” text mode you can use in your groupings 
+* Some basic "plug and play" text mode you can use in your groupings 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
@@ -107,4 +107,15 @@ group.0.displayname=Project Name
 ```
 
 ![A screen image showing Proof approvals grouped by project name](assets/proof-approvals-grouped-by-project-name.png)
+
+
+## Proof Approval - Group by document name
+
+```
+group.0.displayname=Document Name
+group.0.valuefield=documentVersion:document:name
+group.0.valueformat=HTML
+```
+
+![A screen image showing Proof approvals grouped by project name](assets/proof-approvals-grouped-by-doc-name.png)
 
