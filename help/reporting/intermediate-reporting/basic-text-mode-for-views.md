@@ -1,6 +1,6 @@
 ---
 title: Understand basic text mode for views
-description: Learn what text mode is, what camel case is, and some basic “plug and play” text mode you can use in your views in Workfront.
+description: Learn what text mode is, what camel case is, and some basic "plug and play" text mode you can use in your views in Workfront.
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -32,7 +32,7 @@ In this video, you will learn:
 
 * What text mode is 
 * What camel case is 
-* Some basic “plug and play” text mode you can use in your views 
+* Some basic "plug and play" text mode you can use in your views 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
@@ -295,7 +295,7 @@ valueformat=HTML
 width=90
 ```
 
-### Task - Show percent complete of the cross project predecessor’s project
+### Task - Show percent complete of the cross project predecessor's project
 
 ```
 displayname=Predecessor project percent complete
@@ -482,10 +482,10 @@ valueformat=HTML
 
 ![A screen image showing parent folder in a document report](assets/parent-folder-in-a-document-report.png)
 
-## Document - Document Approval Dates
+## Document - Document approval dates
 
 ```
-displayname=Document Approval Dates
+displayname=Document approval dates
 valueformat=HTML
 listdelimiter=<br>
 linkedname=direct
@@ -498,7 +498,7 @@ shortview=false
 section=0
 ```
 
-![A screen image showing the Document Approval Dates view](assets/document-approval-dates.png)
+![A screen image showing the document approval dates view](assets/document-approval-dates.png)
 
 ## Proof Approvals
 
