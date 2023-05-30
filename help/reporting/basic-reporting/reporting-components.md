@@ -36,7 +36,7 @@ Examples: [!UICONTROL Project], [!UICONTROL Task], [!UICONTROL Issue], [!UICONTR
 
 Field names are pieces of information available on what you selected as the field source.
 
-They can be Workfront fields you filled in, fields from a custom form, or informations that Workfront automatically captures.
+They can be Workfront fields you filled in, fields from a custom form, or information that Workfront automatically captures.
 
 Field names drive the value field options.
 
