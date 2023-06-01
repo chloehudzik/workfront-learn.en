@@ -13,9 +13,9 @@ exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
 ---
 # Report on proofs
 
-[!DNL Workfront]’s digital proofing features allow you to manage projects and related review workflows all in one place — [!DNL Workfront]. Gain valuable insight into the proofing work being done with report types, field sources, and field names that display review and approval information.
+[!DNL Workfront]'s digital proofing features allow you to manage projects and related review workflows all in one place — [!DNL Workfront]. Gain valuable insight into the proofing work being done with report types, field sources, and field names that display review and approval information.
 
-We recommend working with your [!DNL Workfront] consultant to create reports that meet your organization’s requirements. Some of the reports require familiarity with [!DNL Workfront]’s text mode reporting.
+We recommend working with your [!DNL Workfront] consultant to create reports that meet your organization's requirements. Some of the reports require familiarity with [!DNL Workfront]'s text mode reporting.
 
 Start with these basic, standard reports to help your teams manage proofs going through a review and approval process in [!DNL Workfront].
 
@@ -25,15 +25,15 @@ This report type helps you track outstanding proof approvals to make sure deadli
 
 ![Select [!UICONTROL Proof Approval] from the [!UICONTROL New Report] drop-down menu](assets/proof-system-setups-proof-approval-report.png)
 
-View and filter options include [!UICONTROL decision date], [!UICONTROL proof approval], [!UICONTROL approver stage], [!UICONTROL workflow template], and [!UICONTROL requester information]. With text mode reporting, you can create a grouping that organizes the list by document name.
+View and filter options include [!UICONTROL decision date], [!UICONTROL proof approval], [!UICONTROL approver stage], [!UICONTROL workflow template], and [!UICONTROL requester information]. With text mode reporting, you can create a grouping that organizes the list by document name. See [Understand basic text mode for groupings](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=en).
 
-When writing proof approval reports, make sure you’re getting information related to the most current version of the proofs. [!DNL Workfront] recommends including this field source and field name in the filter:
+When writing proof approval reports, make sure you're getting information related to the most current version of the proofs. [!DNL Workfront] recommends including this field source and field name in the filter:
 
 **[!UICONTROL Proof Approval]>>[!UICONTROL Is Current Document Version]**
 
 ![Filters tab in report builder](assets/proof-system-setups-proof-approval-report-is-current-version.png)
 
-This is useful when you’re reporting on proofs that have multiple versions so the report lists only the current version of each proof that needs approval. This filters out the earlier versions that you no longer need to work on.
+This is useful when you're reporting on proofs that have multiple versions so the report lists only the current version of each proof that needs approval. This filters out the earlier versions that you no longer need to work on.
 
 ## [!UICONTROL Document Version]
 

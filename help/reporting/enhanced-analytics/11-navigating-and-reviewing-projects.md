@@ -50,14 +50,14 @@ The project condition is a visual representation of how the project is progressi
 
 The condition of a project can be set:
 
-* **Manually**, by users with access to manage the project, when the project’s condition type is set to manual. This allows you to set the condition of the project independently from the critical path.
+* **Manually**, by users with access to manage the project, when the project's condition type is set to manual. This allows you to set the condition of the project independently from the critical path.
 * **Automatically**, by Workfront, when the condition type of the project is set to Progress Status.
 
 Workfront recommends that you set the condition type to Progress Status so you have a clear indication of the true progress of the project, based on the progress of your tasks.
 
 ![An image of possible progress statuses](assets/section-2-3.png)
 
-In this case, the project condition can be:
+When set to Progress Status, the project condition can be:
 
 * **On Target**—When the progress status of the last task on the critical path is On Time, the condition of the project will be On Target. The project is on track to finish on schedule.
 * **At Risk**—When the progress status of the last task on the critical path is Behind or At Risk, then the condition of the project is At Risk. The project is on track to finish late but isn't late yet.
@@ -65,4 +65,4 @@ In this case, the project condition can be:
 
 >[!NOTE]
 >
->Conditions can be customized for your environment, so you may find more than three options or the names may be different than the ones above. For information about customizing conditions, see the article Create or edit a custom Condition.
+>Conditions can be customized for your environment, so you may find more than three options or the names may be different than the ones above. For information about customizing conditions, see the article [Create or edit a custom Condition](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/customize/custom-conditions/create-edit-custom-conditions.html?lang=en).

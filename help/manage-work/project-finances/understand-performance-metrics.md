@@ -31,7 +31,7 @@ Options for the [!UICONTROL PIM] are hour-based and cost-based.
 * **Calculate at project level** — [!UICONTROL EAC] for the parent task and project are determined using the actual hours/actual labor costs in [!UICONTROL EAC] formulas. The calculation includes actual hours/costs and expenses added directly to the parent task or project.
 * R**oll up from tasks/subtasks** — [!UICONTROL EAC] for the parent task and project are determined by adding up the [!UICONTROL EAC] for each child task. This calculation excludes actual hours/costs added directly to a parent task or project.
 
-The [!UICONTROL EAC] calculations are listed in the “Calculate Estimate At Completion (EAC)” <!-- link to article -->article on [!UICONTROL [!DNL Workfront] One].
+The [!UICONTROL EAC] calculations are listed in [Calculate Estimate At Completion (EAC)](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=en).
 
 **Performance Metrics: Settings**
 
