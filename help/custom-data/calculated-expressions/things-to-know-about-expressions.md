@@ -18,7 +18,7 @@ Here is a list of concepts that are good to know when working with custom calcul
 
 When it comes to expression names, casing matters. When initially writing an expression name you can use upper case, lower case, or a mix of both. 
 
-![Error message without capitalization in expression name](assets/ttk-casingmatters01.png)
+![Error message without capitalization in expression name](assets/T2K01.png)
 
 However, the expression must be written as all upper-case letters for the system to recognize the expression and save the field. 
 
@@ -34,23 +34,23 @@ The recommended way to write expressions is with little to no spacing between ea
 
 * IF(ISBLANK({description}),"No Description","Has Description") 
 
-![Expressions without spacing between fields](assets/spacing01.png)
+![Expressions without spacing between fields](assets/T2K02.png)
 
 However, if spacing helps you see what is going on, some spacing can be added to the expressions. The extra spaces shouldn’t prevent the expression from gathering or calculating a value in [!DNL Workfront]. 
 
 * IF (ISBLANK ({description}), "No Description" , "Has Description" ) 
 
-![Expressions with spacing between fields](assets/spacing02.png)
+![Expressions with spacing between fields](assets/T2K03.png)
 
 The only things that cannot have spaces between them are the fields and the curly brackets. Otherwise, you will receive an error message and be unable to save the field or the custom form. 
 
-![Error with spacing between field name and curly bracket](assets/spacing03.png)
+![Error with spacing between field name and curly bracket](assets/T2K04.png)
 
 ## Quotation marks must be straight
 
 When using quotation marks in an expression, make sure the quotation marks are straight ("). If the quotation marks are curved (") the [!DNL Workfront] system will continue to display a "Custom Expression Invalid" message.
 
-![Error with curved quotation marks](assets/curvedquotes01.png)
+![Error with curved quotation marks](assets/T2K05.png)
 
 ## Calculations update on form save and object edit
 
@@ -77,7 +77,7 @@ To update a field using the Recalculate Expressions option:
 * Click the More menu.
 * Select Recalculate Expressions from the list.
 
-![Recalculate expression option in object](assets/recalculate01.png)
+![Recalculate expression option in object](assets/T2K06.png)
  
 You can also recalculate multiple expressions at the same time by using the “bulk edit” feature in a list or report. Suppose you created a report showing a list of issues with the Days Open calculation appearing in a column. If you want to recalculate all the issues at once:
 
@@ -87,7 +87,7 @@ You can also recalculate multiple expressions at the same time by using the “b
 * Check the Recalculate Custom Expressions box at the bottom of the Custom Forms section.
 * Click Save Changes.
 
-![Recalculate expression option for multiple objects](assets/recalculate02.png)
+![Recalculate expression option for multiple objects](assets/T2K07.png)
  
 The screen refreshes to show updated information in the calculated field.
 
