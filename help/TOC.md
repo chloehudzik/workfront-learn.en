@@ -472,10 +472,10 @@ feature-set: Workfront
     + [Proof roles and email alerts](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
     + [Report on proofs](workfront-proof/administration-and-setup/report-on-proofs.md)
     + [Set default at risk proof settings](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
+    + [Set up global proof settings](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
     + [Set default proof roles](workfront-proof/administration-and-setup/set-default-proof-roles.md)
     + [Set up proof account default settings](workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
     + [Settings for proof users](workfront-proof/administration-and-setup/settings-for-proof-users.md)
-    + [Setup global proof settings](workfront-proof/administration-and-setup/setup-global-proof-settings.md)
 
   + Upload proofs {#upload-proofs}
     + [What is a proof version?](workfront-proof/upload-proofs/what-is-a-proof-version.md)
