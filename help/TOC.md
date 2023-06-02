@@ -358,10 +358,10 @@ feature-set: Workfront
 
 + Fusion {#fusion}
   + Welcome to Workfront Fusion {#welcome-to-workfront-fusion}
-    + [Workfront Fusion overview](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
+    + [Introduction and tech strategy](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
+    + [Workfront Fusion training overview](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
     + [Set up your Workfront Fusion exercise files](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
     + [Log in as a new user](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
-    + [Introduction and tech strategy](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
     + [Core concepts](fusion/1-welcome-to-workfront-fusion/core-concepts.md)
 
   + Understand the basics {#understand-the-basics}

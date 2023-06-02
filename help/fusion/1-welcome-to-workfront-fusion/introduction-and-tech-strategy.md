@@ -11,7 +11,15 @@ kt: 8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 doc-type: video
 ---
-# Introduction and tech strategy
+# What is Adobe Workfront Fusion?
+
+Workfront Fusion is a powerful integration platform that lets work flow freely across systems and teams. Its role is to automate your processes so that you can concentrate on new tasks rather than repeating the same tasks again and again. It works by linking actions within and between apps and services to create a scenario that transfers and transforms your data automatically.
+
+## How to get Fusion
+
+Fusion is an add-on product included in some Workfront packages and not in others. If your Workfront package does not include Fusion contact sales.
+
+## Introduction and tech strategy
 
 In this video, you will see:
 
