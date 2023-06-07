@@ -12,7 +12,7 @@ kt: 8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730
 doc-type: video
 ---
-# Oganize your to-do list in [!DNL Workfront] [!UICONTROL Home]
+# Organize your to-do list in [!DNL Workfront] [!UICONTROL Home]
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ In this video, you will learn how to:
 
 * Sort work assignments
 * Filter work assignments by type
-* Identify work that’s ready to start
+* Identify work that's ready to start
 * Accept work assignments
 
 >[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on)
