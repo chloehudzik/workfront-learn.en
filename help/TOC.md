@@ -128,7 +128,7 @@ feature-set: Workfront
     + [Update a request](manage-work/issues-requests/update-a-request.md)
     + [Create a project from a request](manage-work/issues-requests/create-a-project-from-a-request.md)
     + [Convert issues to other work items](manage-work/issues-requests/convert-issues-to-other-work-items.md)
-    + [Review digital work](manage-work/issues-requests/review-and-approve-digital-work.md)
+    + [Review and approve digital work](manage-work/issues-requests/review-and-approve-digital-work.md)
     + [Report on issues](manage-work/issues-requests/report-on-issues.md)
 
   + Portfolios {#portfolios}
@@ -359,9 +359,9 @@ feature-set: Workfront
 + Fusion {#fusion}
   + Welcome to Workfront Fusion {#welcome-to-workfront-fusion}
     + [Introduction and tech strategy](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
+    + [Log in as a new user](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
     + [Workfront Fusion training overview](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
     + [Set up your Workfront Fusion exercise files](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
-    + [Log in as a new user](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
     + [Core concepts](fusion/1-welcome-to-workfront-fusion/core-concepts.md)
 
   + Understand the basics {#understand-the-basics}

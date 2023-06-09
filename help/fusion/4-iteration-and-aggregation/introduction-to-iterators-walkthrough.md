@@ -25,7 +25,7 @@ Workfront recommends watching the exercise walkthrough video before trying to re
 
 >[!TIP]
 >
->For step-by-step instructions on completing the walkthrough, go to the [Introduction to iterators walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators.html?lang=en) exercise.
+>For step-by-step instructions on completing the walkthrough, go to the [Introduction to iterators walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-iterators-exercise.html?lang=en) exercise.
 
 
 ## Want to learn more? We recommend the following:
