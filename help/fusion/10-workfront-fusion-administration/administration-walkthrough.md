@@ -19,7 +19,11 @@ Learn to switch between different organizations or teams and add users to the sy
 
 ## Administration walkthrough
 
-Workfront recommends watching the exercise walkthrough video before trying to recreate the exercise in your own environment.
+In this video you will learn:
+
+* How to navigate between organizations and teams
+* How to create teams
+* How to invite users to an organization and a team
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
 
