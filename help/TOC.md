@@ -68,6 +68,13 @@ feature-set: Workfront
   + System performance and maintenance {#system-perfomance-and-maintenance}
     + [Take charge of an existing Adobe Workfront instance](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
 
+  + Project finances {#project-finances}
+    + [Understand performance metrics](manage-work/project-finances/understand-performance-metrics.md)
+    + [Set up task revenue & cost defaults](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+    + [Set up exchange rates](manage-work/project-finances/set-up-exchange-rates.md)
+    + [Set up expense types](manage-work/project-finances/set-up-expense-types.md)
+    + [Understand financial access](manage-work/project-finances/understand-financial-access.md)
+
 
 + Custom Data {#custom-data}
   + Custom Forms {#custom-forms}
@@ -170,16 +177,10 @@ feature-set: Workfront
     + [Log and review hours](manage-work/close-a-project/log-and-review-hours.md)
     + [Close a project activity](manage-work/close-a-project/close-a-project-activity.md)
 
-  + Project finances {#project-finances}
-    + [Understand performance metrics](manage-work/project-finances/understand-performance-metrics.md)
-    + [Set up task revenue & cost defaults](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-    + [Set up exchange rates](manage-work/project-finances/set-up-exchange-rates.md)
-    + [Set up expense types](manage-work/project-finances/set-up-expense-types.md)
-    + [Understand financial access](manage-work/project-finances/understand-financial-access.md)
+  + Project finances for users {#project-finances-users}
     + [Update and review finances](manage-work/project-finances/update-and-review-finances.md)
     + [Find financial information](manage-work/project-finances/find-financial-information.md)
     + [Understand multiple billing rates](manage-work/project-finances/multiple-billing-rates.md)
-
 
 
 + Reporting {#reporting}
