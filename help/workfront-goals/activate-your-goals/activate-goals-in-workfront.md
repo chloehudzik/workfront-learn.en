@@ -7,7 +7,7 @@ feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
-kt: 10118
+jira: KT-10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
 ---
 # Activate goals in [!DNL Workfront]

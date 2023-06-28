@@ -4,7 +4,7 @@ description:  In this video, learn how to create a custom form, add unique field
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
 ---
 # Custom forms: Creating and sharing a custom form

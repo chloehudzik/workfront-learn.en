@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: System Setup and Administration
 role: Admin, Leader, User
 level: Beginner
-kt: 10919
+jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
 ---
 # Best Practice - Project templates

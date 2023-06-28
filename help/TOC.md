@@ -182,6 +182,9 @@ feature-set: Workfront
     + [Find financial information](manage-work/project-finances/find-financial-information.md)
     + [Understand multiple billing rates](manage-work/project-finances/multiple-billing-rates.md)
 
+  + Intermediate projects {#intermediate-projects}
+    + [Understand and manage duration types and task constraints](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+
 
 + Reporting {#reporting}
   + Basic reporting {#basic-reporting}

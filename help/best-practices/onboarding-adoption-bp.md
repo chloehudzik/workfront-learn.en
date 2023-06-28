@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: Get Started with Workfront
 role: Admin, Leader, User
 level: Beginner
-kt: 10915
+jira: KT-10915
 exl-id: 2e874e41-9ec8-47f9-afea-c99be65f9838
 ---
 # Best Practice - Onboarding and adoption

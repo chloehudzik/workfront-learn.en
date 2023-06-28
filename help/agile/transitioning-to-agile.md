@@ -4,7 +4,7 @@ description: Before switching over to an agile methodology, look over a few piec
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10892
+jira: KT-10892
 thumbnail: transitioning-to-agile.jpeg
 hide: yes
 hidefromtoc: yes

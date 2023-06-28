@@ -7,7 +7,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Beginner, Intermediate
-kt: 10102
+jira: KT-10102
 ---
 
 

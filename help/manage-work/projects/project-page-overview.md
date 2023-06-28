@@ -7,7 +7,7 @@ feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10142
+jira: KT-10142
 exl-id: b56c49a5-bd3b-43b0-8e14-7443f5c7e4b1
 ---
 # Understand the project page

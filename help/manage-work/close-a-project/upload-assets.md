@@ -8,7 +8,7 @@ thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10138
+jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 ---
 # Upload assets

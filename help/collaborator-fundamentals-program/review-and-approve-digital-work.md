@@ -4,7 +4,7 @@ description: Learn how to find and make approvals for projects, tasks, issues, d
 activity: use
 type: Tutorial
 team: Technical Marketing
-kt: 8808
+jira: KT-8808
 doc-type: video
 ---
 # Review and approve digital work

@@ -7,7 +7,7 @@ feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
-kt: 10125
+jira: KT-10125
 exl-id: 7890db2c-21a7-4549-8d46-34f1d334e3d2
 ---
 # Set up [!UICONTROL Workfront Goals] for your org

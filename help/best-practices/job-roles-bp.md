@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: People Teams and Groups
 role: Admin, Leader, User
 level: Beginner
-kt: 10912
+jira: KT-10912
 exl-id: 1975b52d-f3db-4800-a6e7-72faeb8916b7
 ---
 # Best Practice - Job roles

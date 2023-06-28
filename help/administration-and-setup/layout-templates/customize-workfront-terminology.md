@@ -8,7 +8,7 @@ level: Beginner
 activity: deploy
 type: Tutorial
 thumbnail: 335074.jpeg
-kt: 8761
+jira: KT-8761
 exl-id: fc8f31ae-61f8-4705-9cc4-18068bc25fc9
 doc-type: video
 ---

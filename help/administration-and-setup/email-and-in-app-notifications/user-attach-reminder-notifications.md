@@ -7,7 +7,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10096
+jira: KT-10096
 exl-id: 5d49108e-1795-4833-a374-3b598c90b345
 ---
 # Attach reminder notifications to work items

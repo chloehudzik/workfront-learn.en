@@ -8,7 +8,7 @@ thumbnail: set-up-exchange-rates.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10049
+jira: KT-10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 ---
 # Set up exchange rates

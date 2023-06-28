@@ -5,7 +5,7 @@ feature: System Setup and Administration
 activity: deploy
 type: Tutorial
 team: Technical Marketing
-kt: 8932
+jira: KT-8932
 role: Admin
 level: Intermediate
 exl-id: 1a742041-9a65-41cc-a03e-ba17b5b40135

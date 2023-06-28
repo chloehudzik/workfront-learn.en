@@ -5,7 +5,7 @@ topic:
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 ---
 # workfront-dam/brand-connect-user in Home
 

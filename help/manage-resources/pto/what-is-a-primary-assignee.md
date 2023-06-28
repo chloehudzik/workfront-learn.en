@@ -7,7 +7,7 @@ role: Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
-kt: 10185
+jira: KT-10185
 ---
 # What is a primary assignee?
 

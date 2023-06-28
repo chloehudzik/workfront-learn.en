@@ -7,7 +7,7 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9063
+jira: KT-9063
 exl-id: 843acdb1-192a-4124-b91c-128ee6a1353d
 doc-type: video
 ---

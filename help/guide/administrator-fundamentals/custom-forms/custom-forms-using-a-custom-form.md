@@ -4,7 +4,7 @@ description:  In this video, learn how to attach a custom form to an object and 
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: User
 ---
 # Custom forms

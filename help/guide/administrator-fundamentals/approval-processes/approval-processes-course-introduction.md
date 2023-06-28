@@ -5,7 +5,7 @@ topic:
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
 ---
 # Approval processes&#58; Course introduction

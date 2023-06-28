@@ -4,7 +4,7 @@ description: Learn the benefits of using the scrum agile methodology.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10890
+jira: KT-10890
 thumbnail: what-is-scrum.jpeg
 hide: yes
 hidefromtoc: yes

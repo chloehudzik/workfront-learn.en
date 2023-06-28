@@ -8,7 +8,7 @@ team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
 thumbnail: 335070.png
-kt: 8758
+jira: KT-8758
 exl-id: b7f8ccb5-457f-4d89-bb57-5d9d6e169191
 doc-type: video
 ---

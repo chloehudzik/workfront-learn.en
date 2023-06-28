@@ -5,7 +5,7 @@ feature: Workfront Proof
 type: Tutorial
 role: User
 level: Beginner
-kt: 10160
+jira: KT-10160
 exl-id: 07575429-3d34-4cbf-8a35-d75dc912245a
 ---
 # Proofing viewers explained

@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: Workfront Scenario Planner
 role: Admin, Leader, User
 level: Beginner
-kt: 10924
+jira: KT-10924
 exl-id: f9dafebf-efb0-4c40-b98d-540a92e931a7
 ---
 # Best Practice - Scenario Planner

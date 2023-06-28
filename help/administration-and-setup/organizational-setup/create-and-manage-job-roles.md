@@ -7,7 +7,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Beginner
-kt: 12448
+jira: KT-12448
 doc-type: video
 last-substantial-update: 2023-03-27
 exl-id: ac72827b-6a65-473a-a5ac-7d0771230d63

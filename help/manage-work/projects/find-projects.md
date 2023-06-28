@@ -8,13 +8,13 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8716,8717,8718,8719
+jira: KT-8716, KT-8717, KT-8718, KT-8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
 ---
 # Find your projects
 
-Workfront can’t manage your projects for you, but it can give you the visibility you need into the work that’s being done. [!DNL Workfront] makes it easier for you to monitor work progress, communicate with your team, make timeline adjustments, and more.
+Workfront can't manage your projects for you, but it can give you the visibility you need into the work that's being done. [!DNL Workfront] makes it easier for you to monitor work progress, communicate with your team, make timeline adjustments, and more.
 
 <!---
 In this section, you will learn how to:
@@ -37,13 +37,13 @@ You can quickly find a recent project--and other objects--by clicking the [!UICO
 
 ## Pin a project
 
-As you’re working on a project, make it easy to find by pinning it to the menu bar so you can open it with a single click.
+As you're working on a project, make it easy to find by pinning it to the menu bar so you can open it with a single click.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335038/?quality=12&learn=on)
 
 ## Favorite a project
 
-If you are managing multiple projects, you might want to make them “favorites” by clicking the star icon. Then you can find your list under the [!UICONTROL Favorites] icon in the main menu bar.
+If you are managing multiple projects, you might want to make them "favorites" by clicking the star icon. Then you can find your list under the [!UICONTROL Favorites] icon in the main menu bar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335039/?quality=12&learn=on)
 

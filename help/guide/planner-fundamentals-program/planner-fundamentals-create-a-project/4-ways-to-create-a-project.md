@@ -4,7 +4,7 @@ description:  In this video, learn how to create a project from a template, crea
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 ---
 # 4 Ways to create a project
 

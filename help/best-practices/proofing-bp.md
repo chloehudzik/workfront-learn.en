@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: Workfront Proof
 role: Admin, Leader, User
 level: Beginner
-kt: 10920
+jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
 ---
 # Best Practice - Proofing

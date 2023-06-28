@@ -8,7 +8,7 @@ level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
 thumbnail: exportform.png
-kt: 10059
+jira: KT-10059
 exl-id: aeef197e-1d8c-43a9-8580-0c83d8027a3f
 ---
 # Export a custom form as a PDF

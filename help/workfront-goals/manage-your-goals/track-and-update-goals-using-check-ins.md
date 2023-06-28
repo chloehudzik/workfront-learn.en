@@ -7,7 +7,7 @@ feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
-kt: 10126
+jira: KT-10126
 exl-id: acb6670a-486a-4d88-b422-57ed21833f76
 ---
 # Track and update goals using [!UICONTROL Check-ins]

@@ -7,7 +7,7 @@ feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
-kt: 10106
+jira: KT-10106
 exl-id: bd0a6498-2cac-49b1-85d1-e6fc2a7ab07c
 ---
 # Add a [!UICONTROL Workfront DAM] link in [!DNL Workfront]

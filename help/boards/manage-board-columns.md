@@ -5,7 +5,7 @@ feature: Agile
 activity: deploy
 type: Tutorial
 team: Technical Marketing
-kt: 10807
+jira: KT-10807
 role: User, Leader
 level: Beginner
 exl-id: 50a1b0f4-1857-43cf-a8ae-1ebb2344afa0

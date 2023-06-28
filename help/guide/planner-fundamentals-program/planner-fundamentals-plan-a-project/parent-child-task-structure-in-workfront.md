@@ -5,7 +5,7 @@ topics:
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 ---
 # Parent-child task structure in Workfront
 

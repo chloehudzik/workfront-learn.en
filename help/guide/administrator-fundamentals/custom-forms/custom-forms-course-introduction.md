@@ -5,7 +5,7 @@ topic:
 activity: use
 doc-type: intro video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: User, Admin
 ---
 # Custom forms course introduction

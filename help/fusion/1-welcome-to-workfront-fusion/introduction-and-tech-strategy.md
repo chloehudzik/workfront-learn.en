@@ -8,7 +8,7 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 last-substantial-update: 2023-06-08
-kt: 8999
+jira: KT-8999
 exl-id: 7ca27805-5ca8-4f62-b691-cbdd6a791060
 doc-type: video
 ---

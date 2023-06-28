@@ -7,7 +7,7 @@ feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
-kt: 10124
+jira: KT-10124
 exl-id: 3e5751b8-2547-42c5-bcb7-d312d31271d5
 ---
 # Remove goal alignment

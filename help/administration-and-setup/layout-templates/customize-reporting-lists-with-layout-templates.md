@@ -8,7 +8,7 @@ role: Admin
 level: Intermediate
 type: Tutorial
 thumbnail: 335079.png
-kt: 8765
+jira: KT-8765
 exl-id: 00653fc8-0d12-49de-995a-6068d3fb7a2d
 doc-type: video
 ---

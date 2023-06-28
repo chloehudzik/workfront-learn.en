@@ -7,7 +7,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10031
+jira: KT-10031
 exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
 ---
 # Understand default issue statuses

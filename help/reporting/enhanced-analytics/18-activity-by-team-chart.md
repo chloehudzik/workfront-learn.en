@@ -8,7 +8,7 @@ thumbnail: understand-the-activity-by-team-chart.png
 type: Tutorial
 role: User
 level: Beginner
-kt: 10045
+jira: KT-10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
 ---
 # Understand the activity by team chart in [!UICONTROL Enhanced Analytics]

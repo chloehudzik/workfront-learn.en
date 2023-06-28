@@ -4,7 +4,7 @@ description: Learn how to create a Kanban team and determine settings for the te
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10881
+jira: KT-10881
 thumbnail: create-kanban-team.png
 exl-id: 01573905-514d-4df6-b2b6-1c92585e56fc
 ---

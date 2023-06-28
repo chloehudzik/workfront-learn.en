@@ -4,7 +4,7 @@ description:  In this video, learn how to edit existing tasks, ways to add and d
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 ---
 # Work with tasks in a project
 

@@ -8,7 +8,7 @@ thumbnail: understand-planned-hours-and-duration-views.png
 type: Tutorial
 role: User
 level: Beginner
-kt: 10044
+jira: KT-10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
 ---
 # Understand planned hours and duration views in [!UICONTROL Enhanced Analytics]

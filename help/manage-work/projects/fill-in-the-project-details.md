@@ -8,7 +8,7 @@ thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10140
+jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
 ---
 # Fill in the project details

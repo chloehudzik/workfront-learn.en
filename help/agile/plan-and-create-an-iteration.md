@@ -4,7 +4,7 @@ description: Learn how to create a new iteration and check/uncheck stories for a
 feature: Agile
 role: Admin, User
 level: Intermediate
-kt: 10874
+jira: KT-10874
 thumbnail: 346284.jpeg
 exl-id: 338ce8aa-3dec-43d2-92e2-2e48e6e65947
 doc-type: video

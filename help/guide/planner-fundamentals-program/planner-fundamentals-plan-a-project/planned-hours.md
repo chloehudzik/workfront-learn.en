@@ -4,7 +4,7 @@ description:  In this video, learn what planned hours are in Workfront, why plan
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 ---
 # Planned hours
 

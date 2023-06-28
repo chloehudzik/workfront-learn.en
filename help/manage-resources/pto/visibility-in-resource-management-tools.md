@@ -7,7 +7,7 @@ role: Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
-kt: 10184
+jira: KT-10184
 exl-id: 3818c7fb-b820-4002-bf49-9c79c9f0afb2
 ---
 # Visibility in resource management tools

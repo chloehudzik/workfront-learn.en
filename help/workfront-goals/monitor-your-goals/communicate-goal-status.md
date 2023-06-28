@@ -7,7 +7,7 @@ feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
-kt: 10120
+jira: KT-10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
 ---
 # Communicate goal status

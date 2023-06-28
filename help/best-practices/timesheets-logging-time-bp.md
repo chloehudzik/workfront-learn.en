@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: Get Started with Workfront
 role: Admin, Leader, User
 level: Beginner
-kt: 10930
+jira: KT-10930
 exl-id: 15457411-fd4a-4348-892a-2fb08a079a35
 ---
 # Best Practice - Timesheets and logging time

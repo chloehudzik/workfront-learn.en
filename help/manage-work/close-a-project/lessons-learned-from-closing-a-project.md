@@ -8,7 +8,7 @@ thumbnail: lessons-learned-from-closing-a-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10135
+jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 ---
 # Record lessons learned

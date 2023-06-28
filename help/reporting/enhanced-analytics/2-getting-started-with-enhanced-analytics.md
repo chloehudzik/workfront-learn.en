@@ -8,7 +8,7 @@ thumbnail: analytics-prerequisites.png
 type: Tutorial
 role: User
 level: Beginner
-kt: 10027
+jira: KT-10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 ---
 # Get started with Adobe Workfront [!UICONTROL Enhanced Analytics]

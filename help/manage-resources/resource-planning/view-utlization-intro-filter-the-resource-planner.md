@@ -8,7 +8,7 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: view-utilization.png
-kt: 10187
+jira: KT-10187
 exl-id: b54b9ae2-e0b0-4118-9302-9a6e2b613e36
 ---
 # View utillization and filter the Resource Planner

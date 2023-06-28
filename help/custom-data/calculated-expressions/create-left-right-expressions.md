@@ -8,7 +8,7 @@ level: Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335179.png
-kt: 8885
+jira: KT-8885
 exl-id: 6d0ad842-e354-465c-8b9c-88eb75d47fbc
 doc-type: video
 ---

@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 last-substantial-update: 2023-05-11
-kt: 10144
+jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
 ---
 # Understand the [!UICONTROL Gantt] view

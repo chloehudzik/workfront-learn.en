@@ -7,7 +7,7 @@ feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
-kt: 10107
+jira: KT-10107
 exl-id: ad5a19a7-556a-4b38-9cc4-7e29e5afe1de
 ---
 # Metadata and keyword best practices

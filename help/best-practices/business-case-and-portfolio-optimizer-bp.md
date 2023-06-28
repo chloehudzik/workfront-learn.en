@@ -4,7 +4,7 @@ description: Before switching over to an agile methodology, look over a few piec
 feature: Strategic Planning
 role: Admin, Leader, User
 level: Beginner
-kt: 10904
+jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
 ---
 # Best Practice - Business Case and Portfolio Optimizer

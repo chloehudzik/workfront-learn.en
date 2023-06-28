@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: Strategic Planning
 role: Admin, Leader, User
 level: Beginner
-kt: 10916
+jira: KT-10916
 exl-id: a5aabc2b-4b7a-4bf4-882e-f9d939130ec0
 ---
 # Best Practice - Portfolios and programs

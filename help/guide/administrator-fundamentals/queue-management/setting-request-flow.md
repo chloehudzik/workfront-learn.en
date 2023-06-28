@@ -5,7 +5,7 @@ topic:
 activity: delpoy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
 ---
 # Setting request flow

@@ -7,7 +7,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10020
+jira: KT-10020
 exl-id: a5a9280b-0d48-413d-92de-f6a949e6b210
 ---
 # Create and manage issue severities

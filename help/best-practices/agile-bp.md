@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: Agile
 role: Admin, Leader, User
 level: Beginner
-kt: 10901
+jira: KT-10901
 exl-id: c0c05fb4-a61b-41bd-b994-b23571c78788
 ---
 # Best Practice - Agile

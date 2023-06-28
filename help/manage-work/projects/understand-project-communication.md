@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 last-substantial-update: 2023-05-05
-kt: 10147
+jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 ---
 # Understand project communication

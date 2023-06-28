@@ -7,7 +7,7 @@ feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
-kt: 10089
+jira: KT-10089
 exl-id: e056a9fc-31a2-4e96-9874-dcdd23377d53
 ---
 # Establish system settings in [!UICONTROL Brand Connect]

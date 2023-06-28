@@ -8,7 +8,7 @@ thumbnail: understand-date-ranges-and-timeframes.png
 type: Tutorial
 role: User
 level: Beginner
-kt: 10043
+jira: KT-10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 ---
 # Understand date ranges and timeframes in [!UICONTROL Enhanced Analytics]

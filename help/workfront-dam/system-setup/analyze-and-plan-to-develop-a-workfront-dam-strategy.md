@@ -7,7 +7,7 @@ feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
-kt: 10086
+jira: KT-10086
 exl-id: f2132b79-5d36-4f5a-b06b-9cefa3d2ff7f
 ---
 # Analyze and plan to develop a [!UICONTROL Workfront DAM] strategy

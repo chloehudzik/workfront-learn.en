@@ -8,7 +8,7 @@ type: Tutorial
 role: User, Admin
 level: Intermediate
 thumbnail: create-template-groups.png
-kt: 10232
+jira: KT-10232
 exl-id: 248cba16-fa88-44e1-a3d5-e763783d965d
 ---
 # Create template groups to organize automated workflow templates

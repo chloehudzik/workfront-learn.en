@@ -7,7 +7,7 @@ type: Tutorial
 role: User
 level: Intermediate
 last-substantial-update: 2023-05-15
-kt: 10151
+jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
 ---
 # Create tasks

@@ -8,7 +8,7 @@ team: Technical Marketing
 role: Admin
 level: Beginner
 thumbnail: 10100.jpeg
-kt: 10100
+jira: KT-10100
 exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
 ---
 # Restore objects from the Recycle Bin

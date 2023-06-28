@@ -5,7 +5,7 @@ topic:
 activity: deploy
 doc-type: intro video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
 ---
 # Project templates: Course introduction

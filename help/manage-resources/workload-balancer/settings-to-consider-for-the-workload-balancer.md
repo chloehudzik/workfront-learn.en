@@ -8,7 +8,7 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: settings-to-consider.png
-kt: 10189
+jira: KT-10189
 exl-id: d9cf1309-c994-4a4e-89e2-030b67e2f57d
 ---
 # Settings to consider for the Workload Balancer

@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
-kt: 10923
+jira: KT-10923
 exl-id: 374bf818-644d-4c3c-83e6-b50589423fb1
 ---
 # Best Practice - Resource pools

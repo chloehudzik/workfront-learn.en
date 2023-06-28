@@ -8,7 +8,7 @@ type: Tutorial
 role: User, Admin
 level: Intermediate
 thumbnail: report-on-proofs.png
-kt: 10233
+jira: KT-10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
 ---
 # Report on proofs

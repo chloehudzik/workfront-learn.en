@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 last-substantial-update: 2023-05-26
-kt: 10071
+jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
 ---
 # Manage issue assignments

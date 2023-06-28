@@ -7,7 +7,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10018
+jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
 ---
 # Configure global default issue preferences

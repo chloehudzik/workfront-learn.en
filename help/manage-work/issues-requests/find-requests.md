@@ -8,7 +8,7 @@ thumbnail: find-requests.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10143
+jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 ---
 # Find requests

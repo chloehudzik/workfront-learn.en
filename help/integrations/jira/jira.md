@@ -7,7 +7,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 10068
+jira: KT-10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
 ---
 # Create visibility with the [!DNL Jira] Integration

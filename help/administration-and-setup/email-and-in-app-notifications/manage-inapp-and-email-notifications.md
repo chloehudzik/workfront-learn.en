@@ -9,7 +9,7 @@ team: Technical Marketing
 role: Admin
 level: Beginner
 thumbnail: 10095.jpeg
-kt: 10095
+jira: KT-10095
 exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 ---
 # Manage in-app and email event notifications

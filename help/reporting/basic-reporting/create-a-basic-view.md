@@ -9,7 +9,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20
-kt: 8854
+jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 ---
@@ -81,3 +81,45 @@ Create a task view named "Milestone View" with the following columns:
 1. Click **[!UICONTROL Save]**.
 
 ![An image of a task list using a milestone view](assets/view-milestone-exercise-2.png)
+
+## Activity 3: Create a duration types and task constraints view
+
+This view will allow you to examine and edit all the durations types and task constraints in your project.
+
+Create a task view named "Duration types and task constraints view" with the following columns:
+
+* [!UICONTROL Task Name]
+* [!UICONTROL Assignments]
+* [!UICONTROL Duration]
+* [!UICONTROL Planned Duration]
+* [!UICONTROL Pln Hrs]
+* [!UICONTROL Predecessors]
+* [!UICONTROL Start On]
+* [!UICONTROL Due On]
+* [!UICONTROL Duration Type]
+* [!UICONTROL Task Constraint]
+* [!UICONTROL Constraint Date]
+
+Change the [!UICONTROL Field Format] on the [!UICONTROL Start On] and [!UICONTROL Due On] columns to display both the date and the time.
+
+## Activity 3 Answer
+
+![An image of the screen showing the duration types and task constraints view](assets/view-activity-3.png)
+
+1. In a project task list, go to the **[!UICONTROL View]** drop-down menu and select **[!UICONTROL New View]**.
+1. Name your view "Duration types and task constraints view."
+1. Remove the [!UICONTROL % Complete] column.
+1. Click **[!UICONTROL Add Column]**.
+1. In the [!UICONTROL Show in this column] field, type [!UICONTROL "duration"] then select [!UICONTROL "Planned Duration"] under the [!UICONTROL Task] field source.
+1. Move this column between the [!UICONTROL Duration] and the [!UICONTROL Pln Hrs] columns.
+1. Click **[!UICONTROL Add Column]** again.
+1. In the [!UICONTROL Show in this column] field, type [!UICONTROL "duration type"] then select [!UICONTROL "Duration Type"] under the [!UICONTROL Task] field source.
+1. Click **[!UICONTROL Add Column]** again.
+1. In the [!UICONTROL Show in this column] field, type [!UICONTROL "constraint"] then select [!UICONTROL "Task Constraint"] under the Task field source.
+1. Click **[!UICONTROL Add Column]** again.
+1. In the [!UICONTROL Show in this column] field, type [!UICONTROL "constraint"] then select [!UICONTROL "Constraint Date"] under the Task field source.
+1. Select the [!UICONTROL Start On] column, then click on [!UICONTROL Advanced Options].
+1. Under the [!UICONTROL Field Format] drop down select [!UICONTROL "10/17/60 3:00 AM"].
+1. Select the [!UICONTROL Due On] column, then click on [!UICONTROL Advanced Options].
+1. Under the [!UICONTROL Field Format] drop down select [!UICONTROL "10/17/60 3:00 AM"].
+1. Click **[!UICONTROL Save]**.

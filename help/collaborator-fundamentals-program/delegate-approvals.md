@@ -4,7 +4,7 @@ description: Learn how to delegate approvals for projects, tasks, issues, and ti
 activity: use
 type: Tutorial
 team: Technical Marketing
-kt: 8810
+jira: KT-8810
 doc-type: video
 ---
 # Delegate approvals from [!DNL Home]

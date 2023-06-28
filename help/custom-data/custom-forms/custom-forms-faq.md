@@ -7,7 +7,7 @@ role: Admin, Leader, User
 level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
-kt: 10058
+jira: KT-10058
 ---
 # Common questions about custom forms
 
