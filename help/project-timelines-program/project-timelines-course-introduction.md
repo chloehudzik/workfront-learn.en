@@ -7,7 +7,7 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8952
+jira: KT-8952
 doc-type: video
 ---
 # Project timelines: Course introduction

@@ -7,7 +7,7 @@ feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
-kt: 10119
+jira: KT-10119
 exl-id: fa7aba9b-503e-4fad-93ee-9b709a839e11
 ---
 # Calculate goal progress

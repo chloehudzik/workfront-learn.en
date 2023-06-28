@@ -8,7 +8,7 @@ thumbnail: understand-performance-metrics.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10065
+jira: KT-10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
 ---
 # Understand performance metrics

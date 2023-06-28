@@ -8,7 +8,7 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335131.png
-kt: 8831
+jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
 ---

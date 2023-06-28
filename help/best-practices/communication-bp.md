@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: Work Management
 role: Admin, Leader, User
 level: Beginner
-kt: 10905
+jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
 ---
 # Best Practice - Communication

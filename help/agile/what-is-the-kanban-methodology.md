@@ -4,7 +4,7 @@ description: Learn what the Kanban methodology is and how it works.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10891
+jira: KT-10891
 thumbnail: what-is-kanban.jpeg
 hide: yes
 hidefromtoc: yes

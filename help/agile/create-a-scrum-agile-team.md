@@ -4,7 +4,7 @@ description: Learn how to create an agile team, select the scrum methodology, an
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10871
+jira: KT-10871
 thumbnail: 346281.jpeg
 exl-id: 5fd50010-6aba-49af-9094-026b0569e0d8
 doc-type: video

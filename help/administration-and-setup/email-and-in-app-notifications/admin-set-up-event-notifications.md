@@ -8,7 +8,7 @@ team: Technical Marketing
 role: Admin
 level: Intermediate
 thumbnail: 10093.jpeg
-kt: 10093
+jira: KT-10093
 exl-id: 6bd3a777-0ed8-4383-ad8e-f1238e334e78
 ---
 <!---

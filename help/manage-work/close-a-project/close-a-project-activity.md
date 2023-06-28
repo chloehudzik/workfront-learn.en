@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
+jira: KT-null
 exl-id: ffbe2169-d475-4907-a78f-5c092b923900
 ---
 # Close a project activity

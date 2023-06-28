@@ -7,7 +7,7 @@ role: Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
-kt: 10182
+jira: KT-10182
 exl-id: 34058a8e-1a81-4833-b9e2-a9d3f2713efb
 ---
 # See time off when assigning tasks

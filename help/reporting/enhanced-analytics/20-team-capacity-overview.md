@@ -8,7 +8,7 @@ thumbnail: understand-team-capacity.png
 type: Tutorial
 role: User
 level: Beginner
-kt: 10047
+jira: KT-10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
 ---
 # Understand team capacity in [!UICONTROL Enhanced Analytics]

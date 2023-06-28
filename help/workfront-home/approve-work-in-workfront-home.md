@@ -7,7 +7,7 @@ role: User
 level: Beginner
 activity: use
 team: Technical Marketing
-kt: 8804
+jira: KT-8804
 exl-id: b5ec0919-01b1-4bc8-86bd-91ee73d925a6
 doc-type: video
 ---

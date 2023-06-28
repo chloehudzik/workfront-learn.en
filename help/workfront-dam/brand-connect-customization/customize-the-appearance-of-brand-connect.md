@@ -7,7 +7,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8980
+jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
 ---

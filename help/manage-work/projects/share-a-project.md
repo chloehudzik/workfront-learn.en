@@ -9,7 +9,7 @@ type: Tutorial
 role: User
 level: Intermediate
 last-substantial-update: 2023-05-02
-kt: 10148
+jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
 ---
 # Share a project

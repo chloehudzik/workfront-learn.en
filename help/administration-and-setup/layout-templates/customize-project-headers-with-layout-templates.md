@@ -8,7 +8,7 @@ role: Admin
 level: Intermediate
 type: Tutorial
 thumbnail: null
-kt: 11108
+jira: KT-11108
 doc-type: video
 exl-id: e70029ce-e30e-42c2-aed0-849403dfb5e7
 ---

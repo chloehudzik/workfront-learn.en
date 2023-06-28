@@ -8,7 +8,7 @@ team: Technical Marketing
 role: Admin
 level: Beginner
 thumbnail: 10104.jpeg
-kt: 10104
+jira: KT-10104
 exl-id: 7a29d9e9-6b19-4ca7-86ed-9fcb65050f29
 ---
 # Log in as another user

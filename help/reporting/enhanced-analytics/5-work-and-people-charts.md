@@ -8,7 +8,7 @@ thumbnail: understand-work-and-people-charts.png
 type: Tutorial
 role: User
 level: Beginner
-kt: 10028
+jira: KT-10028
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
 ---
 # Understand work and people charts in [!UICONTROL Enhanced Analytics]

@@ -8,7 +8,7 @@ thumbnail: set-up-task-revenue-and-cost-defaults.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10066
+jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
 ---
 # Set up task revenue & cost defaults

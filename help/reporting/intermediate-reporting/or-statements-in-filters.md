@@ -8,7 +8,7 @@ thumbnail: create-or-statements-in-filters.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 9987
+jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 ---
 # Create OR statements in filters

@@ -8,7 +8,7 @@ level: Beginner
 activity: use
 team: Technical Marketing
 thumbnail: 335102.png
-kt: 8801
+jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
 ---

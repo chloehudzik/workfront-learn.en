@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 11369
+jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 ---

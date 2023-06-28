@@ -5,7 +5,7 @@ topics: Project management
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 ---
 # Convert a request to a project
 

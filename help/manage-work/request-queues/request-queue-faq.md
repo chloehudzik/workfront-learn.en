@@ -5,7 +5,7 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
-kt: 10101
+jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 ---
 # Common questions about request queues

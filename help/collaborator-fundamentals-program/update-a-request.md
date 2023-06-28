@@ -4,7 +4,7 @@ description: Learn how to find the requests you've submitted and make an update 
 activity: use
 type: Tutorial
 team: Technical Marketing
-kt: 8807
+jira: KT-8807
 doc-type: video
 ---
 # Update a request

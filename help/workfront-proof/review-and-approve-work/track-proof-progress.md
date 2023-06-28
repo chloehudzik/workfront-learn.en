@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: track-proof-progress.png
-kt: 10111
+jira: KT-10111
 exl-id: 343483fe-487a-4a23-914d-2807a00630f9
 ---
 # Track proof progress

@@ -8,7 +8,7 @@ thumbnail: log-and-review-hours.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10136
+jira: KT-10136
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 ---
 # Log and review hours

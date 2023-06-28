@@ -7,7 +7,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8991
+jira: KT-8991
 doc-type: video
 ---
 # Contributor: welcome to [!UICONTROL Workfront DAM]

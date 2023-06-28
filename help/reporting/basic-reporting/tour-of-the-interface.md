@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: understand-the-calendar-interface.png
-kt: 10025
+jira: KT-10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
 ---
 # Understand the calendar interface

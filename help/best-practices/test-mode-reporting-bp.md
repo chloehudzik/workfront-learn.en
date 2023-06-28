@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: Reports and Dashboards
 role: Admin, Leader, User
 level: Beginner
-kt: 10928
+jira: KT-10928
 exl-id: c624545c-ba42-4cc3-aafe-8be15baadb75
 ---
 # Best Practice - Text mode reporting

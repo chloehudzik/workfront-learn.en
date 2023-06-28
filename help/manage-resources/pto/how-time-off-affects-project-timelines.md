@@ -7,7 +7,7 @@ role: Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
-kt: 10180
+jira: KT-10180
 exl-id: 0f79dd8d-b7ce-4ee9-b211-23c8ed5d497c
 ---
 # How time off affects project timelines

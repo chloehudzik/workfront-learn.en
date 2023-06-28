@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 9085
+jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
 ---

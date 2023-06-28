@@ -8,7 +8,7 @@ thumbnail: understand-financial-access.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10067
+jira: KT-10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
 ---
 # Understand financial access

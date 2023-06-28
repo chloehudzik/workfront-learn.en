@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
-kt: 10163
+jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
 ---
 # Combine multiple files into a single proof

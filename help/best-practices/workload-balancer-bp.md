@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
-kt: 10932
+jira: KT-10932
 exl-id: b0fbbfa7-0851-4a83-a933-742bfb02e7dd
 ---
 # Best Practice - Workload Balancer

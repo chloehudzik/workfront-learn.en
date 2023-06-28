@@ -7,7 +7,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10019
+jira: KT-10019
 exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
 ---
 # Create an issue status

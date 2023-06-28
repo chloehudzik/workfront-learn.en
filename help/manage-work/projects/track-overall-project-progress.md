@@ -8,7 +8,7 @@ thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10149
+jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
 ---
 # Track overall project progress

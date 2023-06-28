@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: Digital Content and Documents
 role: Admin, Leader, User
 level: Beginner
-kt: 10910
+jira: KT-10910
 exl-id: 0554b393-ca51-443c-97e9-98af017a0586
 ---
 # Best Practice - Documents

@@ -8,7 +8,7 @@ thumbnail: copy-an-existing-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10155
+jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 ---
 # Copy an existing project

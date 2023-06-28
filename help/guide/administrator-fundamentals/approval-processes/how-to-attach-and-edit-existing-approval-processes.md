@@ -5,7 +5,7 @@ topic:
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: User
 ---
 # How to attach and edit existing approval processes

@@ -7,7 +7,7 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11035
+jira: KT-11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 ---
 # Workfront Fusion training overview

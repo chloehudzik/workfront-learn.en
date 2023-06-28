@@ -5,7 +5,7 @@ feature: Agile
 activity: deploy
 type: Tutorial
 team: Technical Marketing
-kt: 10812
+jira: KT-10812
 role: User, Leader
 level: Beginner
 doc-type: video

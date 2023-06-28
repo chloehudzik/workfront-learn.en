@@ -8,7 +8,7 @@ team: Technical Marketing
 role: Admin
 level: Beginner
 thumbnail: 10034.jpeg
-kt: 10034
+jira: KT-10034
 exl-id: 3579de79-973b-4db9-a299-9fa1836d0467
 ---
 # Add users in bulk

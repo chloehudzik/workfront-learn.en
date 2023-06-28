@@ -8,7 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 doc-type: video
-kt: 8870
+jira: KT-8870
 exl-id: 037ec658-a7b7-44cd-a7af-b1923935f41c
 ---
 # Intro to Workftont Analytics

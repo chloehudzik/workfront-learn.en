@@ -6,7 +6,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 335098.png
-kt: Jira ticket
+jira: KT-Jira ticket
 ---
 # Find your work in Home
 

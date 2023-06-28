@@ -7,7 +7,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate
-kt: 10017
+jira: KT-10017
 exl-id: 138989b2-32d7-43e5-9660-d7b4172f232a
 ---
 # Understand group-specific approval processes

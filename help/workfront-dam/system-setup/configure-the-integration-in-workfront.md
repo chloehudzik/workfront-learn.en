@@ -7,7 +7,7 @@ feature: Digital Content and Documents
 type: Tutorial
 role: Admin
 level: Intermediate
-kt: 10087
+jira: KT-10087
 exl-id: ee9489a5-abe9-4a81-96bd-625c82189d3d
 ---
 # Configure the [!UICONTROL Workfront DAM] integration in Workfront

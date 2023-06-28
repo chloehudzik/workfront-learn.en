@@ -4,7 +4,7 @@ description: Learn how to read the iteration status bar, find and read the burnd
 feature: Agile
 role: Admin, User, Leader
 level: Intermediate
-kt: 10875
+jira: KT-10875
 thumbnail: 346285.jpeg
 exl-id: 9ad64b05-55d6-4ca4-a8f3-89a1c2c54f34
 doc-type: video

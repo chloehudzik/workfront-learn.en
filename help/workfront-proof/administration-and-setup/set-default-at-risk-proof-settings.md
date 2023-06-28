@@ -8,7 +8,7 @@ type: Tutorial
 role: User, Admin
 level: Intermediate
 thumbnail: set-default-at-risk-proof-settings.png
-kt: 10234
+jira: KT-10234
 exl-id: 1e99e434-9aa5-44e3-8496-76dd57bd2f91
 ---
 # Set default at risk proof settings

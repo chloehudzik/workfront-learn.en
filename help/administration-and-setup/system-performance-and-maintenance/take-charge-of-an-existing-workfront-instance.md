@@ -6,7 +6,7 @@ type: Tutorial
 role: Admin
 level: Beginner,Intermediate,Experienced
 activity: use
-kt: 11747
+jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24

@@ -7,7 +7,7 @@ role: Leader, User
 level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
-kt: 10186
+jira: KT-10186
 exl-id: 00b1ce6c-80a1-47b0-9b4c-33f5348994ec
 ---
 # Why use the time off calendar?

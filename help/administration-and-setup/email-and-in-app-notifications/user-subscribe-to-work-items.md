@@ -7,7 +7,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin, Leader, User
 level: Beginner
-kt: 10098
+jira: KT-10098
 exl-id: afc02878-e72e-4707-9a9b-94f1dc4694aa
 ---
 # Subscribe to work items

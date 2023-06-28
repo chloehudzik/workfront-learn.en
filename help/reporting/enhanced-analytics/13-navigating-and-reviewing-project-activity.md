@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8731
+jira: KT-8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
 ---

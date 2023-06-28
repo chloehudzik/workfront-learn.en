@@ -7,7 +7,7 @@ feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
-kt: 10117
+jira: KT-10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
 ---
 # Activate by aligning a goal to another in [!DNL Workfront Goals]

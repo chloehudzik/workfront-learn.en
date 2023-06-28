@@ -8,7 +8,7 @@ team: Technical Marketing
 role: Admin
 level: Beginner
 thumbnail: 10036.jpeg
-kt: 10036
+jira: KT-10036
 exl-id: 91ac3283-c2ad-493e-869c-9cfccfae35dd
 ---
 # Create an individual user profile

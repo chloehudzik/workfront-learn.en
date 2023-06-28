@@ -7,7 +7,7 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11055
+jira: KT-11055
 thumbnail: KT11055.png
 exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
 ---

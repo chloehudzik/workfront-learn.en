@@ -4,7 +4,7 @@ description: Learn how to manage work and your team through the Kanban teams pag
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10888
+jira: KT-10888
 thumbnail: manage-work-kanban.png
 exl-id: 05656ae0-46b2-4034-ac25-d936090d134c
 ---

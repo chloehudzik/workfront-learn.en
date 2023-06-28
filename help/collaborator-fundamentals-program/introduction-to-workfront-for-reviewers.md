@@ -4,7 +4,7 @@ description: Learn how users with a Review license can use [!DNL  Workfront].
 activity: use
 type: Tutorial
 team: Technical Marketing
-kt: 8805
+jira: KT-8805
 doc-type: video
 ---
 # Introduction to [!DNL Workfront] for Reviewers

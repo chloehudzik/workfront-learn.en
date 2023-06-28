@@ -5,7 +5,7 @@ feature: Workfront Proof
 type: Tutorial
 role: User, Admin
 level: Intermediate
-kt: 10164
+jira: KT-10164
 exl-id: f480db0a-0b78-41d1-bf99-634c6845f277
 ---
 # Create multi-stage proof workflows

@@ -7,7 +7,7 @@ type: Tutorial
 role: User, Admin
 level: Beginner, Intermediate
 team: Technical Marketing
-kt: 8825
+jira: KT-8825
 exl-id: 51cc65eb-2ac8-4de5-88d1-67c1556432ba
 doc-type: video
 ---

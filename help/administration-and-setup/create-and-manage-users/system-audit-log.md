@@ -8,7 +8,7 @@ team: Technical Marketing
 role: Admin
 level: Beginner, Intermediate
 thumbnail: 10040.jpeg
-kt: 10040
+jira: KT-10040
 exl-id: 9de6fd40-10fb-47a6-b186-3a38c411f1ac
 ---
 # Understand the system audit log

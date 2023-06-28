@@ -8,7 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
-kt: 8862
+jira: KT-8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
 ---

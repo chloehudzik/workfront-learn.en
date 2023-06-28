@@ -8,7 +8,7 @@ thumbnail: convert-issues-to-other-work-items.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10069
+jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
 ---
 # Convert issues to other work items

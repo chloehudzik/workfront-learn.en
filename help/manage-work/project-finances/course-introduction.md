@@ -7,7 +7,7 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8947 
+jira: KT-8947 
 doc-type: video
 ---
 # Course introduction

@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: Get Started with Workfront
 role: Admin, Leader, User
 level: Beginner
-kt: 10929
+jira: KT-10929
 exl-id: 8c18746d-e23a-44d0-b1e3-ebf5ba8d022f
 ---
 # Best Practice - Timeline planning and management

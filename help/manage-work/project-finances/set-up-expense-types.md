@@ -8,7 +8,7 @@ thumbnail: set-up-expense-types.png
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10064
+jira: KT-10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
 ---
 # Set up expense types

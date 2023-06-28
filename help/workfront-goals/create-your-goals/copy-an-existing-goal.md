@@ -7,7 +7,7 @@ feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
-kt: 10121
+jira: KT-10121
 exl-id: bf9ac10a-8419-458b-b4e8-bedb0ad3b98f
 ---
 # Copy an Existing Goal

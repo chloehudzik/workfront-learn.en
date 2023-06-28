@@ -4,7 +4,7 @@ description: Explore best practice recommendations from Adobe Workfront experts 
 feature: Resource Management
 role: Admin, Leader, User
 level: Beginner
-kt: 10921
+jira: KT-10921
 exl-id: dbb961f9-c207-49f1-9545-ec127f983c15
 ---
 # Best Practice - Request queues

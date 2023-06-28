@@ -7,7 +7,7 @@ type: Tutorial
 team: Technical Marketing
 role: Admin
 level: Intermediate, Experienced
-kt: 10030
+jira: KT-10030
 exl-id: c8f5677f-8d9d-4d1a-a1e3-d1a438878213
 ---
 # Customize system-wide statuses

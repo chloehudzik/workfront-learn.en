@@ -8,7 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
-kt: 10023
+jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
 ---
 # Understand additional calendar options

@@ -4,7 +4,7 @@ description: Learn the benefits of using an agile methodology.
 feature: Agile
 role: Admin, Leader, User
 level: Intermediate
-kt: 10889
+jira: KT-10889
 thumbnail: benefits-of-agile.png
 hide: yes
 hidefromtoc: yes

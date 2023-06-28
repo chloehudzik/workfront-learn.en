@@ -7,7 +7,7 @@ feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10152
+jira: KT-10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
 ---
 # Plan a project - review

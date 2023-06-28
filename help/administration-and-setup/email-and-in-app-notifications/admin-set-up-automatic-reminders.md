@@ -8,7 +8,7 @@ team: Technical Marketing
 role: Admin
 level: Intermediate
 thumbnail: setupautoreminds.png
-kt: 10092
+jira: KT-10092
 exl-id: 69d5b383-af3a-4414-92fe-32c8cf869d25
 ---
 <!---

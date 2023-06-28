@@ -8,7 +8,7 @@ activity: deploy
 type: Tutorial
 team: Technical Marketing
 thumbnail: 335071.png
-kt: 8762
+jira: KT-8762
 exl-id: 2a8e6306-36e2-4058-b9ab-e3fb37e6cfe3
 doc-type: video
 ---

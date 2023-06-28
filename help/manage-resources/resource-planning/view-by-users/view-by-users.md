@@ -8,7 +8,7 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335168.jpeg
-kt: 8880
+jira: KT-8880
 exl-id: 336f8ba9-d8d2-410a-b010-49981db00d89
 doc-type: video
 ---

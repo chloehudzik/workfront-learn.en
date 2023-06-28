@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Experienced
 team: Technical Marketing
-kt: 11198
+jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
 ---
 # Welcome to advanced reporting
