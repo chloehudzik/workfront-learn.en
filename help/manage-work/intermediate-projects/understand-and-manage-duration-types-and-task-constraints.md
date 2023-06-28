@@ -10,7 +10,6 @@ activity: deploy
 team: Technical Marketing
 last-substantial-update: 2023-06-27
 jira: KT-13530
-exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
 ---
 # Understand and manage duration types and task constraints
