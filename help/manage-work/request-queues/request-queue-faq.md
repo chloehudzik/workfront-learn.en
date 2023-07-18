@@ -5,6 +5,7 @@ feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
+last-substantial-update: 2023-07-18
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
 ---
@@ -30,7 +31,9 @@ Check out this article for more information: [Convert issues](https://experience
 
 **Where do I find a request queue to make edits?**
 
-You can either use the [!UICONTROL Search] field in the navigation bar or find it listed in the [!UICONTROL Projects] area.
+You can use the [!UICONTROL Search] field in the navigation bar or find it listed in the [!UICONTROL Projects] area.
+
+If you open a request from the request queue you can clcik on the project name in the breadcrumbs area.
 
 **Can I transfer the information from a request custom form to a project?**
 
@@ -38,4 +41,10 @@ Yes. This involves creating a custom form and selecting both [!UICONTROL Issue] 
 
 **I'm looking at a project or task report. How can I find out what request this object originated from?**
 
-You can leverage the **[!UICONTROL Converted Issue Originator]** field source to add that information to your project and task reports.
+You can access fields in the **[!UICONTROL Converted Issue]** and the **[!UICONTROL Converted Issue Originator]** field sources to add that information to your project and task reports.
+
+**What's the best way to filter for request queues in a report?**
+
+If your project filter includes **Queue>>Is Public>>Equal>>None** your report will show only projects that are **NOT** request queues.
+
+If your project filter includes **Queue>>Is Public>>Not Equal>>None** your report will show only projects that **ARE** request queues.
