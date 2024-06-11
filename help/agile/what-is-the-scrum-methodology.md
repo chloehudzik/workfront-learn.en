@@ -12,7 +12,7 @@ exl-id: 6c3a1ffd-4e1e-4133-a354-0b05ca777cf8
 ---
 # What is the Scrum methodology and how does it work?
 
-The Scrum methdology encompases the flexibility model but differs from other methdologies in that it has defined roles for those who are part of the team -- such as Product Owner, Scum Master, etc. -- and defined practices to define and complete work.
+The Scrum methdology encompases the flexibility model but differs from other methdologies in that it has defined roles for those who are part of the team -- such as Product Owner, Scrum Master, etc. -- and defined practices to define and complete work.
 
 ## Scrum team overview
 
